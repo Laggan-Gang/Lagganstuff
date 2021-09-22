@@ -15,8 +15,8 @@ const animate = () => {
     if(current.x - target.x < 0.0001) { current.x = target.x }
     current.y = current.y * speedI + target.y * speed
     if(current.y - target.y < 0.0001) { current.y = target.y }
-    foo.backgroundPositionX = current.x + "px";
-    foo.backgroundPositionY = current.y + "px";
+    foo.backgroundPositionX = current.x + "px"
+    foo.backgroundPositionY = current.y + "px"
     if (current.x == target.x && current.y == target.y) {
         raf = false
     } else {
@@ -43,4 +43,4 @@ const para = (e) => {
         console.log(e.x, e.y)
     }
 }
-document.body.addEventListener("mousemove", para);
+document.body.addEventListener("mousemove", para)
