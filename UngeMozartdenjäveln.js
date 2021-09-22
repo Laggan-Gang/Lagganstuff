@@ -3,6 +3,7 @@
 const target = { x: 0, y: 0 }
 const current = { x: 0, y: 0 }
 const max = { x: 0, y: 0 }
+const maxValue = { x: 0, y: 0 }
 const distanceOffset = maxDistance * 0.5
 const speed = 0.05
 const speedI = 1 - speed
@@ -27,6 +28,14 @@ const onresize = () => {
     const rect = document.body.getBoundingClientRect()
     max.x = rect.width
     max.y = rect.height
+    if(rect.width > rect.height) {
+        maxValue.x = maxDistance * (rect.height/rect.width)
+        maxValue.y = maxDistance
+    } else {
+        maxValue.x = maxDistance
+        maxValue.y = maxDistance * (rect.width/rect.height) 
+
+    }
     console.log("resize", max)
 }
 onresize()
@@ -34,8 +43,8 @@ window.addEventListener("resize", onresize)
 const para = (e) => {
     if (!debounce) {
         debounce = true
-        target.x = (e.x / max.x) * maxDistance - maxDistance
-        target.y = (e.y / max.y) * maxDistance - maxDistance
+        target.x = (e.x / max.x) * maxValue.x - maxValue.x
+        target.y = (e.y / max.y) * maxValue.y - maxValue.y
         if (!raf) {
             raf = true
             requestAnimationFrame(animate)
