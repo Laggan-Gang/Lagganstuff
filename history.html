@@ -1,49 +1,125 @@
 <!DOCTYPE html>
-<html>
-     <head>
-          <title>SECRETS</title>
+<html lang="sjn">
+
+<head>
+	<meta charset="UTF-8">
+	<title>SECRETS</title>
 	<style>
-	Body  
-	{  
-	color:white;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
-	font-zice: large;
-	background-color: black;
-	background-image: url("wolfshirt.jpg")
-	} 
+		Body {
+			color: white;
+			font-family: "Comic Mono", "Comic Sans MS", "Comic Sans", cursive;
+			background-color: black;
+			background-image: url("wolfshirt.jpg")
+		}
+
+		pre {
+			font-family: "Comic Mono";
+		}
+
+
+		.marquee {
+			display: block;
+
+			margin: 0 auto 5px;
+			box-sizing: border-box;
+			overflow: hidden;
+		}
+
+		.marquee > div {
+			display: inline-block;
+			width: max-content;
+			padding-left: 100%;
+
+			will-change: transform;
+			animation-timing-function: linear;
+			animation-name: marquee;
+			animation-iteration-count: infinite;
+			animation-delay: 0s;
+			/* animation-fill-mode: backwards; */
+		}
+		.marquee > div:hover {
+			animation-play-state: paused;
+		}
+		@keyframes marquee {
+			0% { transform: translate(0, 0); }
+			100% { transform: translate(-100%, 0); }
+		}
+
+		.marquee:nth-child(2n+1) div {
+			animation-direction: reverse;
+		}
+		.marquee:nth-child(5n+1) div {
+			animation-direction: alternate;
+		}
 	</style>
-     </head>
-     <body>
-<a href ="index.html"><span style="color:white;"><u>Back to Index.html</u></span></a>
-<pre>
-<center>
-<h1>History</h>
-<p>Previously, people have competed. These are results.</p>
-</center><marquee><b><u><i>LAGGAN NEWS:</b></u></i>
-<u>29/5/2021</u>: Lag-Gan wins the Sonic Robo Blast 2 Kart sport. @Naone is plagued with the Goblinscourge. 
-<u>5/6/2021</u>: Lag-Gan wins the Ace of Spades sport. Burying intelligence is looked down upon.
-<u>18/6/2021</u>: The first (of many) draws as a result of "unclear" ruleset in the Zero-K sport. @Tod the cunning and wise made an unwise decision regarding zombies.
-<u>3/7/2021</u>: Lag-Lag scores their first real win in the Empty Epsilon sport. A very clever goblin-based-alternate-reality-game is played. @Naone recovers. 
-<u>17/7/2021</u>: Lag-Gan wins at Barotrauma. @Makeep sees fit to fudge the rule of democracy a little bit. A commendable decision.
-<u>31/7/2021</u>: The first ever <b><i><u>Septogame - The Seating of Septothrone</b></i></u> is held. I don't remember all the details, but just like before there's some weird judge ruling. Sonic Robo Blast 2 Kart, Ace of Spades, Not-Hockey Questionmark and finally Killer Queen Black might have been the games. Gamecubes are spent and forgotten. A jigsaw puzzle becomes the most appreciated game of the tournament. </marquee>
-<center><h1><img src="balloons.gif"></img>Lag-Gan won the first Internetional!<img src="balloons.gif"></img></h1>
-<p>Lag-Gan 2020 were:
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css">
+</head>
 
-Toste<img src="star.gif"></img> 
-Sara
-Joel
-Niklas
-Fredrik
-Chris
-Linus
-Max
-<img src="lag-gan.gif"></p></center>
+<body>
+	<a href="index.html" style="color:white;"><u>Back to Index.html</u></a>
+	<div style="text-align: center;">
+		<h1>History</h1>
+		<p>Previously, people have competed. These are results.</p>
+	</div>
+	<div>
+		<div class="marquee">
+			<div style="animation-duration: 6s; animation-delay: 1s;"><b><u><i>LAGGAN NEWS:</i></u></b></div>
+		</div>
+		<div class="marquee">
+			<div style="animation-duration: 16s; animation-delay: 2s;"><u>29/5/2021</u>: Lag-Gan wins the Sonic Robo Blast 2 Kart sport. @Naone is plagued with the Goblinscourge. </div>
+		</div>
+		<div class="marquee">
+			<div style="animation-duration: 16s; animation-delay: 3s;"><u>5/6/2021</u>: Lag-Gan wins the Ace of Spades sport. Burying intelligence is looked down upon.
+			</div>
+		</div>
+		<div class="marquee">
+			<div style="animation-duration: 36s; animation-delay: 4s;"><u>18/6/2021</u>: The first (of many) draws as a result of "unclear" ruleset in the Zero-K sport. @Tod
+				the cunning and wise made an unwise decision regarding zombies.</div>
+		</div>
+		<div class="marquee">
+			<div style="animation-duration: 40s; animation-delay: 5s;"><u>3/7/2021</u>: Lag-Lag scores their first real win in the Empty Epsilon sport. A very clever
+				goblin-based-alternate-reality-game is played. @Naone recovers. </div>
+		</div>
+		<div class="marquee">
+			<div style="animation-duration: 40s; animation-delay: 6s;"><u>17/7/2021</u>: Lag-Gan wins at Barotrauma. @Makeep sees fit to fudge the rule of democracy a little
+				bit. A commendable decision.</div>
+		</div>
+		<div class="marquee">
+			<div style="animation-duration: 100s; animation-delay: 7s;"><u>31/7/2021</u>: The first ever <b><i><u>Septogame - The Seating of Septothrone</u></i></b> is held. I
+				don't remember all the details, but just like before there's some weird judge ruling. Sonic Robo Blast 2
+				Kart, Ace of Spades, Not-Hockey Questionmark and finally Killer Queen Black might have been the games.
+				Gamecubes are spent and forgotten. A jigsaw puzzle becomes the most appreciated game of the tournament.
+			</div>
+		</div>
+	</div>
+	<div style="text-align: center;">
+		<h1><img src="balloons.gif" alt="Ballonger" />Lag-Gan won the first Internetional!<img src="balloons.gif"
+				alt="Ballonger"></h1>
 
-They decided for Laggan to root for the Alliance, for the new bots to be named SyntHugo and Rob(bot).
-<center><img src="a.gif"></img></center>
+		<p>Lag-Gan 2020 were:</p>
 
+		<ul style="display: inline-block; margin: 0 auto;">
+			<li>Toste<img src="star.gif" alt="Guldstjärna" style="height: 1rem;" /></li>
+			<li>Sara</li>
+			<li>Joel</li>
+			<li>Niklas</li>
+			<li>Fredrik</li>
+			<li>Chris</li>
+			<li>Linus</li>
+			<li>Max</li>
+		</ul>
+		<br />
+		<br />
+		<br />
+		<img src="lag-gan.gif" alt="lag-gan team photo" />
+		<br />
+		<br />
+	</div>
+	They decided for Laggan to root for the Alliance, for the new bots to be named SyntHugo and Rob(bot).
+	<div style="text-align: center;">
+		<br />
+		<img src="a.gif" alt="Yung 😼 Niko - be like shark" />
+	</div>
+</body>
 
-</pre>
-</center>
-     </body>
 </html>
