@@ -1,0 +1,39 @@
+curse of the gobli scourge = #a6ff00
+Hot dog = A8 = e74c3c
+Cool cat = A3 = 3498db
+Ant person = A2 = 2ecc71
+:arthas: = A3 = 3498db
+BALANCED OS FROG????????????? = A7 = e67e22
+Rolig Färg = A2 = 2ecc71
+WILDCARD = A6 = f1c40f
+Fabrikör = A4 = 9b59b6
+Träsklover = B2 = 1f8b4c
+yapi-papi = B8 = 992d22
+GHOSTFACE KILLAH = B8 = 992d22
+rövpanna = A7 = e67e22
+skruven = 9c00ff
+admin = ffffff
+yapos = B1 = 11806a
+pugs = b1ffef
+gosi = 580074
+disc jockey = #ff60cc
+regndansare = A3 = 3498db
+STARBUX = 1a1919
+cowboy = B6 = c27c0e
+aporna = A4 = 9b59b6
+SMASHING = A1 = 1abc9c
+weebs = f573ff
+vovvarna = A2 = 2ecc71
+barabaras = B3 = 206694
+JORDENS FÖRSVARARE = A2 = 2ecc71
+SCROBBL3S = #ff00a7
+Hommies = A4 = 9b59b6
+Terrans = A3 = 3498db
+ROCKANDSTONE = A2 = 2ecc71
+slunga snorre = #eb6ebb
+onlyfans = #ff00b4
+"""The enforcer""" = B8 = 992d22
+OwOs = d57c02
+SPORTS = #ff0000
+MOONSLAM = A4 = 9b59b6
+queens = e67e22
