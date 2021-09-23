@@ -1,4 +1,3 @@
-"use strict";
 const [läggTillEventLyssnare, frågeVäljareAlla, bakgrundsPlatsX, bakgrundsPlatsY, bredd, höjd, sant, falskt, dokument, kropp, stil, fönster, begärAnimationsRuta, förVarje] = ["addEventListener", "querySelectorAll", "backgroundPositionX", "backgroundPositionY", "width", "height", true, false, document, document.body, "style", window, requestAnimationFrame, "forEach"]
 
 const mål = { x: 0, y: 0 }
@@ -53,13 +52,13 @@ const lyssnare = (e) => {
 kropp[läggTillEventLyssnare]("mousemove", lyssnare)
 
 const klämtill = (x, liten, stor) => Math.min(stor, Math.max(liten, x));
-const shuffle = (matris) => [...matris].sort(() => Math.random()*2-1)
+blanda = (matris) => [...matris].sort(() => Math.random()*2-1)
 const interpolera = (x, början, slutet) => (1-x) * början + x * slutet;
 const mjukare = (x, liten, stor, utjämnare) => interpolera(utjämnare(x), liten, stor)
 
 dokument[frågeVäljareAlla](".stjärna")[förVarje]((lillbabs) => {
     let x = 0;
-    let riktning = shuffle(["left", "right", "top", "bottom"])[0]
+    let riktning = blanda(["left", "right", "top", "bottom"])[0]
     let steg = mjukare(Math.random(), 1, 10, (x) => x*x*x);
     let sovstund = mjukare(Math.random(), 5000, 25000, a => a*a)
     const stjärnstoff = () => {
