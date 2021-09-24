@@ -57,11 +57,11 @@ påomskalning()
 fönster[läggTillHändelseSpanare](omskalning, påomskalning)
 
 sättVäntetid(() => {
-    kropp[läggTillHändelseSpanare](pekarförflyttning, (e) => {
+    kropp[läggTillHändelseSpanare](pekarförflyttning, (händelse) => {
     if (!avstudsare) {
         avstudsare = sant
-        mål.x = (e.x / alltsåNånslagsGränsFårDetVälVa.x) * störstaVärdet.x - störstaVärdet.x
-        mål.y = (e.y / alltsåNånslagsGränsFårDetVälVa.y) * störstaVärdet.y - störstaVärdet.y;
+        mål.x = (händelse.x / alltsåNånslagsGränsFårDetVälVa.x) * störstaVärdet.x - störstaVärdet.x
+        mål.y = (händelse.y / alltsåNånslagsGränsFårDetVälVa.y) * störstaVärdet.y - störstaVärdet.y;
         if (!animeras) {
             animeras = sant
             begärAnimationsRuta(rörPåDigDÅ)
