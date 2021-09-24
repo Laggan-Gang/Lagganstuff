@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html lang="tlh" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html lang="tlh" xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -7,15 +7,14 @@
 	<link rel="stylesheet" href="https://unpkg.com/sanitize.css" />
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css" />
 	<link rel="stylesheet" href="secrets.css" />
-	<style type="text/css">
-		body {
-			background-image: url("lagganwolf_background.png");
-			background-size: cover;
-		}
-	</style>
 </head>
 
 <body>
+	<img id="måne" src="lagganwolf_background.png" />
+	<img id="trädet" src="lagganwolf_tree.png" />
+	<img id="ylarn" src="lagganwolf_lone.png" />
+	<img id="toppvarg" src="lagganwolf_top.png" />
+	<img id="vänstervarg" src="lagganwolf_left.png" />
 	<pre style="text-align: center;">
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %*              ,/#&amp;@@@@@@@@@@&amp;(*.                                              *%
@@ -62,11 +61,19 @@
 
 	</p>
 	<p style="display: inline-block; position: fixed; bottom: 5px; right: 5px;">
-		<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml11"
+		<a href="https://validator.w3.org/check?uri=referer"><img src="https://www.w3.org/Icons/valid-xhtml11"
 				title="Valid XHTML 1.1" alt="Valid XHTML 1.1" height="31" width="88" /></a>
 	</p>
 	<script type="text/javascript">
-		störstaDistansen = 20
+		störstaDistansen = 60
+		avvakta = 5000
+		extraPara = [
+			[document.getElementById("trädet"), [["left", 4], ["bottom", -4]]],
+			[document.getElementById("ylarn"), [["right", -4], ["top", 2]]],
+			[document.getElementById("vänstervarg"), [["left", 2], ["top", 1.1]]],
+			[document.getElementById("toppvarg"), [["left", 1.3], ["top", 1.3]]],
+			[document.getElementById("måne"), [["left", 1], ["top", 1]]],
+		]
 	</script>
 	<script type="text/javascript" src="UngeMozartdenjäveln.js"></script>
 </body>
