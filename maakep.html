@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Maakep Gaming RMG Application Software</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@900&family=Rubik+Beastly&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/sanitize.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css" />
+    <link rel="stylesheet" href="secrets.css" />
+    <style>
+        Body {
+            color: white;
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            background-image: url("blue.jpg");
+        }
+
+        button {
+            color: rgba(246, 246, 246, 0.3);
+            font-family: 'Big Shoulders Stencil Display', cursive;
+            padding: 10px 10px;
+            text-align: center;
+            display: inline-block;
+            font-size: 32px;
+            background-color: rgba(0, 0, 0, 0.1);
+            transition-duration: 0.4s;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: rgba(246, 0, 0, 0.9);
+            color: black;
+        }
+
+        div {
+            width: 800px;
+        }
+
+        div.class_name {
+            word-wrap: normal;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="index.html"><span style="color:white;"><u>Back to Index.html</u></span></a>
+
+    <center>
+        <img src="maakep.png"></img>
+        <div>
+            <p><input type="text" id="ppl1" /></p>
+            <p><input type="text" id="ppl2" /></p>
+            <p><input type="text" id="ppl3" /></p>
+            <p><input type="text" id="ppl4" /></p>
+            <p><input type="text" id="ppl5" /></p>
+        </div>
+        <div>
+            <button id="btn" onclick="copy(), play()">Maakep Happen</button>
+        </div>
+        <script>
+            // Get reference to input HTML elements
+            const ppl1 = document.getElementById("ppl1");
+            const ppl2 = document.getElementById("ppl2");
+            const ppl3 = document.getElementById("ppl3");
+            const ppl4 = document.getElementById("ppl4");
+            const ppl5 = document.getElementById("ppl5");
+
+            // Set the previously copied/saved values (see localStorage.setItem in getPeople())
+            ppl1.value = localStorage.getItem("ppl1");
+            ppl2.value = localStorage.getItem("ppl2");
+            ppl3.value = localStorage.getItem("ppl3");
+            ppl4.value = localStorage.getItem("ppl4");
+            ppl5.value = localStorage.getItem("ppl5");
+
+            // Select the first input field, so user don't need to use mouse
+            ppl1.select();
+
+            // Loop through the array and switch places
+            // with a random position for every item in array
+            function shuffleArray(arr) {
+                const array = [...arr];
+                for (let i = array.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [array[i], array[j]] = [array[j], array[i]];
+                }
+                return array;
+            }
+
+            function getInputValues() {
+                // Get the values in the 5 input fields
+                const input1Value = ppl1.value;
+                const input2Value = ppl2.value;
+                const input3Value = ppl3.value;
+                const input4Value = ppl4.value;
+                const input5Value = ppl5.value;
+
+                // Save the 5 values for next time you visit the site
+                localStorage.setItem("ppl1", input1Value);
+                localStorage.setItem("ppl2", input2Value);
+                localStorage.setItem("ppl3", input3Value);
+                localStorage.setItem("ppl4", input4Value);
+                localStorage.setItem("ppl5", input5Value);
+
+                // Return the 5 values as an array
+                return [
+                    input1Value,
+                    input2Value,
+                    input3Value,
+                    input4Value,
+                    input5Value,
+                ];
+            }
+
+            function copy() {
+                var inputArray = getInputValues();
+                var shuffledInputs = shuffleArray(inputArray);
+                var stringifiedShuffle = shuffledInputs.join(" > ");
+
+                // Ctrl+C
+                navigator.clipboard.writeText(stringifiedShuffle);
+
+                // Give user some feedback that the shuffle+copy is done by
+                // changing the button text to "Copied!"
+                // then wait 1 second and turn it back to "Shuffle & copy"
+                const btn = document.getElementById("btn");
+                btn.innerText = "Oh Yeah";
+                setTimeout(() => {
+                    btn.innerText = "Maakep Happen";
+                }, 1000);
+            }
+
+            // If user clicks enter, do the same as the button click
+            document.addEventListener("keyup", function (e) {
+                if (e.keyCode === 13) {
+                    copy();
+                }
+            });
+
+            function play() {
+                var audio = document.getElementById("audio");
+                audio.play();
+            }
+        </script>
+        <audio id="audio" src="bow bow.mp3"></audio>
+        </script>
+    </center>
+</body>
+
+</html>
