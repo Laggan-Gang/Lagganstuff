@@ -1,4 +1,4 @@
-[läggTillHändelseSpanare, frågeVäljareAlla, bakgrundsPlatsX, bakgrundsPlatsY, bredd, höjd, sant, falskt, dokument, kropp, stil, fönster, begärAnimationsRuta, förVarje, hämtaGränsKlientFyrkant, omskalning, pekarförflyttning, Matte, sättVäntetid, sortera, slump, funktion, typav, om, avrunda, animering, ingen, absolut, notera, Matris, klicka, muterad, hämtaRadiatorEfterLegitimation, förminska, knuffa, skär, längd, barn, källa, ersätt, sökVäg, förläggning, klyv, sammanfoga, förena] = ["addEventListener", "querySelectorAll", "backgroundPositionX", "backgroundPositionY", "width", "height", true, false, document, "body", "style", window, requestAnimationFrame, "forEach", "getBoundingClientRect", "resize", "mousemove", Math, setTimeout, "sort", () => Matte.random(), "function", (variabel) => typeof variabel, (kanske, ja, nej = () => undefined) => (typeof kanske === funktion ? kanske() : kanske) ? ja() : nej(), (x) => Math.round(x), "animation", "none", (x) => Math.abs(x), (...data) => console.log(...data), Array, "click", "muted", i => document.getElementById(i), "reduce", "push", "slice", "length", "children", "src", "replace", "pathname", "location", "split", "concat", "join"]
+[läggTillHändelseSpanare, frågeVäljareAlla, bakgrundsPlatsX, bakgrundsPlatsY, bredd, höjd, sant, falskt, dokument, kropp, stil, fönster, begärAnimationsRuta, förVarje, hämtaGränsKlientFyrkant, omskalning, pekarförflyttning, Matte, sättVäntetid, sortera, slump, funktion, typav, om, avrunda, animering, ingen, absolut, notera, Matris, klicka, muterad, hämtaRadiatorEfterLegitimation, förminska, knuffa, skär, längd, barn, källa, ersätt, sökVäg, förläggning, klyv, sammanfoga, förena, vänster, höger, toppen, bottnen, tavelPlättar] = ["addEventListener", "querySelectorAll", "backgroundPositionX", "backgroundPositionY", "width", "height", true, false, document, "body", "style", window, requestAnimationFrame, "forEach", "getBoundingClientRect", "resize", "mousemove", Math, setTimeout, "sort", () => Matte.random(), "function", (variabel) => typeof variabel, (kanske, ja, nej = () => undefined) => (typeof kanske === funktion ? kanske() : kanske) ? ja() : nej(), (x) => Math.round(x), "animation", "none", (x) => Math.abs(x), (...data) => console.log(...data), Array, "click", "muted", i => document.getElementById(i), "reduce", "push", "slice", "length", "children", "src", "replace", "pathname", "location", "split", "concat", "join", "left", "right", "top", "bottom", "px"]
 
 
 
@@ -75,11 +75,11 @@ sättVäntetid(() => {
 
 dokument[frågeVäljareAlla](".stjärna")[förVarje]((lillbabs) => {
     x = 0;
-    riktning = blanda(["left", "right", "top", "bottom"])[0]
+    riktning = blanda([vänster, höger, toppen, bottnen])[0]
     steg = slumpa(1, 10, (x) => x * x * x);
     sovstund = slumpa(5000, 25000, a => a * a)
     stjärnstoff = () => {
-        lillbabs.style[riktning] = (x -= avrunda(slump() * steg + 1)) + "px";
+        lillbabs[stil][riktning] = (x -= avrunda(slump() * steg + 1)) + tavelPlättar;
         sättVäntetid(stjärnstoff, slump() * sovstund + 250);
     }
     sättVäntetid(stjärnstoff, slump() * 10000 + 5000)
