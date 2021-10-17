@@ -20,12 +20,27 @@
 </head>
 
 <body>
-<h1>YOU have been visited by the <span class="STRONK">LINA, THE SLAYER</span></h1>
-    <video controls autoplay="autoplay" muted loop>
+    <h1><text onclick="spela()" class="STRONK"><a>UNMUTE</a></text></h1>
+    <h1>YOU have been visited by the <span class="STRONK">LINA, THE SLAYER</span></h1>
+    <video controls autoplay="autoplay" muted loop id="video1">
         <source src="lina.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-<h1>UMNUTE and SHARE this webzone with THREE DUDES or ELSE<span class="STRONK">!</span></h1>
+    <h1>
+        SHARE this webzone with THREE DUDES or ELSE<span class="STRONK">!</span>
+    </h1>
+
+
+
+
+    <script>
+        var video = document.getElementById("video1");
+        function spela() {
+            if (video.muted) {
+                video.muted = false;
+            }
+        }
+    </script>
 
 
 </body>
