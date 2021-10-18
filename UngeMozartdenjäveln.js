@@ -1,4 +1,5 @@
-[läggTillHändelseSpanare, frågeVäljareAlla, bakgrundsPlatsX, bakgrundsPlatsY, bredd, höjd, sant, falskt, dokument, kropp, stil, fönster, begärAnimationsRuta, förVarje, hämtaGränsKlientFyrkant, omskalning, pekarförflyttning, Matte, sättVäntetid, sortera, slump, funktion, typav, om, avrunda, animering, ingen, absolut, notera, Matris, klicka, muterad, hämtaRadiatorEfterLegitimation, förminska, knuffa, skär, längd, barn, källa, ersätt, sökVäg, förläggning, klyv, sammanfoga, förena, vänster, höger, toppen, bottnen, tavelPlättar, invändigÖOPS, ÖverOrdalydelsePåläggSpråk, tillLagad] = ["addEventListener", "querySelectorAll", "backgroundPositionX", "backgroundPositionY", "width", "height", true, false, document, "body", "style", window, requestAnimationFrame, "forEach", "getBoundingClientRect", "resize", "mousemove", Math, setTimeout, "sort", () => Matte.random(), "function", (variabel) => typeof variabel, (kanske, ja, nej = () => undefined) => (typeof kanske === funktion ? kanske() : kanske) ? ja() : nej(), (x) => Math.round(x), "animation", "none", (x) => Math.abs(x), (...data) => console.log(...data), Array, "click", "muted", i => document.getElementById(i), "reduce", "push", "slice", "length", "children", "src", "replace", "pathname", "location", "split", "concat", "join", "left", "right", "top", "bottom", "px", "innerHTML", "html", "toFixed"]
+[läggTillHändelseSpanare, frågeVäljareAlla, bakgrundsPlatsX, bakgrundsPlatsY, bredd, höjd, sant, falskt, dokument, kropp, stil, fönster, begärAnimationsRuta, förVarje, hämtaGränsKlientFyrkant, omskalning, pekarförflyttning, Matte, sättVäntetid, sortera, slump, funktion, typav, om, avrunda, animering, ingen, absolut, notera, Matris, klicka, muterad, hämtaRadiatorEfterLegitimation, förminska, knuffa, skär, längd, barn, källa, ersätt, sökVäg, förläggning, klyv, sammanfoga, förena, vänster, höger, toppen, bottnen, tavelPlättar, invändigÖOPS, ÖverOrdalydelsePåläggSpråk, tillLagad, lokalLagring, hämtaFöremål, sättFöremål] = 
+["addEventListener", "querySelectorAll", "backgroundPositionX", "backgroundPositionY", "width", "height", true, false, document, "body", "style", window, requestAnimationFrame, "forEach", "getBoundingClientRect", "resize", "mousemove", Math, setTimeout, "sort", () => Matte.random(), "function", (variabel) => typeof variabel, (kanske, ja, nej = () => undefined) => (typeof kanske === funktion ? kanske() : kanske) ? ja() : nej(), (x) => Math.round(x), "animation", "none", (x) => Math.abs(x), (...data) => console.log(...data), Array, "click", "muted", i => document.getElementById(i), "reduce", "push", "slice", "length", "children", "src", "replace", "pathname", "location", "split", "concat", "join", "left", "right", "top", "bottom", "px", "innerHTML", "html", "toFixed", "localStorage", "getItem", "setItem"]
 ;[FÜR_ALLE] = ["forEach"]
 
 
@@ -31,6 +32,7 @@ hastighet = 0.01
 inverteradHastighet = 1 - hastighet;
 animeras = falskt
 avstudsare = falskt;
+kanAnimeras = fönster[lokalLagring][hämtaFöremål]('bidwin') !== "sant"
 sättVäntetid(() => {
     fä = dokument[kropp][stil]
     rörPåDigDÅ = () => {
@@ -65,7 +67,7 @@ sättVäntetid(() => {
             avstudsare = sant
             mål.x = (händelse.x / alltsåNånslagsGränsFårDetVälVa.x) * störstaVärdet.x - störstaVärdet.x
             mål.y = (händelse.y / alltsåNånslagsGränsFårDetVälVa.y) * störstaVärdet.y - störstaVärdet.y;
-            om(() => !animeras, () => {
+            om(() => !animeras && kanAnimeras, () => {
                 animeras = sant
                 begärAnimationsRuta(rörPåDigDÅ)
             })
