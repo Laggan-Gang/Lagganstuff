@@ -42,6 +42,15 @@
         if(dinLottILivet > 96) {
             filmen[källa] = filmen[källa][ersätt]("na", "nas")
         }
+        if(dinLottILivet >= 0 && dinLottILivet <= 10) {
+            filmen[källa] = filmen[källa][ersätt]("na", "naf")
+        }
+        if(dinLottILivet >= 11 && dinLottILivet <= 20) {
+            filmen[källa] = filmen[källa][ersätt]("na", "nap")
+        }
+        if(dinLottILivet == 69) {
+            filmen[källa] = filmen[källa][ersätt]("na", "nameno")
+        }
         notera(dinLottILivet)
     </script>
 
