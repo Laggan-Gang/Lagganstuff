@@ -17,7 +17,6 @@
             color: white;
             font-family: "Comic Sans MS", "Comic Sans", cursive;
             background-image: url("blue.jpg");
-            text-align: center;
         }
 
         button {
@@ -37,20 +36,22 @@
             color: black;
         }
 
-        div {
-            width: 800px;
-        }
-
         div.class_name {
             word-wrap: normal;
+        }
+
+        .content {
+            padding: 0 18px;
+            display: none;
+            overflow: hidden;
         }
     </style>
 </head>
 
 <body>
-    <a href="index.html"><span style="color:white;"><u>Back to Index.html</u></span></a>
+    <a href="index.html"><span style="color:white, text;"><u>Back to Index.html</u></span></a>
 
-    <center>
+    <div style="text-align: center;">
         <img src="maakep.png"></img>
         <div>
             <p><input type="text" id="ppl1" /></p>
@@ -59,8 +60,20 @@
             <p><input type="text" id="ppl4" /></p>
             <p><input type="text" id="ppl5" /></p>
         </div>
-        <div>
-            <button id="btn" onclick="copy(), play()">Maakep Happen</button>
+        <button id="btn" onclick="copy(), play()">Maakep Happen</button><br><br>
+
+
+
+        <text type="button" class="collapsible STRONK" style="cursor:pointer;" onclick="play()">How to join a lobby</text>
+        <div class="content">
+            <h1>1</h1>
+            <img src="Step 1.png"></img0><br>
+            <h1>2</h1>
+            <img src="Step 2.png"></img0><br>
+            <h1>3</h1>
+            <img src="Step 3.png"></img0><br>
+            The lobby password is always "poop", and if it isn't then you should <span class="stronk">LODUDLY</span>
+            declare the lobby invalid and start a new one
         </div>
         <script>
             // Get reference to input HTML elements
@@ -152,17 +165,27 @@
             störstaDistansen = -100
         </script>
         <script type="text/javascript" src="UngeMozartdenjäveln.js"></script>
-    </center>
+        <script>
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+
+            for (i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function () {
+                    this.classList.toggle("active");
+                    var content = this.nextElementSibling;
+                    if (content.style.display === "block") {
+                        content.style.display = "none";
+                    } else {
+                        content.style.display = "block";
+                    }
+                });
+            }
+        </script>
 
 
-    <h1>How do I join a lobby?</h1>
-    <h1>1</h1>
-    <img src="Step 1.png"></img0><br>
-    <h1>2</h1>
-    <img src="Step 2.png"></img0><br>
-    <h1>3</h1>
-    <img src="Step 3.png"></img0><br>
-    <div>The lobby password is always "poop", and if it isn't then you should <span class="stronk">LODUDLY</span> declare the lobby invalid and start a new one</div>
+
+
+    </div>
 </body>
 
 </html>
