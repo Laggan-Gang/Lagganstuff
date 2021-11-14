@@ -1,0 +1,27 @@
+{
+  "name": "laggan.online",
+  "version": "0.58.3-BETA",
+  "description": "Stuff",
+  "main": "UngeMozartdenjäveln.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laggan-Gang/Lagganstuff.git"
+  },
+  "author": "",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/Laggan-Gang/Lagganstuff/issues"
+  },
+  "homepage": "https://github.com/Laggan-Gang/Lagganstuff#readme",
+  "devDependencies": {
+    "html-validate": "^6.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
