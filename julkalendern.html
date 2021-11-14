@@ -384,7 +384,7 @@
 	})
 
 
-	målet = Datum("2021-12-01T13:37:00+0100")[hämtaTid]()
+	målet = Datum(2021, 11, 1, 13, 37, 0)[hämtaTid]()
 	placeraMellanakt(() => {
 		kvar = målet - Datum()[hämtaTid]();
 		totti_tiondeli = golva(kvar / 100)
