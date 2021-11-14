@@ -396,7 +396,7 @@
 		totti_timmi = golva(totti_minuti / 60)
 		timmar = totti_timmi % 24
 		dagar = golva(totti_timmi / 24)
-		fönster["nedräkning"][invändigÖOPS] = `${dagar} ${timmar}:${minuter}:${sekunder}.${tiondelar}`
+		fönster["nedräkning"][invändigÖOPS] = `${dagar} ${timmar.toString().padStart(2, "0")}:${minuter.toString().padStart(2, "0")}:${sekunder.toString().padStart(2, "0")}.${tiondelar}`
 	}, 50)
 	
 </script>
