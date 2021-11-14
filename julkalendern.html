@@ -9,16 +9,49 @@
 	<link rel="stylesheet" href="secrets.css" />
 	<link rel="icon" href="favicon.ico">
 	<style type="text/css">
-
+		body {
+			padding: 0;
+		}
+		#behållare {
+			width: 100%;
+			overflow-y: auto;
+		}
+		#nedräkning, #fotnot {
+			position: absolute;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			white-space: nowrap;
+		}
+		#nedräkning {
+			top: 50%;
+			font-size: 13vw;
+		}
+		#fotnot {
+			top: 75%;
+			font-size: 4vw;
+		}
+		#tjockis {
+			padding-top: 56.25%;
+			width: 100%;
+			height: 0;
+		}
+		#wrapper {
+			position: relative;
+			background-image: url("/lagganmas/bakgrund.jpg");
+			background-size: cover;
+			/* width: 1920px; */
+			/* height: 1080px; */
+			margin: 0 auto;
+		}
 		#snön {
 			display: block;
-			position: fixed;
+			position: absolute;
 			left: 0;
 			top: 0;
 			right: 0;
 			bottom: 0;
-			background-color: #0F2027;
-			background-image: linear-gradient(to bottom, #0F2027, #080e10);
+			/* background-color: #0F2027; */
+			/* background-image: linear-gradient(to bottom, #0F2027, #080e10); */
 		}
 	</style>
 	<script type="text/javascript">
@@ -29,10 +62,15 @@
 </head>
 
 <body>
-	<div id="wrapper">
-		<div id="snön"></div>
-		<div id="bg"></div>
+	<div id="behållare">
+		<div id="wrapper">
+			<div id="tjockis"></div>
+			<div id="snön"></div>
+			<div id="nedräkning">69 69:69:42.5</div>
+			<div id="fotnot"><h1>Snart blir vi farliga</h1></div>
+		</div>
 	</div>
+
 </body>
 <img id="solen" style="position: fixed; left: 100vw; top: 100vh;" src="lagganmas/solen.png">
 <script type="text/javascript">
@@ -248,8 +286,8 @@
 			mb[rengörNyans](0, 0, 0, 0)
 
 
-			// z i räckvidden från -80 till 80, kamera avståndet är 100
-			// maximal höjd vid z av -80 är 110
+			// z i räckvidden från -55 till 55, kamera avståndet är 125
+			// maximal höjd vid z av -55 är oklart som fan
 			const jordHöjd = 120
 			const jordBredd = förhållande * jordHöjd
 			const djup = 55
@@ -344,6 +382,22 @@
 		}
 		uppdatera()
 	})
+
+
+	målet = new Date("2021-12-01T13:37:00+0100")
+	placeraMellanakt(() => {
+		kvar = målet - new Date();
+		totti_tiondeli = golva(kvar / 100)
+		tiondelar = totti_tiondeli % 10
+		totti_sekundi = golva(totti_tiondeli / 10)
+		sekunder = totti_sekundi % 60
+		totti_minuti = golva(totti_sekundi / 60)
+		minuter = totti_minuti % 60
+		totti_timmi = golva(totti_minuti / 60)
+		timmar = totti_timmi % 24
+		dagar = golva(totti_timmi / 24)
+		fönster["nedräkning"][invändigÖOPS] = `${dagar} ${timmar}:${minuter}:${sekunder}.${tiondelar}`
+	}, 50)
 	
 </script>
 
