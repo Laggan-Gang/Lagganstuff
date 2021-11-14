@@ -384,9 +384,9 @@
 	})
 
 
-	målet = new Date("2021-12-01T13:37:00+0100")
+	målet = Datum("2021-12-01T13:37:00+0100")[hämtaTid]()
 	placeraMellanakt(() => {
-		kvar = målet - new Date();
+		kvar = målet - Datum()[hämtaTid]();
 		totti_tiondeli = golva(kvar / 100)
 		tiondelar = totti_tiondeli % 10
 		totti_sekundi = golva(totti_tiondeli / 10)
