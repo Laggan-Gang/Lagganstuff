@@ -77,11 +77,11 @@
 	// kraftigt inspirerad av https://github.com/bsehovac/shader-program
 
 	behållaren = hämtaRadiatorEfterLegitimation('snön')
-	tavlan = skapaElement( tavla )
-	mb = tavlan[hämtaSammanhang]( nätmb, { antialias: sant } )
+	målarduken = skapaElement( målarduk )
+	mb = målarduken[hämtaSammanhang]( nätmb, { antialias: sant } )
 
 	om(mb, () => {
-		behållaren[bifogaBarn](tavlan)
+		behållaren[bifogaBarn](målarduken)
 		
 		vertexSkuggare = mb[skapaSkuggare](mb[VERTEX_SKUGGARE])
 		mb[skuggarKälla](vertexSkuggare, `
@@ -277,10 +277,10 @@
 			förhållande = fullBredd / fullHöjd
 			ppt = Matte.max(1, devicePixelRatio)
 
-			tavlan[bredd] = fullBredd
-			tavlan[höjd] = fullHöjd
-			tavlan[stil][bredd] = fullBredd
-			tavlan[stil][höjd] = fullHöjd
+			målarduken[bredd] = fullBredd
+			målarduken[höjd] = fullHöjd
+			målarduken[stil][bredd] = fullBredd
+			målarduken[stil][höjd] = fullHöjd
 
 			mb[fönsterHamn](0, 0, fullBredd * ppt, fullHöjd * ppt)
 			mb[rengörNyans](0, 0, 0, 0)
