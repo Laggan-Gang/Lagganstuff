@@ -4,9 +4,9 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>13 DAYS OF LAGGAN HOLIDAYS</title>
-	<link rel="stylesheet" href="https://unpkg.com/sanitize.css" />
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css" />
-	<link rel="stylesheet" href="secrets.css" />
+	<link rel="stylesheet" href="https://unpkg.com/sanitize.css" media="print" onload="this.media='all'" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css" media="print" onload="this.media='all'" />
+	<link rel="stylesheet" href="secrets.css" media="print" onload="this.media='all'" />
 	<link rel="icon" href="favicon.ico">
 	<style type="text/css">
 		body {
@@ -16,13 +16,13 @@
 			width: 100%;
 			overflow-y: auto;
 		}
-		#nedräkning, #fotnot {
+		#nedräkning, #fotnot, .nedräkning {
 			position: absolute;
 			left: 50%;
 			transform: translate(-50%, -50%);
 			white-space: nowrap;
 		}
-		#nedräkning {
+		#nedräkning, .nedräkning {
 			top: 35%;
 			font-size: 13vw;
 		}
@@ -35,15 +35,15 @@
 			width: 100%;
 			height: 0;
 		}
-		#wrapper {
+		#omslagspappret {
 			position: relative;
-			background-image: url("/lagganmas/bakgrund.jpg");
+			/* background-image: url("/lagganmas/bakgrund.jpg"); */
 			background-size: cover;
 			/* width: 1920px; */
 			/* height: 1080px; */
 			margin: 0 auto;
 		}
-		#snön {
+		#snön, #Зареждане {
 			display: block;
 			position: absolute;
 			left: 0;
@@ -52,6 +52,19 @@
 			bottom: 0;
 			/* background-color: #0F2027; */
 			/* background-image: linear-gradient(to bottom, #0F2027, #080e10); */
+		}
+		#Зареждане {
+			display: fixed;
+			background: #000;
+			overflow: hidden;
+		}
+		.sara {
+			position: absolute;
+			background-image: url("/lagganmas/lina.png");
+			background-size: cover;
+			/* padding-top: 150%; */
+			width: 2vw;
+			height: 3vw;
 		}
 	</style>
 	<script type="text/javascript">
@@ -63,22 +76,109 @@
 
 <body>
 	<div id="behållare">
-		<div id="wrapper">
+		<div id="omslagspappret">
 			<div id="tjockis"></div>
 			<div id="snön"></div>
 			<div id="nedräkning">69 69:69:42.5</div>
 			<div id="fotnot"><h1>Snart blir vi farliga</h1></div>
 		</div>
 	</div>
-
+	<div id="Зареждане">
+		<div class="nedräkning">LADDAR<br />Зареждане</div>
+		<div class="sara" style="top:49.5%; left: 45.3%; display: none;"></div>
+	</div>
 </body>
-<img id="solen" style="position: fixed; left: 100vw; top: 100vh;" src="lagganmas/solen.png">
 <script type="text/javascript">
 	// kraftigt inspirerad av https://github.com/bsehovac/shader-program
 
 	behållaren = hämtaRadiatorEfterLegitimation('snön')
 	målarduken = skapaElement( målarduk )
 	mb = målarduken[hämtaSammanhang]( nätmb, { antialias: sant } )
+
+	texturerna = {}
+	texturerAttLaddaTotti = 0;
+	texturerAttLadda = 0;
+	saror = [];
+	Зареждане = hämtaRadiatorEfterLegitimation("Зареждане")
+	laddStorlek = { x: 0, y: 0 }
+	bäst = "sara";
+
+	påomskalning = () => {
+        laddFyrkanten = Зареждане[hämtaGränsKlientFyrkant]()
+        laddStorlek.x = laddFyrkanten[bredd] - 0.02 * alltsåNånslagsGränsFårDetVälVa.x;
+        laddStorlek.y = laddFyrkanten[höjd] - 0.03 * alltsåNånslagsGränsFårDetVälVa.y;
+    }
+    påomskalning()
+    Зареждане[läggTillHändelseSpanare](omskalning, påomskalning)
+
+	ritaEnSara = (sara) => {
+		sara.φ += sara.riktning * slumpa(0, 1, i => 1 - i * i)
+		sara.φφ = (τ/360) * sara.φ
+		sara.r += Matte.min(0.5, Matte.max(0, slumpa(0, 0.01) * sara.riktning))
+
+		i = slumpa(0, 1000000, x => 1 - x * x * x)
+		sara.snurrilurr += sara.riktning * slumpa(0, 5);
+		om(i > 999995, () => { sara.riktning *= -1 })
+
+
+		sara[stil][toppen] = (Matte.sin(sara.φφ) * sara.r + 0.5) * laddStorlek.y + tavelPlättar
+		sara[stil][vänster] = (Matte.cos(sara.φφ) * sara.r + 0.5) * laddStorlek.x + tavelPlättar
+		sara[stil][spannBlankett] = `${skalaX}(${sara.riktning}) ${rotera}(${sara.snurrilurr}deg)`;
+	}
+	laddningFärdig = () => {
+		sara = skapaElement(låda);
+		saror[knuffa](sara);
+		Зареждане[bifogaBarn](sara);
+
+		sara[socioEkonomiskTillhörighet] = bäst
+		r = slumpa(0, 0.5)
+		φ = slumpa(0, 360);
+		sara.φ = φ;
+		sara.r = r;
+		sara.snurrilurr = slumpa(-360, 360)
+		sara.riktning = blanda([1, -1])[0]
+
+		ritaEnSara(sara)
+	}
+
+	springSaraSpring = () => {
+		saror[förVarje](ritaEnSara)
+
+		merAttLadda = texturerAttLadda > 0 || obligatoriskaSaror > 0
+		om(merAttLadda, () => sättVäntetid(springSaraSpring, 150), () => {
+			Зареждане[stil][skärm] = ingen
+		})
+	}
+	sättVäntetid(springSaraSpring, 150)
+
+	obligatoriskaSaror = golva(slumpa(10, 20));
+	obligatoriskSara = () => {
+		laddningFärdig();
+
+		obligatoriskaSaror--;
+		notera(`sara skapad, ${obligatoriskaSaror} kvar`)
+		om(obligatoriskaSaror > 0, () => {
+			sättVäntetid(obligatoriskSara, slumpa(500, 5000, i => 1 - i*i*i))
+		}, () => obligatoriskaSaror)
+	}
+	obligatoriskSara();
+
+	skapaBildTextur = (namn, källPlats, element = falskt) => {
+		bilden = nyBild(källPlats)
+		texturerAttLadda++;
+		texturerAttLaddaTotti++;
+		bilden[läggTillHändelseSpanare](ladda, () => {
+			om(element, ()=>{ hämtaRadiatorEfterLegitimation(element)[stil][bakgrundsBild] = `${sökväg}(${källPlats})` })
+
+			texturerAttLadda--;
+			laddningFärdig();
+			notera(`${källPlats} laddad, ${texturerAttLadda} kvar`)
+		})
+		texturerna[namn] = bilden;
+	}
+
+	skapaBildTextur("bakgrunden", '/lagganmas/bakgrund.jpg', "omslagspappret")
+	skapaBildTextur("solen", '/lagganmas/solen.png')
 
 	om(mb, () => {
 		behållaren[bifogaBarn](målarduken)
@@ -173,7 +273,7 @@
 
 		kamera = {
 			synfält: 80,
-			nära: 1,
+			nära: 0,
 			långbort: 1000,
 			förhållande: 1,
 			z: 125,
@@ -253,7 +353,7 @@
 		mb[snärjStruktur](mb[STRUKTUR_2D], struktur)
 		mb[strukturBild2D](mb[STRUKTUR_2D], 0, mb.RGBA, 1, 1, 0, mb.RGBA, mb[OSIGNERAD_OKTETT], nyOsigneradHeltalsOktettMatris([0, 0, 0, 0]))
 
-		strukturBild = hämtaRadiatorEfterLegitimation('solen')
+		strukturBild = texturerna.solen;
 
 		strukturBild[påLaddning] = () => {
 			notera("läser in struktur")
@@ -384,7 +484,7 @@
 	})
 
 
-	målet = Datum(2021, 11, 1, 13, 37, 0)[hämtaTid]()
+	målet = Datum(2021, 11, 12, 13, 37, 0)[hämtaTid]()
 	placeraMellanakt(() => {
 		kvar = målet - Datum()[hämtaTid]();
 		totti_tiondeli = golva(kvar / 100)
