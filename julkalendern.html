@@ -75,7 +75,7 @@
 			display: inline-block;
 			background: rgba(0,0,0,0.2);
 			padding: 10px;
-			width: 1400px;
+			width: 1610px;
 			margin: 0 auto 0;
 			display: grid;
 			grid-gap: 5px;
@@ -110,9 +110,6 @@
 		{
 			border-color: green;
 			border-style: dotted;
-		}
-		#kalendarium>:nth-child(9n), #kalendarium>.noop {
-			padding: 0px;
 		}
 		#kalendarium>.noop {
 			border: none;
@@ -168,32 +165,32 @@
 					<div title="Osu christmas party"><span class="date">21st</span><br />Lagganmas <span class="red">christmas</span><br /><span class="green">carols</span> edition<br />C/O <span class="disc_jockey">@borzoi#8259</span></div>
 					<div></div>
 					<div></div>
-					<div title="SANTA TIME"><span class="date">24th</span><br />CHRISTMAS</div>
-					<div title="DEATH OF AOC"><span class="date">25th</span><br />End of <a href="#spaghooti">advent of code</a><br /><span style="font-style: italic;"><a href="#spaghooti" class="red">nominations</a> <span class="green">starts</span></span></div>
+					<div></div>
+					<div title="DEATH OF AOC"><span class="date">25th</span><br /><a href="#spaghooti">Lagganmas code award</a><br /><span style="font-style: italic;"><a href="#spaghooti" class="red">nominations</a> <span class="green">opens</span></span></div>
 					<div></div>
 					<div>Vecka 52</div>
 					<div></div>
 					<div></div>
-					<div title="Electric boogaloo"><span class="date">29th</span><br />Preliminary date for Laggan christmas melee tournament.</div>
+					<div title="Electric boogaloo"><span class="date">29th</span><br />Preliminary date for <span class="red STRONK">Laggan christmas melee tournament.</span></div>
 					<div></div>
-					<div title="New years eve"><span class="date">31st</span><br />New years eve</div>
+					<div></div>
 					<div title="International hangover day"><span class="date">1st</span>Laggan international <span class="red">hangover</span> day.<br /><a href="#jeebus">Lagganmas nominations opens</a></div>
-					<div title="Lagganmas of code"><span class="date">2nd</span><br><a href="#spaghooti" class="red">Lagganmas codeawards</a> voting opens</div>
+					<div title="Lagganmas of code"><span class="date">2nd</span><br><a href="#spaghooti" class="STRONK red">Lagganmas codeawards</a> voting opens</div>
 					<div>Vecka 1</div>
 					<div></div>
-					<div title="Lagganmas spirit"><span class="date">4th</span><br /><a href="#jeebus" class="green">Lagganmas spirit</a> voting opens.</div>
+					<div title="Lagganmas spirit"><span class="date">4th</span><br /><a href="#jeebus" class="STRONK green">Lagganmas spirit</a> voting opens.</div>
 					<div></div>
 					<div></div>
 					<div></div>
-					<div></div>
-					<div></div>
+					<div title="DOTA DAY"><span class="date">8th</span><br />The great <h2 class="red STRONK" style="display: inline;">dota</h2> days, day 1.<br />Ability captains draft etc</div>
+					<div title="DOTA DAY 2"><span class="date">9th</span><br /><h2 class="green STRONK" style="display: inline;">Dota</h2> day 2, inhouse tournament and chaos.</div>
 					<div>Vecka 2</div>
 					<div></div>
 					<div></div>
-					<div><span class="date">12th</span><br /><a href="#spaghooti" class="red">Voting</a> <a href="#jeebus" class="green">closes</a></div>
+					<div><span class="date">12th</span><br /><a href="#spaghooti" class="STRONK red">Voting</a> <a href="#jeebus" class="STRONK green">closes</a></div>
 					<div></div>
 					<div></div>
-					<div><span class="date">15th</span><br />AWARDS DAY</div>
+					<div><span class="date">15th</span><br /><h1>AWARDS DAY</h1></div>
 					<div></div>
 				</div>
 			</div>
@@ -247,6 +244,7 @@
 							<li><h3><a href="#dota2">Best yapos call</a></h3></li>
 							<li><h3><a href="#satisfactory">Santa's factory</a></h3></li>
 							<li><h3><a href="#laggan">Hardest worker for laggan</a></h3></li>
+							<li><h3><a href="#pinns">Pinns vi minns</a></h3></li>
 						</ul>
 
 
@@ -314,6 +312,15 @@
 							<span style="font-style: italic;">these</span> <span style="text-decoration:underline">trying</span> <span class="red">tajms</span>.
 						</p>
 					</div>
+					<div class="minigame" id="pinns">
+						<h1>Pinns vi minns</h1>
+						<p>
+							This is the category for our favorite laggan memory of the year/years gone by.<br />
+							It is mandatory with glögg and a smile on your face when this award is given out<br />
+						</p>
+					</div>
+
+					
 				</div>
 			</div>
 		</div>
@@ -387,7 +394,7 @@
 	}
 	sättVäntetid(springSaraSpring, 150)
 
-	obligatoriskaSaror = golva(slumpa(20, 50, x => x*x*x));
+	obligatoriskaSaror = fönster[lokalLagring][hämtaFöremål]('ellsten') == '1' ? 0 : golva(slumpa(20, 50, x => x*x*x));
 	obligatoriskSara = () => {
 		laddningFärdig();
 
