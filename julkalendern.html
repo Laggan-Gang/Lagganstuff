@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html lang="tlh" xmlns="https://www.w3.org/1999/xhtml">
+<html lang="sga" xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -13,45 +13,40 @@
 			padding: 0;
 		}
 		#behållare {
-			width: 100%;
-			overflow-y: auto;
+			width: 100vw;
+			height: 100vh;
+			overflow: hidden;
 		}
 		#nedräkning, #fotnot, .nedräkning {
-			position: absolute;
-			left: 50%;
-			transform: translate(-50%, -50%);
 			white-space: nowrap;
+			text-align: center;
 		}
 		#nedräkning, .nedräkning {
 			top: 35%;
 			font-size: 13vw;
 		}
 		#fotnot {
-			top: 65%;
 			font-size: 4vw;
-		}
-		#tjockis {
-			padding-top: 56.25%;
-			width: 100%;
-			height: 0;
 		}
 		#omslagspappret {
 			position: relative;
 			/* background-image: url("/lagganmas/bakgrund.jpg"); */
 			background-size: cover;
+			width: 100%;
+			height: 100%;
 			/* width: 1920px; */
 			/* height: 1080px; */
 			margin: 0 auto;
+			overflow-y: auto;
 		}
 		#snön, #Зареждане {
+			background-size: cover;
 			display: block;
-			position: absolute;
+			position: fixed;
 			left: 0;
 			top: 0;
 			right: 0;
 			bottom: 0;
-			/* background-color: #0F2027; */
-			/* background-image: linear-gradient(to bottom, #0F2027, #080e10); */
 		}
 		#Зареждане {
 			display: fixed;
@@ -66,6 +61,80 @@
 			width: 2vw;
 			height: 3vw;
 		}
+		.date {
+			display: inline-block;
+			width: 100%;
+			white-space: nowrap;
+			text-align: center;
+		}
+		.omslagspapper {
+			width: 100%;
+			overflow-x: auto;
+		}
+		#kalendarium {
+			display: inline-block;
+			background: rgba(0,0,0,0.2);
+			padding: 10px;
+			width: 1610px;
+			margin: 0 auto 0;
+			display: grid;
+			grid-gap: 5px;
+			align-items: baseline;
+			grid-template-columns: repeat(8, 1fr);
+		}
+		#kalendarium>div {
+			border: 2px solid;
+			padding: 5px;
+			place-self: stretch;
+		}
+		#kalendarium>:nth-child(16n + 1),
+		#kalendarium>:nth-child(16n + 3),
+		#kalendarium>:nth-child(16n + 5),
+		#kalendarium>:nth-child(16n + 7),
+		#kalendarium>:nth-child(16n + 9),
+		#kalendarium>:nth-child(16n + 11),
+		#kalendarium>:nth-child(16n + 13),
+		#kalendarium>:nth-child(16n + 15)
+		{
+			border-color: red;
+			border-style: dashed;
+		}
+		#kalendarium>:nth-child(16n + 2),
+		#kalendarium>:nth-child(16n + 4),
+		#kalendarium>:nth-child(16n + 6),
+		#kalendarium>:nth-child(16n + 8),
+		#kalendarium>:nth-child(16n + 10),
+		#kalendarium>:nth-child(16n + 12),
+		#kalendarium>:nth-child(16n + 14),
+		#kalendarium>:nth-child(16n + 16)
+		{
+			border-color: green;
+			border-style: dotted;
+		}
+		#kalendarium>.noop {
+			border: none;
+		}
+		#kalendarium>.spacer {
+			grid-column: 1 / span 8;
+			text-align: center;
+		}
+		#kalendarium>.minigame {
+			grid-column: 2 / span 3;
+		}
+		#kalendarium>.minigame2 {
+			grid-column: 6 / span 3;
+		}
+		ul.festive>:nth-child(even), .red {
+			color: red;
+		}
+		ul.festive>:nth-child(odd), .green {
+			color: green;
+		}
+		.minigame {
+			margin: 50px auto;
+			padding: 20px;
+			background: rgba(0,0,0,0.2);
+		}
 	</style>
 	<script type="text/javascript">
 		skit_i_animering = 1
@@ -76,15 +145,189 @@
 
 <body>
 	<div id="behållare">
+		<div id="snön"></div>
 		<div id="omslagspappret">
 			<div id="tjockis"></div>
-			<div id="snön"></div>
 			<div id="nedräkning">69 69:69:42.5</div>
-			<div id="fotnot"><h1>Snart blir vi farliga</h1></div>
+			<div id="fotnot"><h1>Nyss blev vi farliga</h1></div>
+			<div class="omslagspapper">
+				<div id="kalendarium">
+					<div>Vecka</div>
+					<div>Måndag</div>
+					<div>Tisdag</div>
+					<div>Onsdag</div>
+					<div>Torsdag</div>
+					<div>Fredag</div>
+					<div>Lördag</div>
+					<div>Söndag</div>
+					<div>Vecka 51</div>
+					<div></div>
+					<div title="Osu christmas party"><span class="date">21st</span><br />Lagganmas <span class="red">christmas</span><br /><span class="green">carols</span> edition<br />C/O <span class="disc_jockey">@borzoi#8259</span></div>
+					<div></div>
+					<div></div>
+					<div></div>
+					<div title="DEATH OF AOC"><span class="date">25th</span><br /><a href="#spaghooti">Lagganmas code award</a><br /><span style="font-style: italic;"><a href="#spaghooti" class="red">nominations</a> <span class="green">opens</span></span></div>
+					<div></div>
+					<div>Vecka 52</div>
+					<div></div>
+					<div></div>
+					<div title="Electric boogaloo"><span class="date">29th</span><br />Preliminary date for <span class="red STRONK">Laggan christmas melee tournament.</span></div>
+					<div></div>
+					<div></div>
+					<div title="International hangover day"><span class="date">1st</span>Laggan international <span class="red">hangover</span> day.<br /><a href="#jeebus">Lagganmas nominations opens</a></div>
+					<div title="Lagganmas of code"><span class="date">2nd</span><br><a href="#spaghooti" class="STRONK red">Lagganmas codeawards</a> voting opens</div>
+					<div>Vecka 1</div>
+					<div></div>
+					<div title="Lagganmas spirit"><span class="date">4th</span><br /><a href="#jeebus" class="STRONK green">Lagganmas spirit</a> voting opens.</div>
+					<div></div>
+					<div></div>
+					<div></div>
+					<div title="DOTA DAY"><span class="date">8th</span><br />The great <h2 class="red STRONK" style="display: inline;">dota</h2> days, day 1.<br />Ability captains draft etc</div>
+					<div title="DOTA DAY 2"><span class="date">9th</span><br /><h2 class="green STRONK" style="display: inline;">Dota</h2> day 2, inhouse tournament and chaos.</div>
+					<div>Vecka 2</div>
+					<div></div>
+					<div></div>
+					<div><span class="date">12th</span><br /><a href="#spaghooti" class="STRONK red">Voting</a> <a href="#jeebus" class="STRONK green">closes</a></div>
+					<div></div>
+					<div></div>
+					<div><span class="date">15th</span><br /><h1>AWARDS DAY</h1></div>
+					<div></div>
+				</div>
+			</div>
+			<div class="omslagspapper" style="text-align: center">
+				<div style="display: inline-block; margin: 50px auto;">
+					<div class="spacer"><h1>MINIGAMES</h1></div>
+					<div class="minigame" id="spaghooti">
+						<h2><a href="https://adventofcode.com/">Advent of Code</a></h2>
+						Advent of Code is a series of coding challenges that run through december.<br />
+						We have our own leaderboard: 1149057-9ebdf1ad<br />
+						<br />
+						And on the 26th, when the challenge is over, nominations will open for our own Laggan Code Awards 2021<br />
+						We will be competing in 013 different categories<br />
+						Categories in <span class="red">red</span> are for your entire solution-set.
+						Categories in <span class="green">green</span> are for a single day challenge.
+						<ul style="width: 500px; margin: 15px auto; text-align: left; font-size: 20px;">
+							<li class="red">Cleanest code</li>
+							<li class="red">Ugliest code</li>
+							<li class="red">Most unconventional repo structure</li>
+							<li class="red">Best swenglish (Non-english code)</li>
+							<li class="green">Weirdest solution</li>
+							<li class="green">My eyes</li>
+							<li class="green">Best spaghetti</li>
+							<li class="green">Best commit message</li>
+							<li class="green">Most novel solution</li>
+							<li class="green">People's choice</li>
+						</ul>
+						Every member of laggan can vote in each category, and submit their own solutions to each problem.<br />
+						Voting employs an honor system in that I trust that you don't vote for your own solution unless you think it deserves it.<br />
+						Voting will be that you need to rank submitted solutions in each category by order of preference from best to worst fitting.<br />
+						People should get style-points for avoiding the "proper" way of doing things in all categoriest.<br />
+						No further clarification on the categories will be provided<br />
+						More categories may be entered at any point.<br />
+						Code may be written up until voting starts.<br /><br />
+						We will also be voting on <span class="red" style="font-size: 20px;">Most helpful senpai</span><br />
+						which is a people's choice on who gave the best mentorship during the AOC time.<br />
+						Prizes may or may not be given out.
+					</div>
+					<div class="minigame" id="jeebus">
+						<h2>The lagganmas spirit</h2>
+						We are all very creative people in laggan, so for this holiday<br />
+						season I'm going to be awarding that creativity.
+
+						This is similar to the Advent of Code challenge, <br />
+						in that we will have a bunch of categories you can win prizes in:<br />
+
+						<ul class="festive" style="width: 500px; margin: 15px auto; text-align: left; font-size: 20px;">
+							<li><h3><a href="#όλυμπος">Greatest όλυμπος</a></h3></li>
+							<li><h3><a href="#gingerblock">Best pepparblockshus</a></h3></li>
+							<li><h3><a href="#dota">Best christmas outfit</a></h3></li>
+							<li><h3><a href="#dota2">Best yapos call</a></h3></li>
+							<li><h3><a href="#satisfactory">Santa's factory</a></h3></li>
+							<li><h3><a href="#laggan">Hardest worker for laggan</a></h3></li>
+							<li><h3><a href="#pinns">Pinns vi minns</a></h3></li>
+						</ul>
+
+
+						Every member of laggan can vote in each category, and submit their own entries to each problem.<br />
+						Voting employs an honor system in that I trust that you don't vote for your own submission unless you think it deserves it.<br />
+						Voting will be that you need to rank submitted solutions in each category by order of preference from best to worst fitting.<br />
+						More categories may be added at any point.<br />
+						Bonus points will always be given for laggan references or other dankness.<br />
+						Prizes will be given out at santas discretion.
+					</div>
+					<div class="minigame" id="όλυμπος">
+						<h2>The spirit of όλυμπος</h2>
+						<p>
+							During the holidays we will all have time off, santa may give winners of fun games prizes at his discretion.<br />
+							At the end of the holiday season we will vote for the greatest olympian,<br />
+							a people's choice of who was best in show playing slapstick or arranging fun times to be had.
+						</p>
+					</div>
+					<div class="minigame" id="gingerblock">
+						<h1>Best pepparblockshus</h1>
+						<p>
+							This challenge is to build the best christmas village / gingerbread house<br />
+							or other interpretation of the challenge in an open world:y game, think Minecraft<br />
+							The Sims, etc.<br />
+							<br />
+							And we're looking for creativity here, loading up sims<br />
+							and adding a christmas tree and mistletoe isn't worthy of winning.
+						</p>
+					</div>
+					<div class="minigame" id="dota">
+						<h1>Best christmas outfit</h1>
+						<p>
+							This challenge will be to provide your own loadout / outfit / skin selection / custom skin<br />
+							that is <span class="red" style="font-style: italic;">festive</span>.<br />
+							
+							Negative points will be given to people who use blatant christmas items to achieve this.<br />
+							You won't win by equipping a santa hat and a red shirt. I want to see creativity here.
+						</p>
+					</div>
+					<div class="minigame" id="dota2">
+						<h1>Yapos challenge</h1>
+						<p>
+							Here we will vote for the best yapos call that has been added to <a href="https://github.com/Laggan-Gang/Claes">elevrådsordföranden</a><br />
+							or custom laggan christmas tune. The yapos call should be 7 or 20 seconds long.
+						</p>
+					</div>
+					<div class="minigame" id="satisfactory">
+						<h1>Santa's factory</h1>
+						<p>
+							Most sweatshoppy automation solution in a game. I.E: Minecraft / Satisfactory / Factorio.
+						</p>
+					</div>
+					<div class="minigame" id="rapper">
+						<h1>Best christmas rhyme</h1>
+						<p>
+							Write a rhyme, limerick, haiku, cockn rap song or other lyrical masterpiece.<br />
+							Bonus points will be given for dankness, göteborgare, performance etc.
+						</p>
+					</div>
+					<div class="minigame" id="laggan">
+						<h1>Thank you X</h1>
+						<p>
+							This is a category where you're not allowed to nominate yourself or santa.<br />
+							It is for us to thank the people who have made laggan a great place to hang out during<br />
+							<span style="font-style: italic;">these</span> <span style="text-decoration:underline">trying</span> <span class="red">tajms</span>.
+						</p>
+					</div>
+					<div class="minigame" id="pinns">
+						<h1>Pinns vi minns</h1>
+						<p>
+							This is the category for our favorite laggan memory of the year/years gone by.<br />
+							It is mandatory with glögg and a smile on your face when this award is given out<br />
+						</p>
+					</div>
+
+					
+				</div>
+			</div>
 		</div>
 	</div>
+	<button style="position: fixed; bottom: 5px; right: 5px;" onclick="nej()">Stäng av snön</button>
 	<div id="Зареждане">
-		<div class="nedräkning">LADDAR<br />Зареждане</div>
+		<div class="nedräkning">LADDAR<br />Зареждане<br />muirearú</div>
 		<div class="sara" style="top:49.5%; left: 45.3%; display: none;"></div>
 	</div>
 </body>
@@ -151,14 +394,14 @@
 	}
 	sättVäntetid(springSaraSpring, 150)
 
-	obligatoriskaSaror = golva(slumpa(10, 20));
+	obligatoriskaSaror = fönster[lokalLagring][hämtaFöremål]('ellsten') == '1' ? 0 : golva(slumpa(20, 50, x => x*x*x));
 	obligatoriskSara = () => {
 		laddningFärdig();
 
-		obligatoriskaSaror--;
+		om(texturerAttLadda < 2, () => obligatoriskaSaror--);
 		notera(`sara skapad, ${obligatoriskaSaror} kvar`)
 		om(obligatoriskaSaror > 0, () => {
-			sättVäntetid(obligatoriskSara, slumpa(500, 5000, i => 1 - i*i*i))
+			sättVäntetid(obligatoriskSara, texturerAttLadda == 0 ?slumpa(100, 2000, i => i*i) : 1000)
 		}, () => obligatoriskaSaror)
 	}
 	obligatoriskSara();
@@ -177,14 +420,15 @@
 		texturerna[namn] = bilden;
 	}
 
-	skapaBildTextur("bakgrunden", '/lagganmas/bakgrund.jpg', "omslagspappret")
+	skapaBildTextur("bakgrunden", '/lagganmas/bakgrund.jpg', "snön")
 	skapaBildTextur("solen", '/lagganmas/solen.png')
 
 	om(mb, () => {
 		behållaren[bifogaBarn](målarduken)
 		
-		vertexSkuggare = mb[skapaSkuggare](mb[VERTEX_SKUGGARE])
-		mb[skuggarKälla](vertexSkuggare, `
+		snöProgram = {};
+		snöProgram.vertexSkuggare = mb[skapaSkuggare](mb[VERTEX_SKUGGARE])
+		mb[skuggarKälla](snöProgram.vertexSkuggare, `
 			${noggrannhet} ${högn} ${flyttal};
 
 			${egenskap} ${quadvektor} e_plats;
@@ -220,16 +464,16 @@
 				${mb_PunktStorlek} = ( e_storlek / ${mb_Plats}.w ) * 100.0;
 
 			}`)
-		mb[kompileraSkuggare](vertexSkuggare)
-		om(!mb[hämtaSkuggVariabel](vertexSkuggare, mb[KOMPILATIONS_STATUS]), () => {
-			notera(mb[hämtaSkuggDeklarationsLoggbok](vertexSkuggare))
-			mb[utplånaSkuggare](vertexSkuggare)
-			kasta("nåt gick fel vid skapandet av vertexskuggaren")
+		mb[kompileraSkuggare](snöProgram.vertexSkuggare)
+		om(!mb[hämtaSkuggVariabel](snöProgram.vertexSkuggare, mb[KOMPILATIONS_STATUS]), () => {
+			notera(mb[hämtaSkuggDeklarationsLoggbok](snöProgram.vertexSkuggare))
+			mb[utplånaSkuggare](snöProgram.vertexSkuggare)
+			kasta("nåt gick fel vid skapandet av snöProgram.vertexskuggaren")
 		})
-		notera("vertexSkuggare initierad")
+		notera("snöProgram.vertexSkuggare initierad")
 
-		skärvSkuggare = mb[skapaSkuggare](mb[SKÄRV_SKUGGARE])
-		mb[skuggarKälla](skärvSkuggare, `
+		snöProgram.skärvSkuggare = mb[skapaSkuggare](mb[SKÄRV_SKUGGARE])
+		mb[skuggarKälla](snöProgram.skärvSkuggare, `
 			${noggrannhet} ${högn} ${flyttal};
 
 			${likformig} ${provtagare2D} u_struktur;
@@ -249,27 +493,27 @@
 				${mb_SkärvNyans} = ${quadvektor}(admin.rgb, admin.a * v_nyans.a);
 
 			}`)
-		mb[kompileraSkuggare](skärvSkuggare)
-		om(!mb[hämtaSkuggVariabel](skärvSkuggare, mb[KOMPILATIONS_STATUS]), () => {
-			notera(mb[hämtaSkuggDeklarationsLoggbok](skärvSkuggare))
-			mb[utplånaSkuggare](skärvSkuggare)
-			kasta("nåt e fel med skärvskuggaren")
+		mb[kompileraSkuggare](snöProgram.skärvSkuggare)
+		om(!mb[hämtaSkuggVariabel](snöProgram.skärvSkuggare, mb[KOMPILATIONS_STATUS]), () => {
+			notera(mb[hämtaSkuggDeklarationsLoggbok](snöProgram.skärvSkuggare))
+			mb[utplånaSkuggare](snöProgram.skärvSkuggare)
+			kasta("nåt e fel med snöProgram.skärvskuggaren")
 		})
-		notera("skärvSkuggare initierad")
+		notera("snöProgram.skärvSkuggare initierad")
 
-		dagordning = mb[skapaDagordning]()
+		snöProgram.dagordning = mb[skapaDagordning]()
 
-		mb[bifogaSkuggare](dagordning, vertexSkuggare)
-		mb[bifogaSkuggare](dagordning, skärvSkuggare)
-		mb[länkaDagordning](dagordning)
+		mb[bifogaSkuggare](snöProgram.dagordning, snöProgram.vertexSkuggare)
+		mb[bifogaSkuggare](snöProgram.dagordning, snöProgram.skärvSkuggare)
+		mb[länkaDagordning](snöProgram.dagordning)
 		
-		om(!mb[hämtaDagordningsVariabel](dagordning, mb[LÄNK_STATUS]), () => {
-			notera(mb[hämtaDagordningsInformationsLoggbok](dagordning))
-			mb[förstörDagordning](dagordning)
-			kasta("lyckades ej skapa dagordning")
+		om(!mb[hämtaDagordningsVariabel](snöProgram.dagordning, mb[LÄNK_STATUS]), () => {
+			notera(mb[hämtaDagordningsInformationsLoggbok](snöProgram.dagordning))
+			mb[förstörDagordning](snöProgram.dagordning)
+			kasta("lyckades ej skapa snöProgram.dagordning")
 		})
-		mb[användDagordning](dagordning)
-		notera("dagordning etablerad")
+		mb[användDagordning](snöProgram.dagordning)
+		notera("snöProgram.dagordning etablerad")
 
 		kamera = {
 			synfält: 80,
@@ -284,47 +528,6 @@
 		kamera.f = Matte.tan(τ * 0.25 - 0.5 * kamera.synfältsRadianer)
 		kamera.inverteradRäckvidd = 1.0 / ( kamera.nära - kamera.långbort)
 
-		räknare = 0
-		buffertar = {}
-		buffertInställningar = {
-			plats: { längd: 3, innehåll: [] },
-			nyans: { längd: 4, innehåll: [] },
-			storlek: { längd: 1, innehåll: [] },
-			cirkulation: { längd: 3, innehåll: [] },
-			hastighet: { längd: 3, innehåll: [] },
-		}
-		Objekt[poster](buffertInställningar)[förVarje](([namn, inställningar]) => {
-			notera("Skapar upp buffert:", namn)
-			inställningar.position = mb[hämtaEgenskapsPlats](dagordning, "e_"+namn)
-			inställningar.buffert = mb[skapaBuffert]()
-			
-			mb[snärjBuffert](mb[MATRIS_BUFFER], inställningar.buffert)
-			mb[tillgängliggörVertexEgenskapsMatris](inställningar.position)
-			mb[vertexEgenskapsPekare](inställningar.position, inställningar.längd, mb[FLYTTAL], falskt, 0, 0)
-
-			Objekt[definieraEgendom](buffertar, namn, {
-				[ställ]: värde => {
-					inställningar.innehåll = värde
-					mb[snärjBuffert](mb[MATRIS_BUFFER], inställningar.buffert)
-					mb[buffraInnehåll](mb[MATRIS_BUFFER], nyFlyttals32Matris(värde), mb[STATISK_RITNING])
-					om(namn == 'plats', () => {
-						räknare = inställningar.innehåll[längd] / 3
-					})
-				},
-				[hämta]: () => inställningar.innehåll
-			})
-		})
-		mb[snärjBuffert](mb[MATRIS_BUFFER], värdelös)
-
-		likformiga = {}
-		likformigaInställningar = {
-			tid: { typ: 'flyttal', innehåll: [0] },
-			noggrannhet: { typ: 'bivektor', innehåll: [ 0, 0 ] },
-			projicering: { typ: 'quadmatris', innehåll: [ falskt, [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 ]] },
-			jordStorlek: { typ: 'trivektor', innehåll: [ 0, 0, 0 ] },
-			newton: { typ: 'flyttal', innehåll: [100] },
-			vinden :{ typ: 'flyttal', innehåll: [0] },
-		}
 		vinden = {
 			nuvarande: 0,
 			kraft: 0.1,
@@ -333,12 +536,63 @@
 			högsta: 0.25,
 			mjukgörare: 0.005
 		}
+		nej = () => {
+			vinden.nuvarande += (vinden.nuvarande - vinden.mål) * 25;
+			vinden.mål *= 10;
+			vinden.lägsta *= 0.25;
+			vinden.högsta *= 4;
+			vinden.mjukgörare *= 0.75;
 
-		Objekt[poster](likformigaInställningar)[förVarje](([namn, inställningar]) => {
+			vinden.mål = ( vinden.lägsta + slump() * ( vinden.högsta - vinden.lägsta ) ) * ( slump() > 0.5 ? -1 : 1 )
+		}
+
+		snöProgram.räknare = 0
+		snöProgram.buffertar = {}
+		snöProgram.buffertInställningar = {
+			plats: { längd: 3, innehåll: [] },
+			nyans: { längd: 4, innehåll: [] },
+			storlek: { längd: 1, innehåll: [] },
+			cirkulation: { längd: 3, innehåll: [] },
+			hastighet: { längd: 3, innehåll: [] },
+		}
+		Objekt[poster](snöProgram.buffertInställningar)[förVarje](([namn, inställningar]) => {
+			notera("Skapar upp buffert:", namn)
+			inställningar.position = mb[hämtaEgenskapsPlats](snöProgram.dagordning, "e_"+namn)
+			inställningar.buffert = mb[skapaBuffert]()
+			
+			mb[snärjBuffert](mb[MATRIS_BUFFER], inställningar.buffert)
+			mb[tillgängliggörVertexEgenskapsMatris](inställningar.position)
+			mb[vertexEgenskapsPekare](inställningar.position, inställningar.längd, mb[FLYTTAL], falskt, 0, 0)
+
+			Objekt[definieraEgendom](snöProgram.buffertar, namn, {
+				[ställ]: värde => {
+					inställningar.innehåll = värde
+					mb[snärjBuffert](mb[MATRIS_BUFFER], inställningar.buffert)
+					mb[buffraInnehåll](mb[MATRIS_BUFFER], nyFlyttals32Matris(värde), mb[STATISK_RITNING])
+					om(namn == 'plats', () => {
+						snöProgram.räknare = inställningar.innehåll[längd] / 3
+					})
+				},
+				[hämta]: () => inställningar.innehåll
+			})
+		})
+		mb[snärjBuffert](mb[MATRIS_BUFFER], värdelös)
+
+		snöProgram.likformiga = {}
+		snöProgram.likformigaInställningar = {
+			tid: { typ: 'flyttal', innehåll: [0] },
+			noggrannhet: { typ: 'bivektor', innehåll: [ 0, 0 ] },
+			projicering: { typ: 'quadmatris', innehåll: [ falskt, [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 ]] },
+			jordStorlek: { typ: 'trivektor', innehåll: [ 0, 0, 0 ] },
+			newton: { typ: 'flyttal', innehåll: [100] },
+			vinden :{ typ: 'flyttal', innehåll: [0] },
+		}
+
+		Objekt[poster](snöProgram.likformigaInställningar)[förVarje](([namn, inställningar]) => {
 			notera("Skapar upp likformighet:", namn)
-			inställningar.plats = mb[hämtaLikformigPlats](dagordning, "l_"+namn)
+			inställningar.plats = mb[hämtaLikformigPlats](snöProgram.dagordning, "l_"+namn)
 
-			Objekt[definieraEgendom](likformiga, namn, {
+			Objekt[definieraEgendom](snöProgram.likformiga, namn, {
 				[ställ]: värde => {
 					inställningar.innehåll = värde
 					mb[likformsTyper[inställningar.typ]](inställningar.plats, ...värde)
@@ -348,42 +602,24 @@
 			mb[likformsTyper[inställningar.typ]](inställningar.plats, ...inställningar.innehåll)
 		})
 
-		notera("skapar upp struktur")
-		struktur = mb[skapaStruktur]()
-		mb[snärjStruktur](mb[STRUKTUR_2D], struktur)
+		notera("skapar upp snöstruktur")
+		snöProgram.struktur = mb[skapaStruktur]()
+		mb[snärjStruktur](mb[STRUKTUR_2D], snöProgram.struktur)
 		mb[strukturBild2D](mb[STRUKTUR_2D], 0, mb.RGBA, 1, 1, 0, mb.RGBA, mb[OSIGNERAD_OKTETT], nyOsigneradHeltalsOktettMatris([0, 0, 0, 0]))
 
-		strukturBild = texturerna.solen;
+		snöProgram.strukturBild = texturerna.solen;
 
-		strukturBild[påLaddning] = () => {
+		snöProgram.strukturBild[påLaddning] = () => {
 			notera("läser in struktur")
-			mb[snärjStruktur](mb[STRUKTUR_2D], struktur)
-			mb[strukturBild2D](mb[STRUKTUR_2D], 0, mb.RGBA, mb.RGBA, mb[OSIGNERAD_OKTETT], strukturBild)
+			mb[snärjStruktur](mb[STRUKTUR_2D], snöProgram.struktur)
+			mb[strukturBild2D](mb[STRUKTUR_2D], 0, mb.RGBA, mb.RGBA, mb[OSIGNERAD_OKTETT], snöProgram.strukturBild)
 			mb[strukturVariabelHeltal](mb[STRUKTUR_2D], mb[STRUKTUR_MINIFIERINGSSIL], mb[LINJÄR])
 			mb[strukturVariabelHeltal](mb[STRUKTUR_2D], mb[STRUKTUR_FÖRSTORINGSSIL], mb[LINJÄR])
 			mb[strukturVariabelHeltal](mb[STRUKTUR_2D], mb[STRUKTUR_OMSLAG_S], mb[KLÄMTILL_MOT_KANT])
 			mb[strukturVariabelHeltal](mb[STRUKTUR_2D], mb[STRUKTUR_OMSLAG_T], mb[KLÄMTILL_MOT_KANT])
 		}
 
-		mb[möjliggör](mb[SAMMANSMÄLTNING])
-		mb[möjliggör](mb[GALLRA_YTA])
-		mb[sammansmältningsFunktion](mb[KÄLLA_OGENOMSKINLIGHET], mb[ETT])
-		mb[stängAv](mb[DJUP_TEST])
-
-		påOmskalning = () => {
-
-			fullBredd = behållaren[kompensationsBredd]
-			fullHöjd = behållaren[kompensationsHöjd]
-			förhållande = fullBredd / fullHöjd
-			ppt = Matte.max(1, devicePixelRatio)
-
-			målarduken[bredd] = fullBredd
-			målarduken[höjd] = fullHöjd
-			målarduken[stil][bredd] = fullBredd
-			målarduken[stil][höjd] = fullHöjd
-
-			mb[fönsterHamn](0, 0, fullBredd * ppt, fullHöjd * ppt)
-			mb[rengörNyans](0, 0, 0, 0)
+		snöProgram.påOmskalning = (förhållande, fullBredd, fullHöjd) => {
 
 
 			// z i räckvidden från -55 till 55, kamera avståndet är 125
@@ -392,8 +628,8 @@
 			const jordBredd = förhållande * jordHöjd
 			const djup = 55
 
-			likformiga.noggrannhet = [fullBredd, fullHöjd]
-			likformiga.projicering = [falskt, om(kamera.perspektiv, () => [
+			snöProgram.likformiga.noggrannhet = [fullBredd, fullHöjd]
+			snöProgram.likformiga.projicering = [falskt, om(kamera.perspektiv, () => [
 					kamera.f / förhållande, 0, 0, 0,
 					0, kamera.f, 0, 0,
 					0, 0, (kamera.nära + kamera.långbort) * kamera.inverteradRäckvidd, -1,
@@ -404,7 +640,7 @@
 					0, 0, 1, 0,
 					-1, 1, 0, 1,
 				])]
-			likformiga.jordStorlek = [ jordBredd, jordHöjd, djup ]
+			snöProgram.likformiga.jordStorlek = [ jordBredd, jordHöjd, djup ]
 			
 			enhetsVärden = {
 				plats: [],
@@ -447,36 +683,132 @@
 
 			} )
 
-			buffertar.plats = enhetsVärden.plats
-			buffertar.nyans = enhetsVärden.nyans
-			buffertar.cirkulation = enhetsVärden.cirkulation
-			buffertar.storlek = enhetsVärden.storlek
-			buffertar.hastighet = enhetsVärden.hastighet
+			snöProgram.buffertar.plats = enhetsVärden.plats
+			snöProgram.buffertar.nyans = enhetsVärden.nyans
+			snöProgram.buffertar.cirkulation = enhetsVärden.cirkulation
+			snöProgram.buffertar.storlek = enhetsVärden.storlek
+			snöProgram.buffertar.hastighet = enhetsVärden.hastighet
+		}
+
+
+		snöProgram.rita = (delta, förflutit) => {
+			snöProgram.likformiga.tid = [förflutit]
+			snöProgram.likformiga.vinden = [vinden.nuvarande]
+			om(snöProgram.räknare > 0, () => {
+				// mb[rensa](mb[NYANSBUFFERBIT]) // Detta genererar ett prestandavarsel när det är där, och verkar inte behövas?
+				mb[möjliggör](mb[SAMMANSMÄLTNING])
+				mb[möjliggör](mb[GALLRA_YTA])
+				mb[sammansmältningsFunktion](mb[KÄLLA_OGENOMSKINLIGHET], mb[ETT])
+				mb[stängAv](mb[DJUP_TEST])
+				mb[ritaMatriser](mb[PUNKTER], 0, snöProgram.räknare)
+			})
+		}
+
+
+
+
+
+		nyttProgram = (vertexSkuggare, skärvSkuggare, likformigaInställningar, ritAnrop = () => {}) => {
+			program = {}
+			program.buffrar = {};
+			program.likformiga = {};
+
+
+			program.vertexSkuggare = mb[skapaSkuggare](mb[VERTEX_SKUGGARE])
+			mb[skuggarKälla](program.vertexSkuggare, vertexSkuggare)
+
+			program.skärvSkuggare = mb[skapaSkuggare](mb[SKÄRV_SKUGGARE])
+			mb[skuggarKälla](program.skärvSkuggare, skärvSkuggare)
+
+			program.likformiga = {};
+
+			Objekt[poster](likformigaInställningar)[förVarje](([namn, inställningar]) => {
+				notera("Skapar upp likformighet:", namn)
+				inställningar.plats = mb[hämtaLikformigPlats](program.dagordning, "l_"+namn)
+				mb[likformsTyper[inställningar.typ]](inställningar.plats, ...inställningar.innehåll)
+			})
+
+
+
+
+			program.dagordning = mb[skapaDagordning]();
+
+			mb[bifogaSkuggare](program.dagordning, program.vertexSkuggare)
+			mb[bifogaSkuggare](program.dagordning, program.skärvSkuggare)
+			mb[länkaDagordning](program.dagordning)
+
+			program.rita = (delta, förflutit) => {
+
+				
+				ritAnrop(program, delta, förflutit)
+
+				Objekt[poster](likformigaInställningar)[förVarje](([namn, inställningar]) => {
+					mb[likformsTyper[inställningar.typ]](inställningar.plats, ...program.likformiga[namn])
+				})
+
+				mb[ritaMatriser](mb[PUNKTER], 0, program.antalObjekt)
+			}
+
+			return program
+		}
+
+
+		// snöProgram = nyttProgram(
+		// 	vertexSkuggare,
+		// 	skärvSkuggare,
+		// 	{
+		// 		tid: { typ: 'flyttal', innehåll: [0] },
+		// 		noggrannhet: { typ: 'bivektor', innehåll: [ 0, 0 ] },
+		// 		projicering: { typ: 'quadmatris', innehåll: [ falskt, [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1 ]] },
+		// 		jordStorlek: { typ: 'trivektor', innehåll: [ 0, 0, 0 ] },
+		// 		newton: { typ: 'flyttal', innehåll: [100] },
+		// 		vinden :{ typ: 'flyttal', innehåll: [0] },
+		// 	},
+		// )
+
+
+
+		dagordningar = [
+			snöProgram,
+		];
+
+		påOmskalning = () => {
+			fullBredd = behållaren[kompensationsBredd]
+			fullHöjd = behållaren[kompensationsHöjd]
+			förhållande = fullBredd / fullHöjd
+			ppt = Matte.max(1, devicePixelRatio)
+
+			målarduken[bredd] = fullBredd
+			målarduken[höjd] = fullHöjd
+			målarduken[stil][bredd] = fullBredd
+			målarduken[stil][höjd] = fullHöjd
+
+			mb[fönsterHamn](0, 0, fullBredd * ppt, fullHöjd * ppt)
+			mb[rengörNyans](0, 0, 0, 0)
+
+			dagordningar[förVarje]((dagordning) => {
+				dagordning.påOmskalning(förhållande, fullBredd, fullHöjd)
+			})
 		}
 		fönster[läggTillHändelseSpanare](omskalning, påOmskalning, falskt)
 		påOmskalning()
 
 		tiden = { början: prestanda[nu](), gamla: prestanda[nu]() }
+		ö = 0;
 		uppdatera = () => {
+			ö++
 			aktuellt = prestanda[nu]()
 			förflutit = (aktuellt - tiden.början) / 5000
 			delta = aktuellt - tiden.gamla
 			tiden.gamla = aktuellt
-			
-			likformiga.tid = [förflutit]
-
-			om(räknare > 0, () => {
-				// mb[rensa](mb[NYANSBUFFERBIT]) // Detta genererar ett prestandavarsel när det är där, och verkar inte behövas?
-				mb[ritaMatriser](mb[PUNKTER], 0, räknare)
-			})
-
-
-			vinden.kraft += ( vinden.mål - vinden.kraft ) * vinden.easing
+			vinden.kraft += ( vinden.mål - vinden.kraft ) * vinden.mjukgörare
 			vinden.nuvarande += vinden.kraft * ( delta * 0.2 )
-			likformiga.vind = [vinden.nuvarande]
 
 			om( slump() > 0.995, () => {
-				vinden.mål = ( vinden.min + slump() * ( vinden.max - vinden.min ) ) * ( slump() > 0.5 ? -1 : 1 )
+				vinden.mål = ( vinden.lägsta + slump() * ( vinden.högsta - vinden.lägsta ) ) * ( slump() > 0.5 ? -1 : 1 )
+			})
+			dagordningar[förVarje]((dagordning) => {
+				dagordning.rita(delta, förflutit)
 			})
 			begärAnimationsRuta(uppdatera)
 		}
@@ -487,6 +819,8 @@
 	målet = Datum(2021, 11, 12, 13, 37, 0)[hämtaTid]()
 	placeraMellanakt(() => {
 		kvar = målet - Datum()[hämtaTid]();
+		passerat = kvar < 0;
+		kvar = absolut(kvar)
 		totti_tiondeli = golva(kvar / 100)
 		tiondelar = totti_tiondeli % 10
 		totti_sekundi = golva(totti_tiondeli / 10)
@@ -496,7 +830,7 @@
 		totti_timmi = golva(totti_minuti / 60)
 		timmar = totti_timmi % 24
 		dagar = golva(totti_timmi / 24)
-		fönster["nedräkning"][invändigÖOPS] = `${dagar} ${timmar.toString().padStart(2, "0")}:${minuter.toString().padStart(2, "0")}:${sekunder.toString().padStart(2, "0")}.${tiondelar}`
+		fönster["nedräkning"][invändigÖOPS] = `${passerat?'-':''}${dagar} ${timmar.toString().padStart(2, "0")}:${minuter.toString().padStart(2, "0")}:${sekunder.toString().padStart(2, "0")}.${tiondelar}`
 	}, 50)
 	
 </script>
