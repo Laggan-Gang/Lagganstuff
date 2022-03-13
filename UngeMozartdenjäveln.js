@@ -10,13 +10,8 @@ bjällerKurva = (x) => 1 - korsfalna(x, x * x, (1 - x) * (1 - x))
 interpolera = (x, början, slutet) => (1 - x) * början + x * slutet;
 mjukare = (x, liten, stor, utjämnare) => interpolera(utjämnare(x), liten, stor)
 slumpa = (början, slutet, utjämnare = x => x) => mjukare(slump(), början, slutet, utjämnare)
-blanda = (iMatris) => {
-    [blyack, matris] = [[], [...iMatris]]
-    matris[förVarje](() => {
-        blyack[knuffa](matris[skär](slumpa(0, matris[längd])))
-    })
-    return matris
-}
+ordna = ([...matris], blandare) => matris[sortera](blandare)||matris
+blanda = ([...matris]) => ordna(matris,()=>golva(slumpa(0,2))*2-1)
 
 sköterDuDig = slumpa(0, 9010)
 om(() => sköterDuDig > 9000, () => {
