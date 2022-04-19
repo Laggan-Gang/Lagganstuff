@@ -2,7 +2,7 @@
   "nodes": [
     {
       "id": "magnus",
-      "label": "Mr Bones\nSUSHI\nHaj#0188",
+      "label": "Mr Bones\nSUShi bones\nHaj#0188",
       "size": 17.730136624816012,
       "image": "https://i.redd.it/ycxc1xqwr5l21.jpg",
       "color": "#ff60cc",
@@ -11,7 +11,7 @@
     },
     {
       "id": "hugo",
-      "label": "Mr Bones\nBuddy\nsnygghugo#5201",
+      "label": "Mr Bones\nGoblin Bones\nsnygghugo#5201",
       "size": 25,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#e74c3c",
@@ -38,7 +38,7 @@
     },
     {
       "id": "ARTHAS",
-      "label": "Mr Bones\nvanquished chesschampion 20222\nnuke#3998",
+      "label": "Mr Bones\nVanliga Bones\nnuke#3998",
       "size": 17.031004344084533,
       "image": "https://cdn.discordapp.com/avatars/162288590192246784/acc93af07ad1be71160ff4036c8ad393",
       "color": "#3498db",
@@ -177,7 +177,7 @@
     },
     {
       "id": "denkan",
-      "label": "Mr Bones\nMr Bones\nDeriel#8785",
+      "label": "Mr Bones\nFinnish Bones\nDeriel#8785",
       "size": 15.342163950136525,
       "image": "https://cdn.discordapp.com/avatars/145675310682079232/bda7f9f7107d676162a7291d867cddd6",
       "color": "#f47fff",
@@ -282,7 +282,7 @@
     },
     {
       "id": "jorel",
-      "label": "Mr Bones\nJorel\njorel#0995",
+      "label": "Mr Bones\nBonerel\njorel#0995",
       "size": 21.209765677032888,
       "image": null,
       "color": "#e67e22",
@@ -294,7 +294,7 @@
     },
     {
       "id": "fredrik",
-      "label": "Mr Bones\nMaakep#8596",
+      "label": "Mr Bones\nMaakep Bones\nMaakep#8596",
       "size": 17.65978743127588,
       "image": "https://cdn.discordapp.com/avatars/157775827692421120/028eb37d23afcbe31da61f35caf9b067",
       "color": "#e67e22",
@@ -321,7 +321,7 @@
     },
     {
       "id": "dan",
-      "label": "Mr Bones\nDaniel the Handsome\nTMZB#8175",
+      "label": "Mr Bones\nDaniel the Bonesome\nTMZB#8175",
       "size": 15.241955811426346,
       "image": null,
       "color": "#992d22",
@@ -387,7 +387,7 @@
     },
     {
       "id": "tod",
-      "label": "Mr Bones\nMMR Assasin\nTod#2643",
+      "label": "Mr Bones\nNanny Bones\nTod#2643",
       "size": 18.519964315572608,
       "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
       "color": "#11806a",
@@ -477,7 +477,7 @@
     },
     {
       "id": "august",
-      "label": "Mr Bones\nCircuz#4554",
+      "label": "Mr Bones\nMrs. Bones\nCircuz#4554",
       "size": 12.710344967548542,
       "image": "https://media.discordapp.net/attachments/934816556590985216/957373395702534224/august.png",
       "color": "#1f8b4c",
@@ -561,7 +561,7 @@
     },
     {
       "id": "SATAN",
-      "label": "Mr Bones\nSATAN aka chess champion 2022\nfia#4446",
+      "label": "Mr Bones\nSATANic Bones\nfia#4446",
       "size": 13.587456537709338,
       "image": null,
       "color": "#00c7ff",
@@ -940,7 +940,7 @@
       "from": "god",
       "to": "hugo",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -949,7 +949,7 @@
       "from": "ARTHAS",
       "to": "denkan",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -972,7 +972,7 @@
       "from": "niklas",
       "to": "pontus",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -981,7 +981,7 @@
       "from": "linus",
       "to": "adam",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -990,16 +990,7 @@
       "from": "toste",
       "to": "doedscalle",
       "dashes": false,
-      "arrows": "to",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "toste",
-      "to": "Tostes polare",
-      "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1009,6 +1000,15 @@
       "to": "Tostes polare",
       "dashes": false,
       "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "toste",
+      "to": "Tostes polare",
+      "dashes": false,
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1026,7 +1026,7 @@
       "from": "jorel",
       "to": "pkaff",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1035,7 +1035,7 @@
       "from": "august",
       "to": "Hannes",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1060,7 +1060,7 @@
       "from": "niklas",
       "to": "Korvblad",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1069,7 +1069,7 @@
       "from": "august",
       "to": "Låda",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1078,7 +1078,7 @@
       "from": "spacehippo",
       "to": "Melker",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1087,7 +1087,7 @@
       "from": "hugo",
       "to": "NQN",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1096,7 +1096,7 @@
       "from": "uschtvii",
       "to": "NQN",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1105,7 +1105,7 @@
       "from": "denkan",
       "to": "eddy",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1114,7 +1114,7 @@
       "from": "hugo",
       "to": "uschtvii",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1123,7 +1123,7 @@
       "from": "uschtvii",
       "to": "hugo",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1132,7 +1132,7 @@
       "from": "hugo",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1141,7 +1141,7 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1187,7 +1187,7 @@
       "from": "tornborg",
       "to": "näbbdjuret",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1196,7 +1196,7 @@
       "from": "tornborg",
       "to": "rosa pingvinen",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1205,7 +1205,7 @@
       "from": "hugo",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1214,7 +1214,7 @@
       "from": "uschtvii",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1223,7 +1223,7 @@
       "from": "tod",
       "to": "Tods schackkompis",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1273,7 +1273,7 @@
       "from": "denkan",
       "to": "hobbabobbabooh",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1282,7 +1282,7 @@
       "from": "hugo",
       "to": "emil",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1300,7 +1300,7 @@
       "from": "hugo",
       "to": "ARTHAS",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1309,7 +1309,7 @@
       "from": "uschtvii",
       "to": "ARTHAS",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1318,7 +1318,7 @@
       "from": "hugo",
       "to": "linus",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1327,7 +1327,7 @@
       "from": "uschtvii",
       "to": "linus",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1345,7 +1345,7 @@
       "from": "denkan",
       "to": "coral",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1354,7 +1354,7 @@
       "from": "coral",
       "to": 8,
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1372,7 +1372,7 @@
       "from": "denkan",
       "to": "max",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1381,7 +1381,7 @@
       "from": "chris",
       "to": "rThor",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1390,7 +1390,7 @@
       "from": "max",
       "to": "jorel",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1451,7 +1451,7 @@
       "from": "jorel",
       "to": "fredrik",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1460,7 +1460,7 @@
       "from": "fredrik",
       "to": "magnus",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1469,7 +1469,7 @@
       "from": "fredrik",
       "to": "niklas",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1492,7 +1492,7 @@
       "from": "jorel",
       "to": "Storel",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1501,7 +1501,7 @@
       "from": "denkan",
       "to": "david",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1510,7 +1510,7 @@
       "from": "hugo",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1519,7 +1519,7 @@
       "from": "uschtvii",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1537,7 +1537,7 @@
       "from": "jorel",
       "to": "dan",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1546,7 +1546,7 @@
       "from": "jorel",
       "to": "tod",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1555,7 +1555,7 @@
       "from": "jorel",
       "to": "becca",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1564,7 +1564,7 @@
       "from": "tod",
       "to": "jezeray",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1573,7 +1573,7 @@
       "from": "jezeray",
       "to": "pao",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1591,7 +1591,7 @@
       "from": "jezeray",
       "to": "ezekiel",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1609,7 +1609,7 @@
       "from": "mitch",
       "to": "mike",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1618,7 +1618,7 @@
       "from": "mitch",
       "to": "chris",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1627,7 +1627,7 @@
       "from": "niklas",
       "to": "august",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1636,7 +1636,7 @@
       "from": "niklas",
       "to": "connor",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1645,7 +1645,7 @@
       "from": "niklas",
       "to": "emil2",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1663,7 +1663,7 @@
       "from": "linus",
       "to": "sarah",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1672,7 +1672,7 @@
       "from": "ting",
       "to": "ting2",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1702,7 +1702,7 @@
       "from": "spacehippo",
       "to": "fia",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1767,7 +1767,7 @@
       "from": "max",
       "to": "frej",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1783,7 +1783,7 @@
       "from": "max",
       "to": "Fawger",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1792,7 +1792,7 @@
       "from": "spacehippo",
       "to": "bishop",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1801,7 +1801,7 @@
       "from": "niklas",
       "to": "laxen",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1810,7 +1810,7 @@
       "from": "niklas",
       "to": "Altires",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1826,7 +1826,7 @@
       "from": "denkan",
       "to": "andersson",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1835,7 +1835,7 @@
       "from": 8,
       "to": "trattkatt",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1860,104 +1860,14 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "claes",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "claes",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "gravebot",
-      "dashes": false,
       "arrows": "from",
       "color": {
         "inherit": "from"
       }
     },
     {
-      "from": "uschtvii",
-      "to": "gravebot",
-      "dashes": false,
-      "arrows": "to",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
       "from": "hugo",
-      "to": "snakebunker",
-      "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "snakebunker",
-      "dashes": false,
-      "arrows": "to,from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "tatsu",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "tatsu",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "gulliga roboten",
-      "dashes": false,
-      "arrows": "to,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "gulliga roboten",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "dåliga roboten",
+      "to": "claes",
       "dashes": false,
       "arrows": "to,from",
       "color": {
@@ -1966,7 +1876,25 @@
     },
     {
       "from": "uschtvii",
-      "to": "dåliga roboten",
+      "to": "claes",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "gravebot",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "gravebot",
       "dashes": false,
       "arrows": "to",
       "color": {
@@ -1975,16 +1903,16 @@
     },
     {
       "from": "hugo",
-      "to": "elevrådsordföranden",
+      "to": "snakebunker",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
     },
     {
       "from": "uschtvii",
-      "to": "elevrådsordföranden",
+      "to": "snakebunker",
       "dashes": false,
       "arrows": "to,from,middle",
       "color": {
@@ -1993,9 +1921,81 @@
     },
     {
       "from": "hugo",
+      "to": "tatsu",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "tatsu",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "gulliga roboten",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "gulliga roboten",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "elevrådsordföranden",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "elevrådsordföranden",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
       "to": "synthugo",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -2004,7 +2004,7 @@
       "from": "uschtvii",
       "to": "synthugo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -2022,7 +2022,7 @@
       "from": "uschtvii",
       "to": "språkröret",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -2031,7 +2031,7 @@
       "from": "denkan",
       "to": "sudden",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2040,7 +2040,7 @@
       "from": "sudden",
       "to": "kalle kebab",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -2056,7 +2056,7 @@
       "from": "toste",
       "to": "Tostes brädspelkompis",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2065,7 +2065,7 @@
       "from": "linus",
       "to": "Linus kompis",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -2074,7 +2074,7 @@
       "from": "tornborg",
       "to": "ryssen",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2083,7 +2083,7 @@
       "from": "magnus",
       "to": "Tor",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -2092,7 +2092,7 @@
       "from": "magnus",
       "to": "Thriump",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2101,7 +2101,7 @@
       "from": "fia",
       "to": "sidosteg",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -2110,7 +2110,7 @@
       "from": "fia",
       "to": "linnea, fias kompis",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -2123,7 +2123,7 @@
     {
       "from": "claes",
       "to": "emil",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "linus",
@@ -2143,7 +2143,7 @@
     {
       "from": "jorel",
       "to": "fredrik",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "niklas",
@@ -2153,17 +2153,17 @@
     {
       "from": "tod",
       "to": "jezeray",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "max",
       "to": "jorel",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "mitch",
       "to": "mike",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "fredrik",
@@ -2173,22 +2173,22 @@
     {
       "from": "niklas",
       "to": "chris",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "claes",
       "to": "fia",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
       "to": "emil",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jezeray",
       "to": "ezekiel",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "hugo",
@@ -2198,7 +2198,7 @@
     {
       "from": "niklas",
       "to": "august",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
@@ -2213,7 +2213,7 @@
     {
       "from": "denkan",
       "to": "eddy",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jezeray",
@@ -2223,27 +2223,27 @@
     {
       "from": "hugo",
       "to": "linus",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jorel",
       "to": "dan",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jorel",
       "to": "tod",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "august",
       "to": "alex",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "niklas",
       "to": "mitch",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "hugo",
@@ -2253,12 +2253,12 @@
     {
       "from": "fredrik",
       "to": "niklas",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": 8,
       "to": "toste",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "denkan",
@@ -2268,22 +2268,22 @@
     {
       "from": "jorel",
       "to": "becca",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jezeray",
       "to": "ting",
-      "color": "hotpink"
-    },
-    {
-      "from": "claes",
-      "to": "spacehippo",
       "color": "turquoise"
     },
     {
       "from": "claes",
-      "to": "ARTHAS",
+      "to": "spacehippo",
       "color": "hotpink"
+    },
+    {
+      "from": "claes",
+      "to": "ARTHAS",
+      "color": "turquoise"
     },
     {
       "from": "denkan",
@@ -2291,7 +2291,7 @@
       "color": "turquoise"
     },
     {
-      "from": "alex",
+      "from": "magnus",
       "to": "jean-pierre lacomposte",
       "color": "hotpink"
     },
@@ -2300,28 +2300,28 @@
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to"
+      "arrows": "to,from,middle"
     },
     {
       "from": "jean-pierre lacomposte",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to"
+      "arrows": "to,from"
     },
     {
       "from": "206865838265860106",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to"
+      "arrows": "to,from"
     },
     {
       "from": "247414318922989568",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to"
+      "arrows": "to,from"
     },
     {
       "from": "363411935141691392",
