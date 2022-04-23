@@ -4,8 +4,9 @@
       "id": "magnus",
       "label": "Mr Bones\nSUShi bones\nHaj#0188",
       "size": 17.730136624816012,
-      "image": "https://i.redd.it/ycxc1xqwr5l21.jpg",
+      "image": "https://media.discordapp.net/attachments/209707792314007552/967526158835023912/unknown.png",
       "color": "#ff60cc",
+      "discordLegitimation": "130467432513929216",
       "typ": "användare",
       "gickMed": "Thu May 09 2019 18:02:13 GMT+0200 (Central European Summer Time)"
     },
@@ -15,6 +16,7 @@
       "size": 25,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#e74c3c",
+      "discordLegitimation": "207840759087497217",
       "typ": "admin2",
       "gickMed": "Mon Aug 01 2016 18:23:53 GMT+0200 (Central European Summer Time)"
     },
@@ -24,6 +26,7 @@
       "size": 24.992623847177626,
       "image": "https://cdn.discordapp.com/avatars/210077289294200832/9d7e84ba9f7dfbec0c314de66c188e5b",
       "color": "#1f8b4c",
+      "discordLegitimation": "210077289294200832",
       "typ": "användare",
       "gickMed": "Tue Aug 02 2016 19:01:00 GMT+0200 (Central European Summer Time)"
     },
@@ -33,6 +36,7 @@
       "size": 24.993976522861427,
       "image": "https://cdn.discordapp.com/avatars/207974495393153024/9eb048f59702315672d0c7b3126ebe26",
       "color": "#2ecc71",
+      "discordLegitimation": "207974495393153024",
       "typ": "admin2",
       "gickMed": "Tue Aug 02 2016 14:30:07 GMT+0200 (Central European Summer Time)"
     },
@@ -45,6 +49,7 @@
       "alternativaNamn": [
         "victor"
       ],
+      "discordLegitimation": "162288590192246784",
       "typ": "användare",
       "gickMed": "Wed Aug 14 2019 23:26:10 GMT+0200 (Central European Summer Time)"
     },
@@ -54,6 +59,7 @@
       "size": 10.461594303789045,
       "image": "https://cdn.discordapp.com/avatars/162288590192246784/acc93af07ad1be71160ff4036c8ad393",
       "color": "#000000",
+      "discordLegitimation": "629231357167665162",
       "typ": "användare",
       "gickMed": "Sun Feb 13 2022 12:16:00 GMT+0100 (Central European Standard Time)"
     },
@@ -63,6 +69,7 @@
       "size": 11.027653093095548,
       "image": "https://cdn.discordapp.com/avatars/237608224319209472/a75e226c45cd3aba87ec4973ec6568d8",
       "color": "#000000",
+      "discordLegitimation": "237608224319209472",
       "typ": "användare",
       "gickMed": "Fri Nov 26 2021 19:00:32 GMT+0100 (Central European Standard Time)"
     },
@@ -75,6 +82,7 @@
       "alternativaNamn": [
         "ludvig"
       ],
+      "discordLegitimation": "208912871621394432",
       "typ": "användare",
       "gickMed": "Sun Apr 05 2020 19:51:10 GMT+0200 (Central European Summer Time)"
     },
@@ -84,6 +92,7 @@
       "size": 12.961765885860341,
       "image": null,
       "color": "#11806a",
+      "discordLegitimation": "249941929515679744",
       "typ": "användare",
       "gickMed": "Tue Mar 02 2021 19:46:57 GMT+0100 (Central European Standard Time)"
     },
@@ -93,6 +102,7 @@
       "size": 10.437281991140297,
       "image": "https://cdn.discordapp.com/avatars/119046223964536834/454ff2e31ac2ee0e92af8550994ec588",
       "color": "#607d8b",
+      "discordLegitimation": "119046223964536834",
       "typ": "användare",
       "gickMed": "Wed Feb 16 2022 21:24:38 GMT+0100 (Central European Standard Time)"
     },
@@ -102,6 +112,7 @@
       "size": 14.71751243547239,
       "image": "https://cdn.discordapp.com/avatars/219912580813160448/b410ab758a2fbfa9a1636ed2d19f970f",
       "color": "#ff60cc",
+      "discordLegitimation": "219912580813160448",
       "typ": "användare",
       "gickMed": "Wed Jul 01 2020 16:51:53 GMT+0200 (Central European Summer Time)"
     },
@@ -111,6 +122,7 @@
       "size": 14.621835276454629,
       "image": "https://cdn.discordapp.com/avatars/651177486503247872/4b295b6e598c648511f9017df8736644",
       "color": "#ff60cc",
+      "discordLegitimation": "651177486503247872",
       "typ": "användare",
       "gickMed": "Wed Jul 15 2020 00:11:37 GMT+0200 (Central European Summer Time)"
     },
@@ -120,6 +132,7 @@
       "size": 13.31484713432564,
       "image": "https://cdn.discordapp.com/avatars/140204978227642368/27078b64549e865d1114231874e510b6",
       "color": "#ff60cc",
+      "discordLegitimation": "140204978227642368",
       "typ": "användare",
       "gickMed": "Tue Jan 12 2021 17:21:03 GMT+0100 (Central European Standard Time)"
     },
@@ -128,6 +141,7 @@
       "label": "Mr Bones\nKorvblad",
       "size": 25,
       "image": "https://cdn.discordapp.com/avatars/146351485196828672/a35c38df8ac0271aab2bcf590f99723d",
+      "discordLegitimation": "146351485196828672",
       "typ": "användare"
     },
     {
@@ -136,6 +150,7 @@
       "size": 12.307269155265132,
       "image": "https://cdn.discordapp.com/avatars/217949634893447169/a1ccc4b288c7070129c3c722b752f585",
       "color": "#000000",
+      "discordLegitimation": "217949634893447169",
       "typ": "användare",
       "gickMed": "Tue Jun 01 2021 21:12:27 GMT+0200 (Central European Summer Time)"
     },
@@ -145,6 +160,7 @@
       "size": 12.50833769754361,
       "image": "https://cdn.discordapp.com/avatars/632228356720689152/3117798833a8094823740866ceddb1a2",
       "color": "#ff0000",
+      "discordLegitimation": "632228356720689152",
       "typ": "användare",
       "gickMed": "Tue May 04 2021 22:07:42 GMT+0200 (Central European Summer Time)"
     },
@@ -154,6 +170,7 @@
       "size": 10.769929910949488,
       "image": "https://cdn.discordapp.com/avatars/251018570027368469/b63aedbef4deb785a134724a8b8726aa",
       "color": "#000000",
+      "discordLegitimation": "251018570027368469",
       "typ": "användare",
       "gickMed": "Sat Jan 01 2022 15:10:36 GMT+0100 (Central European Standard Time)"
     },
@@ -163,6 +180,7 @@
       "size": 10.971281013300452,
       "image": "https://cdn.discordapp.com/avatars/457695196327444482/d83c6a7736f5c7394d5b69f411301533",
       "color": "#2ecc71",
+      "discordLegitimation": "457695196327444482",
       "typ": "användare",
       "gickMed": "Sat Dec 04 2021 15:09:15 GMT+0100 (Central European Standard Time)"
     },
@@ -172,6 +190,7 @@
       "size": 11.826088729138997,
       "image": "https://cdn.discordapp.com/avatars/559426966151757824/c7c54eb85e591ced4c2f0864b7ea4e3e",
       "color": "#000000",
+      "discordLegitimation": "559426966151757824",
       "typ": "bot",
       "gickMed": "Sat Aug 07 2021 19:10:42 GMT+0200 (Central European Summer Time)"
     },
@@ -184,6 +203,7 @@
       "alternativaNamn": [
         "dennis"
       ],
+      "discordLegitimation": "145675310682079232",
       "typ": "användare",
       "gickMed": "Sun Apr 05 2020 20:03:00 GMT+0200 (Central European Summer Time)"
     },
@@ -193,6 +213,7 @@
       "size": 21.87094884529786,
       "image": "https://cdn.discordapp.com/avatars/148528041713205248/4cdc7ef3035ce75cf176cf2297114b31",
       "color": "#b1ffef",
+      "discordLegitimation": "148528041713205248",
       "typ": "användare",
       "gickMed": "Tue Oct 10 2017 21:48:31 GMT+0200 (Central European Summer Time)"
     },
@@ -202,6 +223,7 @@
       "size": 11.568691445385744,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "212277187351412736",
       "typ": "kudde",
       "gickMed": "Sun Sep 12 2021 14:15:30 GMT+0200 (Central European Summer Time)"
     },
@@ -211,6 +233,7 @@
       "size": 10.316503717600376,
       "image": "https://cdn.discordapp.com/avatars/949688339798315069/11bf5ea9df39ea1e8fe6301ad19a8414",
       "color": "#000000",
+      "discordLegitimation": "949688339798315069",
       "typ": "användare",
       "gickMed": "Sat Mar 05 2022 16:30:57 GMT+0100 (Central European Standard Time)"
     },
@@ -220,6 +243,7 @@
       "size": 11.511141791552117,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#000000",
+      "discordLegitimation": "889485510949609474",
       "typ": "TV",
       "gickMed": "Mon Sep 20 2021 14:20:03 GMT+0200 (Central European Summer Time)"
     },
@@ -229,18 +253,20 @@
       "size": 11.381197228479147,
       "image": "https://cdn.discordapp.com/avatars/892467625832091698/7a3eca2a1cf227b42b9b2d9ec22482cc",
       "color": "#000000",
+      "discordLegitimation": "892467625832091698",
       "typ": "cellphone",
       "gickMed": "Fri Oct 08 2021 16:01:57 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "eddy",
-      "label": "Mr Bones\nLUNGS\nNaone#6104",
+      "label": "Mr Bones\nBONES\nNaone#6104",
       "size": 24.80472466707523,
       "image": "https://cdn.discordapp.com/avatars/122696607173967872/69f2c914c92b74a89c0e26e638873879",
       "color": "#992d22",
       "alternativaNamn": [
         "edwin"
       ],
+      "discordLegitimation": "122696607173967872",
       "typ": "användare",
       "gickMed": "Sun Aug 28 2016 22:08:32 GMT+0200 (Central European Summer Time)"
     },
@@ -250,6 +276,7 @@
       "size": 25,
       "image": "https://avatars.githubusercontent.com/u/2163363?v=4",
       "color": "#FF6600",
+      "discordLegitimation": "",
       "typ": "banned"
     },
     {
@@ -260,14 +287,16 @@
       "alternativaNamn": [
         "jean-pierre lacomposte?"
       ],
+      "discordLegitimation": "949428935362498620",
       "typ": "mystery"
     },
     {
       "id": "max",
-      "label": "Mr Bones\nGuy\nHulk#6170",
+      "label": "Mr Bones\nMister Bones\nHulk#6170",
       "size": 23.066082007625184,
       "image": "https://cdn.discordapp.com/avatars/161956657402740736/b7d6ab281096529ff2d668d75e7b8cfc",
       "color": "#992d22",
+      "discordLegitimation": "161956657402740736",
       "typ": "användare",
       "gickMed": "Thu Apr 27 2017 16:58:28 GMT+0200 (Central European Summer Time)"
     },
@@ -277,6 +306,7 @@
       "size": 11.51115635614737,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#000000",
+      "discordLegitimation": "889484950519312384",
       "typ": "oklart",
       "gickMed": "Mon Sep 20 2021 14:17:08 GMT+0200 (Central European Summer Time)"
     },
@@ -289,6 +319,7 @@
       "alternativaNamn": [
         "joel"
       ],
+      "discordLegitimation": "395189309688512512",
       "typ": "användare",
       "gickMed": "Wed Jan 10 2018 19:33:00 GMT+0100 (Central European Standard Time)"
     },
@@ -298,6 +329,7 @@
       "size": 17.65978743127588,
       "image": "https://cdn.discordapp.com/avatars/157775827692421120/028eb37d23afcbe31da61f35caf9b067",
       "color": "#e67e22",
+      "discordLegitimation": "157775827692421120",
       "typ": "användare",
       "gickMed": "Sun May 19 2019 12:49:55 GMT+0200 (Central European Summer Time)"
     },
@@ -307,15 +339,17 @@
       "size": 14.501534820130708,
       "image": "https://cdn.discordapp.com/avatars/128940731745173505/28a178fc012cfd182a5d0267b59b6a52",
       "color": "#11806a",
+      "discordLegitimation": "128940731745173505",
       "typ": "användare",
       "gickMed": "Fri Jul 31 2020 17:42:15 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "niklas",
-      "label": "Mr Bones\nPoppmaister6000\nPoppm🅰ister6000#7105",
+      "label": "Mr Bones\nBonemaister6000\nPoppm🅰ister6000#7105",
       "size": 12.63032405947094,
       "image": "https://cdn.discordapp.com/avatars/82706128357560320/a0345051c0ecea472761643f58468ae5",
       "color": "#11806a",
+      "discordLegitimation": "82706128357560320",
       "typ": "användare",
       "gickMed": "Sat Apr 17 2021 22:59:27 GMT+0200 (Central European Summer Time)"
     },
@@ -325,6 +359,7 @@
       "size": 15.241955811426346,
       "image": null,
       "color": "#992d22",
+      "discordLegitimation": "487679870839685120",
       "typ": "användare",
       "gickMed": "Sun Apr 19 2020 18:30:04 GMT+0200 (Central European Summer Time)"
     },
@@ -334,6 +369,7 @@
       "size": 12.400229427641332,
       "image": "https://cdn.discordapp.com/avatars/207171787853791232/56ce54305a0e74d1a75eeb53a737004a",
       "color": "#000000",
+      "discordLegitimation": "207171787853791232",
       "typ": "användare",
       "gickMed": "Wed May 19 2021 22:56:48 GMT+0200 (Central European Summer Time)"
     },
@@ -343,6 +379,7 @@
       "size": 12.171296526128703,
       "image": "https://cdn.discordapp.com/avatars/161951163367948288/2b16cde2d882615ea32d0a3c4076e849",
       "color": "#000000",
+      "discordLegitimation": "161951163367948288",
       "typ": "användare",
       "gickMed": "Sun Jun 20 2021 19:01:30 GMT+0200 (Central European Summer Time)"
     },
@@ -355,6 +392,7 @@
       "alternativaNamn": [
         "sara"
       ],
+      "discordLegitimation": "217109962084712448",
       "typ": "admin",
       "gickMed": "Sat Oct 22 2016 14:56:37 GMT+0200 (Central European Summer Time)"
     },
@@ -364,6 +402,7 @@
       "size": 24.509841358602174,
       "image": "https://cdn.discordapp.com/avatars/84926802065096704/bfd5c2153af2249b0819bc00131cbc34",
       "color": "#e67e22",
+      "discordLegitimation": "84926802065096704",
       "typ": "användare",
       "gickMed": "Sat Oct 08 2016 22:20:03 GMT+0200 (Central European Summer Time)"
     },
@@ -373,6 +412,7 @@
       "size": 16.932053406668576,
       "image": "https://cdn.discordapp.com/avatars/151467562520150016/43d5643d73cde2baedb64cd534ed4458",
       "color": "#ebceda",
+      "discordLegitimation": "151467562520150016",
       "typ": "användare",
       "gickMed": "Wed Aug 28 2019 17:41:28 GMT+0200 (Central European Summer Time)"
     },
@@ -382,6 +422,7 @@
       "size": 15.219811849805366,
       "image": null,
       "color": "#ff60cc",
+      "discordLegitimation": "583622744650809354",
       "typ": "användare",
       "gickMed": "Wed Apr 22 2020 20:24:29 GMT+0200 (Central European Summer Time)"
     },
@@ -391,15 +432,17 @@
       "size": 18.519964315572608,
       "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
       "color": "#11806a",
+      "discordLegitimation": "128604198110625792",
       "typ": "användare",
       "gickMed": "Sat Jan 19 2019 20:56:10 GMT+0100 (Central European Standard Time)"
     },
     {
       "id": "jezeray",
-      "label": "Mr Bones\nJunior#5535",
+      "label": "Mr Bones\nJunior Bones\nJunior#5535",
       "size": 12.076978028280188,
       "image": "https://cdn.discordapp.com/avatars/314857007402319874/641b768b129ab8e779245154df9524d5",
       "color": "#11806a",
+      "discordLegitimation": "314857007402319874",
       "typ": "användare",
       "gickMed": "Sat Jul 03 2021 21:49:09 GMT+0200 (Central European Summer Time)"
     },
@@ -409,6 +452,7 @@
       "size": 10.882961568760422,
       "image": "https://cdn.discordapp.com/avatars/149298760042807296/bc23956d7e342f44c8ab61c1a1e090c8",
       "color": "#000000",
+      "discordLegitimation": "149298760042807296",
       "typ": "user",
       "gickMed": "Thu Dec 16 2021 21:55:34 GMT+0100 (Central European Standard Time)"
     },
@@ -418,6 +462,7 @@
       "size": 15.312609572020298,
       "image": "https://cdn.discordapp.com/avatars/200638077591355392/bdc03ccfa352a59a059d8e148db60a5f",
       "color": "#11806a",
+      "discordLegitimation": "200638077591355392",
       "typ": "användare",
       "gickMed": "Thu Apr 09 2020 22:41:23 GMT+0200 (Central European Summer Time)"
     },
@@ -427,6 +472,7 @@
       "size": 22.866382823354215,
       "image": null,
       "color": "#ff60cc",
+      "discordLegitimation": "118224261226692608",
       "typ": "användare",
       "gickMed": "Thu May 25 2017 11:29:00 GMT+0200 (Central European Summer Time)"
     },
@@ -436,6 +482,7 @@
       "size": 11.83973452345594,
       "image": "https://cdn.discordapp.com/avatars/241669667469393920/fe49703a12cd4f392cb5dcf53064ee09",
       "color": "#000000",
+      "discordLegitimation": "241669667469393920",
       "typ": "användare",
       "gickMed": "Thu Aug 05 2021 21:38:04 GMT+0200 (Central European Summer Time)"
     },
@@ -445,6 +492,7 @@
       "size": 11.839736197830513,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "872926293136670801",
       "typ": "oklart",
       "gickMed": "Thu Aug 05 2021 21:37:44 GMT+0200 (Central European Summer Time)"
     },
@@ -454,6 +502,7 @@
       "size": 12.630324386222833,
       "image": "https://cdn.discordapp.com/avatars/101367380017442816/6532e6a45a429101c459dd85a1ad101a",
       "color": "#11806a",
+      "discordLegitimation": "101367380017442816",
       "typ": "användare",
       "gickMed": "Sat Apr 17 2021 22:59:23 GMT+0200 (Central European Summer Time)"
     },
@@ -463,6 +512,7 @@
       "size": 12.336437744845533,
       "image": "https://cdn.discordapp.com/avatars/131145000124678145/eb1f60dd7a60dcc488c5621865ad9ddf",
       "color": "#ff60cc",
+      "discordLegitimation": "131145000124678145",
       "typ": "användare",
       "gickMed": "Fri May 28 2021 19:51:20 GMT+0200 (Central European Summer Time)"
     },
@@ -472,15 +522,17 @@
       "size": 12.645925261039947,
       "image": "https://cdn.discordapp.com/avatars/224953719945560066/51205eb843b103b8ad89965f6ccf3f77",
       "color": "#11806a",
+      "discordLegitimation": "224953719945560066",
       "typ": "användare",
       "gickMed": "Thu Apr 15 2021 18:55:15 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "august",
-      "label": "Mr Bones\nMrs. Bones\nCircuz#4554",
+      "label": "Mr Bones\nMr. BONE\nCircuz#4554",
       "size": 12.710344967548542,
       "image": "https://media.discordapp.net/attachments/934816556590985216/957373395702534224/august.png",
       "color": "#1f8b4c",
+      "discordLegitimation": "199914493570973697",
       "typ": "användare",
       "gickMed": "Tue Apr 06 2021 19:54:57 GMT+0200 (Central European Summer Time)"
     },
@@ -490,6 +542,7 @@
       "size": 11.94044102413625,
       "image": null,
       "color": "#607d8b",
+      "discordLegitimation": "215911981624852491",
       "typ": "användare",
       "gickMed": "Thu Jul 22 2021 21:31:12 GMT+0200 (Central European Summer Time)"
     },
@@ -499,6 +552,7 @@
       "size": 12.328539487025404,
       "image": "https://cdn.discordapp.com/avatars/177559233833730048/5fc441d6bba68deda9d97a9887649ee2",
       "color": "#ff0000",
+      "discordLegitimation": "177559233833730048",
       "typ": "användare",
       "gickMed": "Sat May 29 2021 22:12:59 GMT+0200 (Central European Summer Time)"
     },
@@ -508,6 +562,7 @@
       "size": 11.890215100086682,
       "image": null,
       "color": "#11806a",
+      "discordLegitimation": "227040765883187200",
       "typ": "användare",
       "gickMed": "Thu Jul 29 2021 21:09:09 GMT+0200 (Central European Summer Time)"
     },
@@ -520,6 +575,7 @@
       "alternativaNamn": [
         "isac"
       ],
+      "discordLegitimation": "151072254862557184",
       "typ": "användare",
       "gickMed": "Thu Oct 07 2021 23:48:10 GMT+0200 (Central European Summer Time)"
     },
@@ -529,6 +585,7 @@
       "size": 23.54687649390756,
       "image": "https://cdn.discordapp.com/avatars/200371134711988224/e0e9048996470b04b308b99e9630e2b5",
       "color": "#ff60cc",
+      "discordLegitimation": "200371134711988224",
       "typ": "användare",
       "gickMed": "Sun Feb 19 2017 19:17:30 GMT+0100 (Central European Standard Time)"
     },
@@ -538,6 +595,7 @@
       "size": 12.328368653878435,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "846460036686413856",
       "typ": "användare",
       "gickMed": "Sat May 29 2021 22:47:12 GMT+0200 (Central European Summer Time)"
     },
@@ -547,6 +605,7 @@
       "size": 12.328360699225954,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "195608359276118016",
       "typ": "användare",
       "gickMed": "Sat May 29 2021 22:48:47 GMT+0200 (Central European Summer Time)"
     },
@@ -556,15 +615,17 @@
       "size": 10.72502055995525,
       "image": "https://cdn.discordapp.com/avatars/173147201617395713/0d4a7782229a6cb84151b7f6da7b05b4",
       "color": "#000000",
+      "discordLegitimation": "173147201617395713",
       "typ": "användare",
       "gickMed": "Fri Jan 07 2022 21:03:52 GMT+0100 (Central European Standard Time)"
     },
     {
       "id": "SATAN",
-      "label": "Mr Bones\nSATANic Bones\nfia#4446",
+      "label": "Mr Bones\nSATAN\nfia#4446",
       "size": 13.587456537709338,
       "image": null,
       "color": "#00c7ff",
+      "discordLegitimation": "478291848167948289",
       "typ": "användare",
       "gickMed": "Sat Dec 05 2020 19:29:58 GMT+0100 (Central European Standard Time)"
     },
@@ -574,6 +635,7 @@
       "size": 11.437827247267025,
       "image": "https://cdn.discordapp.com/avatars/893178375374524416/54bd31fce252fd09bbc70674071f3650",
       "color": "#00c7ff",
+      "discordLegitimation": "893178375374524416",
       "typ": "användare",
       "gickMed": "Thu Sep 30 2021 19:01:34 GMT+0200 (Central European Summer Time)"
     },
@@ -586,6 +648,7 @@
       "alternativaNamn": [
         "sofia"
       ],
+      "discordLegitimation": "890019799994867723",
       "typ": "användare",
       "gickMed": "Wed Sep 22 2021 01:42:02 GMT+0200 (Central European Summer Time)"
     },
@@ -595,6 +658,7 @@
       "size": 16.88181991197906,
       "image": "https://cdn.discordapp.com/avatars/170472369792483328/2a463e439d56c58cb5822e367e31466e",
       "color": "#ff60cc",
+      "discordLegitimation": "170472369792483328",
       "typ": "användare",
       "gickMed": "Wed Sep 04 2019 17:20:56 GMT+0200 (Central European Summer Time)"
     },
@@ -604,6 +668,7 @@
       "size": 10.925680569985097,
       "image": "https://cdn.discordapp.com/avatars/128939696867770368/aee10f41e7e7e73e8b5d0d6a012ebd2a",
       "color": "#000000",
+      "discordLegitimation": "128939696867770368",
       "typ": "användare",
       "gickMed": "Fri Dec 10 2021 23:20:55 GMT+0100 (Central European Standard Time)"
     },
@@ -613,6 +678,7 @@
       "size": 10.976243320472246,
       "image": "https://cdn.discordapp.com/avatars/207581293406322689/ed1c62f2f129b959327186a835957a6e",
       "color": "#3498db",
+      "discordLegitimation": "207581293406322689",
       "typ": "användare",
       "gickMed": "Fri Dec 03 2021 22:35:32 GMT+0100 (Central European Standard Time)"
     },
@@ -622,6 +688,7 @@
       "size": 15.220068550453416,
       "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
       "color": "#ff60cc",
+      "discordLegitimation": "701183154509054032",
       "typ": "användare",
       "gickMed": "Wed Apr 22 2020 19:33:05 GMT+0200 (Central European Summer Time)"
     },
@@ -631,6 +698,7 @@
       "size": 13.689411587250476,
       "image": "https://cdn.discordapp.com/avatars/280314936725471233/ae65fdffaa4ae8bce2081363fdc0ccf1",
       "color": "#000000",
+      "discordLegitimation": "280314936725471233",
       "typ": "användare",
       "gickMed": "Sat Nov 21 2020 15:13:04 GMT+0100 (Central European Standard Time)"
     },
@@ -640,6 +708,7 @@
       "size": 13.689426262288869,
       "image": "https://cdn.discordapp.com/avatars/280314936725471233/ae65fdffaa4ae8bce2081363fdc0ccf1",
       "color": "#000000",
+      "discordLegitimation": "770615405201981461",
       "typ": "användare",
       "gickMed": "Sat Nov 21 2020 15:10:08 GMT+0100 (Central European Standard Time)"
     },
@@ -649,6 +718,7 @@
       "size": 12.098759375614964,
       "image": "https://cdn.discordapp.com/avatars/187663940501766166/575200967db19fd96b9e3b516b1b7546",
       "color": "#000000",
+      "discordLegitimation": "187663940501766166",
       "typ": "användare",
       "gickMed": "Wed Jun 30 2021 21:07:21 GMT+0200 (Central European Summer Time)"
     },
@@ -656,6 +726,7 @@
       "id": "gravebot",
       "label": "Mr Bones\ngravebot",
       "size": 25,
+      "discordLegitimation": "",
       "typ": "bot"
     },
     {
@@ -664,6 +735,7 @@
       "size": 24.50541744100674,
       "image": "https://cdn.discordapp.com/avatars/172002275412279296/43fc1879641f6239d6e4038eaa7dabbc",
       "color": "#000000",
+      "discordLegitimation": "172002275412279296",
       "typ": "bot",
       "gickMed": "Sun Oct 09 2016 13:05:58 GMT+0200 (Central European Summer Time)"
     },
@@ -673,6 +745,7 @@
       "size": 17.163337488877737,
       "image": "https://cdn.discordapp.com/avatars/604262636581945355/fb4b418f45d7b9f307ccfa2f74295087",
       "color": "#ff60cc",
+      "discordLegitimation": "604262636581945355",
       "typ": "bot",
       "gickMed": "Sat Jul 27 2019 13:45:56 GMT+0200 (Central European Summer Time)"
     },
@@ -682,6 +755,7 @@
       "size": 21.345025376318432,
       "image": "https://cdn.discordapp.com/avatars/235088799074484224/9b29bfc497a70b6cc85bb2087936f8fd",
       "color": "#ff60cc",
+      "discordLegitimation": "235088799074484224",
       "typ": "bot",
       "gickMed": "Sat Dec 23 2017 00:06:44 GMT+0100 (Central European Standard Time)"
     },
@@ -691,6 +765,7 @@
       "size": 14.371309531822803,
       "image": "https://cdn.discordapp.com/avatars/745345949295181886/f225b748f8d5a260ea078f81f5cb1391",
       "color": "#ff60cc",
+      "discordLegitimation": "745345949295181886",
       "typ": "bot",
       "gickMed": "Tue Aug 18 2020 20:20:22 GMT+0200 (Central European Summer Time)"
     },
@@ -700,6 +775,7 @@
       "size": 10.897110827653657,
       "image": "https://cdn.discordapp.com/avatars/105631049597353984/afe2c6b17bcfe963c964edc4d5f9b224",
       "color": "#000000",
+      "discordLegitimation": "105631049597353984",
       "typ": "användare",
       "gickMed": "Tue Dec 14 2021 22:42:07 GMT+0100 (Central European Standard Time)"
     },
@@ -709,6 +785,7 @@
       "size": 17.55620838879033,
       "image": null,
       "color": "#ff60cc",
+      "discordLegitimation": "506945780431454208",
       "typ": "användare",
       "gickMed": "Sun Jun 02 2019 22:32:01 GMT+0200 (Central European Summer Time)"
     },
@@ -718,6 +795,7 @@
       "size": 14.903046372145944,
       "image": "https://cdn.discordapp.com/avatars/151040052439285761/9c16743f27b571abd35ace078228bf32",
       "color": "#ff60cc",
+      "discordLegitimation": "151040052439285761",
       "typ": "användare",
       "gickMed": "Fri Jun 05 2020 21:38:00 GMT+0200 (Central European Summer Time)"
     },
@@ -727,6 +805,7 @@
       "size": 16.961125825659813,
       "image": "https://cdn.discordapp.com/avatars/84926802065096704/bfd5c2153af2249b0819bc00131cbc34",
       "color": "#ff60cc",
+      "discordLegitimation": "614830746015629452",
       "typ": "användare",
       "gickMed": "Sat Aug 24 2019 16:39:37 GMT+0200 (Central European Summer Time)"
     },
@@ -736,6 +815,7 @@
       "size": 16.670805854388373,
       "image": "https://cdn.discordapp.com/avatars/207841450333962241/dcab7c38fc52a511365a918d26a0947a",
       "color": "#ff60cc",
+      "discordLegitimation": "207841450333962241",
       "typ": "syster",
       "gickMed": "Fri Oct 04 2019 01:37:19 GMT+0200 (Central European Summer Time)"
     },
@@ -745,6 +825,7 @@
       "size": 11.127397048533004,
       "image": "https://cdn.discordapp.com/avatars/908820992703488061/ebb93d06ad03e88d63a2cab21867fb36",
       "color": "#e74c3c",
+      "discordLegitimation": "908820992703488061",
       "typ": "bot",
       "gickMed": "Fri Nov 12 2021 22:06:25 GMT+0100 (Central European Standard Time)"
     },
@@ -754,6 +835,7 @@
       "size": 12.817596533604485,
       "image": "https://cdn.discordapp.com/avatars/139008771862036480/69f18b3d63d6dd50478068dd6dce5a48",
       "color": "#000000",
+      "discordLegitimation": "139008771862036480",
       "typ": "bror",
       "gickMed": "Mon Mar 22 2021 20:57:25 GMT+0100 (Central European Standard Time)"
     },
@@ -763,6 +845,7 @@
       "size": 11.853286980919947,
       "image": "https://cdn.discordapp.com/avatars/433615162394804224/54bbc9994ea438adf4a81edeeea7b8f5",
       "color": "#000000",
+      "discordLegitimation": "433615162394804224",
       "typ": "bot",
       "gickMed": "Wed Aug 04 2021 00:24:08 GMT+0200 (Central European Summer Time)"
     },
@@ -772,6 +855,7 @@
       "size": 10.621968905178333,
       "image": "https://cdn.discordapp.com/avatars/934211681419145247/43282214cdf9a3ef9284e111cb56906f",
       "color": "#000000",
+      "discordLegitimation": "934211681419145247",
       "typ": "bot",
       "gickMed": "Sat Jan 22 2022 05:00:22 GMT+0100 (Central European Standard Time)"
     },
@@ -781,6 +865,7 @@
       "size": 10.582715148224617,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "936272969162977280",
       "typ": "bot",
       "gickMed": "Thu Jan 27 2022 16:01:05 GMT+0100 (Central European Standard Time)"
     },
@@ -790,6 +875,7 @@
       "size": 10.317307902363646,
       "image": "https://cdn.discordapp.com/avatars/949647007704817665/0ab037b43a272f40371d5dd0ddadfde4",
       "color": "#000000",
+      "discordLegitimation": "949647007704817665",
       "typ": "bot",
       "gickMed": "Sat Mar 05 2022 13:49:54 GMT+0100 (Central European Standard Time)"
     },
@@ -797,8 +883,9 @@
       "id": "VRHaj",
       "label": "Mr Bones\nVRHaj#6029",
       "size": 11.983845846872732,
-      "image": "https://i.redd.it/ycxc1xqwr5l21.jpg",
+      "image": "https://media.discordapp.net/attachments/209707792314007552/967526158835023912/unknown.png",
       "color": "#000000",
+      "discordLegitimation": "798977710705475604",
       "typ": "VR",
       "gickMed": "Fri Jul 16 2021 20:39:13 GMT+0200 (Central European Summer Time)"
     },
@@ -808,6 +895,7 @@
       "size": 10.288661765672725,
       "image": "https://cdn.discordapp.com/avatars/476003192706957342/5ce38da00fecb49009ae224622946d1b",
       "color": "#ff0000",
+      "discordLegitimation": "476003192706957342",
       "typ": "användare",
       "gickMed": "Wed Mar 09 2022 13:26:24 GMT+0100 (Central European Standard Time)"
     },
@@ -817,6 +905,7 @@
       "size": 12.395245500330484,
       "image": "https://cdn.discordapp.com/avatars/240192826778976267/9f263320aab4bd0481ba603dac264e7f",
       "color": "#000000",
+      "discordLegitimation": "240192826778976267",
       "typ": "användare",
       "gickMed": "Thu May 20 2021 15:34:51 GMT+0200 (Central European Summer Time)"
     },
@@ -826,6 +915,7 @@
       "size": 12.121875972254324,
       "image": "https://cdn.discordapp.com/avatars/104179279658508288/51d13b42faed0cb45045075e5cba3d2a",
       "color": "#000000",
+      "discordLegitimation": "104179279658508288",
       "typ": "användare",
       "gickMed": "Sun Jun 27 2021 15:58:09 GMT+0200 (Central European Summer Time)"
     },
@@ -835,6 +925,7 @@
       "size": 10.078626896781273,
       "image": "https://cdn.discordapp.com/avatars/717767450825064468/dc2eb3c950877bd81f4794fa6302513c",
       "color": "#000000",
+      "discordLegitimation": "717767450825064468",
       "typ": "användare",
       "gickMed": "Thu Apr 07 2022 19:26:42 GMT+0200 (Central European Summer Time)"
     },
@@ -844,6 +935,7 @@
       "size": 10,
       "image": "https://cdn.discordapp.com/avatars/149249725382656000/9f82834fe25e6e6c68f2aa0152fb3627",
       "color": "#000000",
+      "discordLegitimation": "149249725382656000",
       "typ": "infiltratör",
       "gickMed": "Mon Apr 18 2022 17:52:03 GMT+0200 (Central European Summer Time)"
     },
@@ -853,6 +945,7 @@
       "size": 11.897095506618616,
       "image": "https://cdn.discordapp.com/avatars/255431752070201344/0a190e54e6aeb8812d461f841ec8a567",
       "color": "#000000",
+      "discordLegitimation": "255431752070201344",
       "typ": "användare",
       "gickMed": "Wed Jul 28 2021 22:11:19 GMT+0200 (Central European Summer Time)"
     },
@@ -862,6 +955,7 @@
       "size": 11.897094330861105,
       "image": "https://cdn.discordapp.com/avatars/281521046836871168/3188c92ad0768dbdbd89d8e4086c7ed6",
       "color": "#000000",
+      "discordLegitimation": "281521046836871168",
       "typ": "användare",
       "gickMed": "Wed Jul 28 2021 22:11:33 GMT+0200 (Central European Summer Time)"
     },
@@ -871,6 +965,7 @@
       "size": 10.221508727647446,
       "image": "https://cdn.discordapp.com/avatars/309400970524229635/79e250d7d31f707821e76b5f5d11aa7e",
       "color": "#ff60cc",
+      "discordLegitimation": "309400970524229635",
       "typ": "användare",
       "gickMed": "Fri Mar 18 2022 21:34:04 GMT+0100 (Central European Standard Time)"
     },
@@ -880,6 +975,7 @@
       "size": 12.149125389503263,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "222832009343533056",
       "typ": "användare",
       "gickMed": "Wed Jun 23 2021 21:01:21 GMT+0200 (Central European Summer Time)"
     },
@@ -889,6 +985,7 @@
       "size": 10.220716497625673,
       "image": null,
       "color": "#000000",
+      "discordLegitimation": "724720729001689170",
       "typ": "användare",
       "gickMed": "Sat Mar 19 2022 00:12:43 GMT+0100 (Central European Standard Time)"
     },
@@ -898,6 +995,7 @@
       "size": 11.323770387165816,
       "image": "https://cdn.discordapp.com/avatars/193782437463982090/63d0c73f70a30b3b82ecb645b6c38d1d",
       "color": "#000000",
+      "discordLegitimation": "193782437463982090",
       "typ": "användare",
       "gickMed": "Sat Oct 16 2021 15:41:54 GMT+0200 (Central European Summer Time)"
     },
@@ -907,6 +1005,7 @@
       "size": 11.89706530395742,
       "image": "https://cdn.discordapp.com/avatars/326358844613853185/6bc5a1f5d7175028a346162c23b16775",
       "color": "#000000",
+      "discordLegitimation": "326358844613853185",
       "typ": "användare",
       "gickMed": "Wed Jul 28 2021 22:17:22 GMT+0200 (Central European Summer Time)"
     },
@@ -940,7 +1039,7 @@
       "from": "god",
       "to": "hugo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -949,7 +1048,7 @@
       "from": "ARTHAS",
       "to": "denkan",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -981,7 +1080,7 @@
       "from": "linus",
       "to": "adam",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -990,25 +1089,25 @@
       "from": "toste",
       "to": "doedscalle",
       "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "toste",
-      "to": "Tostes polare",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "toste",
-      "to": "Tostes polare",
-      "dashes": false,
       "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "toste",
+      "to": "Tostes polare",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "toste",
+      "to": "Tostes polare",
+      "dashes": false,
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1017,7 +1116,7 @@
       "from": "niklas",
       "to": "VidyaViking",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1026,7 +1125,7 @@
       "from": "jorel",
       "to": "pkaff",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1035,7 +1134,7 @@
       "from": "august",
       "to": "Hannes",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1051,7 +1150,7 @@
       "from": "snakebunker",
       "to": "Elias Thorn",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1060,7 +1159,7 @@
       "from": "niklas",
       "to": "Korvblad",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1069,7 +1168,7 @@
       "from": "august",
       "to": "Låda",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1078,7 +1177,7 @@
       "from": "spacehippo",
       "to": "Melker",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1087,7 +1186,7 @@
       "from": "hugo",
       "to": "NQN",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1096,7 +1195,7 @@
       "from": "uschtvii",
       "to": "NQN",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1105,7 +1204,7 @@
       "from": "denkan",
       "to": "eddy",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1114,7 +1213,7 @@
       "from": "hugo",
       "to": "uschtvii",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1123,7 +1222,7 @@
       "from": "uschtvii",
       "to": "hugo",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1132,7 +1231,7 @@
       "from": "hugo",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1141,7 +1240,7 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1178,7 +1277,7 @@
       "from": "magnus",
       "to": "tornborg",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1187,7 +1286,7 @@
       "from": "tornborg",
       "to": "näbbdjuret",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1196,7 +1295,7 @@
       "from": "tornborg",
       "to": "rosa pingvinen",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1214,7 +1313,7 @@
       "from": "uschtvii",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1223,7 +1322,7 @@
       "from": "tod",
       "to": "Tods schackkompis",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1241,7 +1340,7 @@
       "from": "jorel",
       "to": "Voltz",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1273,7 +1372,7 @@
       "from": "denkan",
       "to": "hobbabobbabooh",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1282,7 +1381,7 @@
       "from": "hugo",
       "to": "emil",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1291,7 +1390,7 @@
       "from": "uschtvii",
       "to": "emil",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1300,7 +1399,7 @@
       "from": "hugo",
       "to": "ARTHAS",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1318,7 +1417,7 @@
       "from": "hugo",
       "to": "linus",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1336,7 +1435,7 @@
       "from": "linus",
       "to": "wannehed",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1345,7 +1444,7 @@
       "from": "denkan",
       "to": "coral",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1354,7 +1453,7 @@
       "from": "coral",
       "to": 8,
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1363,7 +1462,7 @@
       "from": 8,
       "to": "toste",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1372,7 +1471,7 @@
       "from": "denkan",
       "to": "max",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1381,7 +1480,7 @@
       "from": "chris",
       "to": "rThor",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1390,7 +1489,7 @@
       "from": "max",
       "to": "jorel",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1451,7 +1550,7 @@
       "from": "jorel",
       "to": "fredrik",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1469,7 +1568,7 @@
       "from": "fredrik",
       "to": "niklas",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1492,7 +1591,7 @@
       "from": "jorel",
       "to": "Storel",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1501,7 +1600,7 @@
       "from": "denkan",
       "to": "david",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1510,7 +1609,7 @@
       "from": "hugo",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1519,7 +1618,7 @@
       "from": "uschtvii",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1528,7 +1627,7 @@
       "from": 8,
       "to": "kmug",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1537,7 +1636,7 @@
       "from": "jorel",
       "to": "dan",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1546,7 +1645,7 @@
       "from": "jorel",
       "to": "tod",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1564,7 +1663,7 @@
       "from": "tod",
       "to": "jezeray",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1573,7 +1672,7 @@
       "from": "jezeray",
       "to": "pao",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1582,7 +1681,7 @@
       "from": "jezeray",
       "to": "ting",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1609,7 +1708,7 @@
       "from": "mitch",
       "to": "mike",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1618,7 +1717,7 @@
       "from": "mitch",
       "to": "chris",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1627,7 +1726,7 @@
       "from": "niklas",
       "to": "august",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1636,7 +1735,7 @@
       "from": "niklas",
       "to": "connor",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1645,7 +1744,7 @@
       "from": "niklas",
       "to": "emil2",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1654,7 +1753,7 @@
       "from": "august",
       "to": "alex",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1663,7 +1762,7 @@
       "from": "linus",
       "to": "sarah",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1672,7 +1771,7 @@
       "from": "ting",
       "to": "ting2",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1767,7 +1866,7 @@
       "from": "max",
       "to": "frej",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1783,7 +1882,7 @@
       "from": "max",
       "to": "Fawger",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1792,7 +1891,7 @@
       "from": "spacehippo",
       "to": "bishop",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1801,7 +1900,7 @@
       "from": "niklas",
       "to": "laxen",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1810,7 +1909,7 @@
       "from": "niklas",
       "to": "Altires",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1835,7 +1934,7 @@
       "from": 8,
       "to": "trattkatt",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1851,7 +1950,7 @@
       "from": "ARTHAS",
       "to": "daniel",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1860,7 +1959,7 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1869,7 +1968,7 @@
       "from": "hugo",
       "to": "claes",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1878,7 +1977,7 @@
       "from": "uschtvii",
       "to": "claes",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1887,7 +1986,7 @@
       "from": "hugo",
       "to": "gravebot",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1896,7 +1995,7 @@
       "from": "uschtvii",
       "to": "gravebot",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1905,7 +2004,7 @@
       "from": "hugo",
       "to": "snakebunker",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1914,7 +2013,7 @@
       "from": "uschtvii",
       "to": "snakebunker",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1923,7 +2022,7 @@
       "from": "hugo",
       "to": "tatsu",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1932,7 +2031,7 @@
       "from": "uschtvii",
       "to": "tatsu",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1941,7 +2040,7 @@
       "from": "hugo",
       "to": "gulliga roboten",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1949,80 +2048,80 @@
     {
       "from": "uschtvii",
       "to": "gulliga roboten",
-      "dashes": false,
-      "arrows": "to",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "dåliga roboten",
-      "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "dåliga roboten",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "elevrådsordföranden",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "elevrådsordföranden",
-      "dashes": false,
-      "arrows": "to,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "synthugo",
-      "dashes": false,
-      "arrows": "to,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "synthugo",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "språkröret",
-      "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "språkröret",
       "dashes": false,
       "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "elevrådsordföranden",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "elevrådsordföranden",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "synthugo",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "synthugo",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "språkröret",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "språkröret",
+      "dashes": false,
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2031,7 +2130,7 @@
       "from": "denkan",
       "to": "sudden",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -2056,7 +2155,7 @@
       "from": "toste",
       "to": "Tostes brädspelkompis",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -2083,7 +2182,7 @@
       "from": "magnus",
       "to": "Tor",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2092,7 +2191,7 @@
       "from": "magnus",
       "to": "Thriump",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2101,7 +2200,7 @@
       "from": "fia",
       "to": "sidosteg",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2118,7 +2217,7 @@
     {
       "from": "ARTHAS",
       "to": "denkan",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "claes",
@@ -2133,17 +2232,17 @@
     {
       "from": "hugo",
       "to": "claes",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "spacehippo",
       "to": "fia",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jorel",
       "to": "fredrik",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "niklas",
@@ -2153,17 +2252,17 @@
     {
       "from": "tod",
       "to": "jezeray",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "max",
       "to": "jorel",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "mitch",
       "to": "mike",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "fredrik",
@@ -2178,27 +2277,27 @@
     {
       "from": "claes",
       "to": "fia",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "hugo",
       "to": "emil",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jezeray",
       "to": "ezekiel",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
       "to": "ARTHAS",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "niklas",
       "to": "august",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "hugo",
@@ -2218,7 +2317,7 @@
     {
       "from": "jezeray",
       "to": "pao",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
@@ -2243,17 +2342,17 @@
     {
       "from": "niklas",
       "to": "mitch",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
       "to": "spacehippo",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "fredrik",
       "to": "niklas",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": 8,
@@ -2263,7 +2362,7 @@
     {
       "from": "denkan",
       "to": "max",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jorel",
@@ -2273,12 +2372,12 @@
     {
       "from": "jezeray",
       "to": "ting",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "claes",
       "to": "spacehippo",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "claes",
@@ -2291,7 +2390,7 @@
       "color": "turquoise"
     },
     {
-      "from": "magnus",
+      "from": "emil",
       "to": "jean-pierre lacomposte",
       "color": "hotpink"
     },
@@ -2300,35 +2399,35 @@
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to,from,middle"
+      "arrows": "to,from"
     },
     {
       "from": "jean-pierre lacomposte",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to,from"
+      "arrows": "to"
     },
     {
       "from": "206865838265860106",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to,from"
+      "arrows": "from,middle"
     },
     {
       "from": "247414318922989568",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to,from"
+      "arrows": "middle"
     },
     {
       "from": "363411935141691392",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to,middle"
+      "arrows": "to,from"
     }
   ]
 }
