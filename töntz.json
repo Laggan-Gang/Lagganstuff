@@ -2,8 +2,8 @@
   "nodes": [
     {
       "id": "magnus",
-      "label": "Mr Bones\nSUShi bones\nHaj#0188",
-      "size": 17.730136624816012,
+      "label": "Clam\nHaj#0188",
+      "size": 17.856382169812974,
       "image": "https://media.discordapp.net/attachments/209707792314007552/967526158835023912/unknown.png",
       "color": "#ff60cc",
       "discordLegitimation": "130467432513929216",
@@ -12,7 +12,7 @@
     },
     {
       "id": "hugo",
-      "label": "Mr Bones\nGoblin Bones\nsnygghugo#5201",
+      "label": "Egentliga Goblin\nsnygghugo#5201",
       "size": 25,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#e74c3c",
@@ -22,8 +22,8 @@
     },
     {
       "id": "emil",
-      "label": "Mr Bones\nRare Cash Back Witch\nemilson#8911",
-      "size": 24.992623847177626,
+      "label": "Rare Cash Back Witch\nemilson#8911",
+      "size": 24.99275193850273,
       "image": "https://cdn.discordapp.com/avatars/210077289294200832/9d7e84ba9f7dfbec0c314de66c188e5b",
       "color": "#1f8b4c",
       "discordLegitimation": "210077289294200832",
@@ -32,8 +32,8 @@
     },
     {
       "id": "uschtvii",
-      "label": "Mr Bones\nCharles Juan\nuschtvii#4333",
-      "size": 24.993976522861427,
+      "label": "uschtvii#4333",
+      "size": 24.994081124160637,
       "image": "https://cdn.discordapp.com/avatars/207974495393153024/9eb048f59702315672d0c7b3126ebe26",
       "color": "#2ecc71",
       "discordLegitimation": "207974495393153024",
@@ -42,8 +42,8 @@
     },
     {
       "id": "ARTHAS",
-      "label": "Mr Bones\nVanliga Bones\nnuke#3998",
-      "size": 17.031004344084533,
+      "label": "väntande nuke som väntar\nnuke#3998",
+      "size": 17.169390741151325,
       "image": "https://cdn.discordapp.com/avatars/162288590192246784/acc93af07ad1be71160ff4036c8ad393",
       "color": "#3498db",
       "alternativaNamn": [
@@ -55,8 +55,8 @@
     },
     {
       "id": "icefrag",
-      "label": "Mr Bones\nColossal Frog#7469",
-      "size": 10.461594303789045,
+      "label": "Colossal Frog#7469",
+      "size": 10.714062452883898,
       "image": "https://cdn.discordapp.com/avatars/162288590192246784/acc93af07ad1be71160ff4036c8ad393",
       "color": "#000000",
       "discordLegitimation": "629231357167665162",
@@ -65,8 +65,8 @@
     },
     {
       "id": "pontus",
-      "label": "Mr Bones\nmüntgreen#5770",
-      "size": 11.027653093095548,
+      "label": "müntgreen#5770",
+      "size": 11.270291291245208,
       "image": "https://cdn.discordapp.com/avatars/237608224319209472/a75e226c45cd3aba87ec4973ec6568d8",
       "color": "#000000",
       "discordLegitimation": "237608224319209472",
@@ -75,8 +75,8 @@
     },
     {
       "id": "spacehippo",
-      "label": "Mr Bones\nSpachips med dippo\nSpacehippo#7460",
-      "size": 15.34222304687002,
+      "label": "Spachips med dippo\nSpacehippo#7460",
+      "size": 15.509936145725359,
       "image": "https://cdn.discordapp.com/avatars/208912871621394432/75c594011ee860e2d2d4970dd424a473",
       "color": "#f1c40f",
       "alternativaNamn": [
@@ -88,8 +88,8 @@
     },
     {
       "id": "pkaff",
-      "label": "Mr Bones\nPkaff#7212",
-      "size": 12.961765885860341,
+      "label": "Pkaff#7212",
+      "size": 13.170817053414389,
       "image": null,
       "color": "#11806a",
       "discordLegitimation": "249941929515679744",
@@ -98,8 +98,8 @@
     },
     {
       "id": "VidyaViking",
-      "label": "Mr Bones\nUlfbrandt\nVidyaViking (Titan/Hrodvitnir)#9564",
-      "size": 10.437281991140297,
+      "label": "Ulfbrandt\nVidyaViking (Titan/Hrodvitnir)#9564",
+      "size": 10.690172338150308,
       "image": "https://cdn.discordapp.com/avatars/119046223964536834/454ff2e31ac2ee0e92af8550994ec588",
       "color": "#607d8b",
       "discordLegitimation": "119046223964536834",
@@ -108,8 +108,8 @@
     },
     {
       "id": "doedscalle",
-      "label": "Mr Bones\nDoedsCalle#5360",
-      "size": 14.71751243547239,
+      "label": "DoedsCalle#5360",
+      "size": 14.896074009399557,
       "image": "https://cdn.discordapp.com/avatars/219912580813160448/b410ab758a2fbfa9a1636ed2d19f970f",
       "color": "#ff60cc",
       "discordLegitimation": "219912580813160448",
@@ -118,8 +118,8 @@
     },
     {
       "id": "adam",
-      "label": "Mr Bones\nratontheflip#1562",
-      "size": 14.621835276454629,
+      "label": "ratontheflip#1562",
+      "size": 14.802058341727726,
       "image": "https://cdn.discordapp.com/avatars/651177486503247872/4b295b6e598c648511f9017df8736644",
       "color": "#ff60cc",
       "discordLegitimation": "651177486503247872",
@@ -128,8 +128,8 @@
     },
     {
       "id": "Elias Thorn",
-      "label": "Mr Bones\nElias Thorn#2992",
-      "size": 13.31484713432564,
+      "label": "Elias Thorn#2992",
+      "size": 13.517766833880875,
       "image": "https://cdn.discordapp.com/avatars/140204978227642368/27078b64549e865d1114231874e510b6",
       "color": "#ff60cc",
       "discordLegitimation": "140204978227642368",
@@ -138,7 +138,7 @@
     },
     {
       "id": "Korvblad",
-      "label": "Mr Bones\nKorvblad",
+      "label": "Korvblad",
       "size": 25,
       "image": "https://cdn.discordapp.com/avatars/146351485196828672/a35c38df8ac0271aab2bcf590f99723d",
       "discordLegitimation": "146351485196828672",
@@ -146,8 +146,8 @@
     },
     {
       "id": "Hannes",
-      "label": "Mr Bones\nHannes#6770",
-      "size": 12.307269155265132,
+      "label": "Hannes#6770",
+      "size": 12.527686051745365,
       "image": "https://cdn.discordapp.com/avatars/217949634893447169/a1ccc4b288c7070129c3c722b752f585",
       "color": "#000000",
       "discordLegitimation": "217949634893447169",
@@ -156,8 +156,8 @@
     },
     {
       "id": "Soggefors",
-      "label": "Mr Bones\nSogge\nSoggefors#4032",
-      "size": 12.50833769754361,
+      "label": "Sogge\nSoggefors#4032",
+      "size": 12.72526291799203,
       "image": "https://cdn.discordapp.com/avatars/632228356720689152/3117798833a8094823740866ceddb1a2",
       "color": "#ff0000",
       "discordLegitimation": "632228356720689152",
@@ -166,8 +166,8 @@
     },
     {
       "id": "Låda",
-      "label": "Mr Bones\nLåda#7332",
-      "size": 10.769929910949488,
+      "label": "Låda#7332",
+      "size": 11.017043626988444,
       "image": "https://cdn.discordapp.com/avatars/251018570027368469/b63aedbef4deb785a134724a8b8726aa",
       "color": "#000000",
       "discordLegitimation": "251018570027368469",
@@ -176,8 +176,8 @@
     },
     {
       "id": "Melker",
-      "label": "Mr Bones\nMelker#3070",
-      "size": 10.971281013300452,
+      "label": "Melker#3070",
+      "size": 11.214898146482184,
       "image": "https://cdn.discordapp.com/avatars/457695196327444482/d83c6a7736f5c7394d5b69f411301533",
       "color": "#2ecc71",
       "discordLegitimation": "457695196327444482",
@@ -186,8 +186,8 @@
     },
     {
       "id": "NQN",
-      "label": "Mr Bones\nRob\nNQN#3454",
-      "size": 11.826088729138997,
+      "label": "Rob\nNQN#3454",
+      "size": 12.054861612795762,
       "image": "https://cdn.discordapp.com/avatars/559426966151757824/c7c54eb85e591ced4c2f0864b7ea4e3e",
       "color": "#000000",
       "discordLegitimation": "559426966151757824",
@@ -196,8 +196,8 @@
     },
     {
       "id": "denkan",
-      "label": "Mr Bones\nFinnish Bones\nDeriel#8785",
-      "size": 15.342163950136525,
+      "label": "☭\nDeriel#8785",
+      "size": 15.509878075242145,
       "image": "https://cdn.discordapp.com/avatars/145675310682079232/bda7f9f7107d676162a7291d867cddd6",
       "color": "#f47fff",
       "alternativaNamn": [
@@ -209,8 +209,8 @@
     },
     {
       "id": "hobbabobbabooh",
-      "label": "Mr Bones\nhobba bobba booh\nhobbabobbabooh#9391",
-      "size": 21.87094884529786,
+      "label": "hobba bobba booh\nhobbabobbabooh#9391",
+      "size": 21.925286698426877,
       "image": "https://cdn.discordapp.com/avatars/148528041713205248/4cdc7ef3035ce75cf176cf2297114b31",
       "color": "#b1ffef",
       "discordLegitimation": "148528041713205248",
@@ -219,8 +219,8 @@
     },
     {
       "id": "Luddekudde",
-      "label": "Mr Bones\nLuddekudde#0024",
-      "size": 11.568691445385744,
+      "label": "Luddekudde#0024",
+      "size": 11.801934187510426,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "212277187351412736",
@@ -229,8 +229,8 @@
     },
     {
       "id": "sarah",
-      "label": "Mr Bones\nbug#1170",
-      "size": 10.316503717600376,
+      "label": "bug#1170",
+      "size": 10.571491451889889,
       "image": "https://cdn.discordapp.com/avatars/949688339798315069/11bf5ea9df39ea1e8fe6301ad19a8414",
       "color": "#000000",
       "discordLegitimation": "949688339798315069",
@@ -239,8 +239,8 @@
     },
     {
       "id": "LagganDumle",
-      "label": "Mr Bones\nLagganDumle#3745",
-      "size": 11.511141791552117,
+      "label": "LagganDumle#3745",
+      "size": 11.745383917989496,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#000000",
       "discordLegitimation": "889485510949609474",
@@ -249,8 +249,8 @@
     },
     {
       "id": "mört",
-      "label": "Mr Bones\nmört#4202",
-      "size": 11.381197228479147,
+      "label": "mört#4202",
+      "size": 11.617695920320566,
       "image": "https://cdn.discordapp.com/avatars/892467625832091698/7a3eca2a1cf227b42b9b2d9ec22482cc",
       "color": "#000000",
       "discordLegitimation": "892467625832091698",
@@ -259,8 +259,8 @@
     },
     {
       "id": "eddy",
-      "label": "Mr Bones\nBONES\nNaone#6104",
-      "size": 24.80472466707523,
+      "label": "Ebil\nNaone#6104",
+      "size": 24.808115740546253,
       "image": "https://cdn.discordapp.com/avatars/122696607173967872/69f2c914c92b74a89c0e26e638873879",
       "color": "#992d22",
       "alternativaNamn": [
@@ -272,7 +272,7 @@
     },
     {
       "id": "coral",
-      "label": "Mr Bones\ncoral",
+      "label": "coral",
       "size": 25,
       "image": "https://avatars.githubusercontent.com/u/2163363?v=4",
       "color": "#FF6600",
@@ -281,7 +281,7 @@
     },
     {
       "id": "jean-pierre lacomposte",
-      "label": "Mr Bones\njean-pierre lacomposte",
+      "label": "jean-pierre lacomposte",
       "size": 25,
       "image": "https://cdn.discordapp.com/avatars/212311055307636736/83b72afe63f87cc85cc2146cafbf2184.webp?size=128",
       "alternativaNamn": [
@@ -292,9 +292,9 @@
     },
     {
       "id": "max",
-      "label": "Mr Bones\nMister Bones\nHulk#6170",
-      "size": 23.066082007625184,
-      "image": "https://cdn.discordapp.com/avatars/161956657402740736/b7d6ab281096529ff2d668d75e7b8cfc",
+      "label": "Mange Med Manglarn\nHulk#6170",
+      "size": 23.099665655394993,
+      "image": "https://cdn.discordapp.com/avatars/161956657402740736/55bc1fec838d29778785e5d27f696b1a",
       "color": "#992d22",
       "discordLegitimation": "161956657402740736",
       "typ": "användare",
@@ -302,8 +302,8 @@
     },
     {
       "id": "LagganHumle",
-      "label": "Mr Bones\nLagganHumle#0690",
-      "size": 11.51115635614737,
+      "label": "LagganHumle#0690",
+      "size": 11.745398229661802,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#000000",
       "discordLegitimation": "889484950519312384",
@@ -312,8 +312,8 @@
     },
     {
       "id": "jorel",
-      "label": "Mr Bones\nBonerel\njorel#0995",
-      "size": 21.209765677032888,
+      "label": "Jorel\njorel#0995",
+      "size": 21.275585373095208,
       "image": null,
       "color": "#e67e22",
       "alternativaNamn": [
@@ -325,8 +325,8 @@
     },
     {
       "id": "fredrik",
-      "label": "Mr Bones\nMaakep Bones\nMaakep#8596",
-      "size": 17.65978743127588,
+      "label": "Maakep#8596",
+      "size": 17.787254632282078,
       "image": "https://cdn.discordapp.com/avatars/157775827692421120/028eb37d23afcbe31da61f35caf9b067",
       "color": "#e67e22",
       "discordLegitimation": "157775827692421120",
@@ -335,8 +335,8 @@
     },
     {
       "id": "tornborg",
-      "label": "Mr Bones\ntornborg#4124",
-      "size": 14.501534820130708,
+      "label": "tornborg#4124",
+      "size": 14.683846975100295,
       "image": "https://cdn.discordapp.com/avatars/128940731745173505/28a178fc012cfd182a5d0267b59b6a52",
       "color": "#11806a",
       "discordLegitimation": "128940731745173505",
@@ -345,8 +345,8 @@
     },
     {
       "id": "niklas",
-      "label": "Mr Bones\nBonemaister6000\nPoppm🅰ister6000#7105",
-      "size": 12.63032405947094,
+      "label": "Not Clam\nPoppm🅰ister6000#7105",
+      "size": 12.845130913459231,
       "image": "https://cdn.discordapp.com/avatars/82706128357560320/a0345051c0ecea472761643f58468ae5",
       "color": "#11806a",
       "discordLegitimation": "82706128357560320",
@@ -355,8 +355,8 @@
     },
     {
       "id": "dan",
-      "label": "Mr Bones\nDaniel the Bonesome\nTMZB#8175",
-      "size": 15.241955811426346,
+      "label": "Daniel the Clamsome\nTMZB#8175",
+      "size": 15.411410111062313,
       "image": null,
       "color": "#992d22",
       "discordLegitimation": "487679870839685120",
@@ -365,8 +365,8 @@
     },
     {
       "id": "rThor",
-      "label": "Mr Bones\nrThor#0617",
-      "size": 12.400229427641332,
+      "label": "rThor#0617",
+      "size": 12.619032013144379,
       "image": "https://cdn.discordapp.com/avatars/207171787853791232/56ce54305a0e74d1a75eeb53a737004a",
       "color": "#000000",
       "discordLegitimation": "207171787853791232",
@@ -375,8 +375,8 @@
     },
     {
       "id": "daniel",
-      "label": "Mr Bones\nSodatoad#6889",
-      "size": 12.171296526128703,
+      "label": "Sodatoad#6889",
+      "size": 12.394074669001625,
       "image": "https://cdn.discordapp.com/avatars/161951163367948288/2b16cde2d882615ea32d0a3c4076e849",
       "color": "#000000",
       "discordLegitimation": "161951163367948288",
@@ -385,8 +385,8 @@
     },
     {
       "id": 8,
-      "label": "Mr Bones\nSurkolon the Dishonorable\nOverturn#2643",
-      "size": 24.411383513845134,
+      "label": "Surkolon the Dishonorable\nOverturn#2643",
+      "size": 24.421605192747997,
       "image": "https://cdn.discordapp.com/avatars/217109962084712448/8996b446e2fac31d9323dee290c16ebb",
       "color": "#9c00ff",
       "alternativaNamn": [
@@ -398,8 +398,8 @@
     },
     {
       "id": "toste",
-      "label": "Mr Bones\nTea-Dawg\nToast#3042",
-      "size": 24.509841358602174,
+      "label": "Tea-Dawg\nToast#3042",
+      "size": 24.518353257880705,
       "image": "https://cdn.discordapp.com/avatars/84926802065096704/bfd5c2153af2249b0819bc00131cbc34",
       "color": "#e67e22",
       "discordLegitimation": "84926802065096704",
@@ -408,8 +408,8 @@
     },
     {
       "id": "linus",
-      "label": "Mr Bones\nborzoi#8259",
-      "size": 16.932053406668576,
+      "label": "borzoi#8259",
+      "size": 17.072158146209954,
       "image": "https://cdn.discordapp.com/avatars/151467562520150016/43d5643d73cde2baedb64cd534ed4458",
       "color": "#ebceda",
       "discordLegitimation": "151467562520150016",
@@ -418,8 +418,8 @@
     },
     {
       "id": "becca",
-      "label": "Mr Bones\nBecca\nBeccahesten#3231",
-      "size": 15.219811849805366,
+      "label": "Becca\nBeccahesten#3231",
+      "size": 15.38965069263822,
       "image": null,
       "color": "#ff60cc",
       "discordLegitimation": "583622744650809354",
@@ -428,8 +428,8 @@
     },
     {
       "id": "tod",
-      "label": "Mr Bones\nNanny Bones\nTod#2643",
-      "size": 18.519964315572608,
+      "label": "Sharpshooter Nanny\nTod#2643",
+      "size": 18.63249402821795,
       "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
       "color": "#11806a",
       "discordLegitimation": "128604198110625792",
@@ -438,8 +438,8 @@
     },
     {
       "id": "jezeray",
-      "label": "Mr Bones\nJunior Bones\nJunior#5535",
-      "size": 12.076978028280188,
+      "label": "Junior Bones\nJunior#5535",
+      "size": 12.3013940685316,
       "image": "https://cdn.discordapp.com/avatars/314857007402319874/641b768b129ab8e779245154df9524d5",
       "color": "#11806a",
       "discordLegitimation": "314857007402319874",
@@ -448,8 +448,8 @@
     },
     {
       "id": "ezekiel",
-      "label": "Mr Bones\nEzee#8849",
-      "size": 10.882961568760422,
+      "label": "Ezee#8849",
+      "size": 11.128112422155912,
       "image": "https://cdn.discordapp.com/avatars/149298760042807296/bc23956d7e342f44c8ab61c1a1e090c8",
       "color": "#000000",
       "discordLegitimation": "149298760042807296",
@@ -458,8 +458,8 @@
     },
     {
       "id": "pao",
-      "label": "Mr Bones\nmadcap pao#4748",
-      "size": 15.312609572020298,
+      "label": "madcap pao#4748",
+      "size": 15.480836926657172,
       "image": "https://cdn.discordapp.com/avatars/200638077591355392/bdc03ccfa352a59a059d8e148db60a5f",
       "color": "#11806a",
       "discordLegitimation": "200638077591355392",
@@ -468,8 +468,8 @@
     },
     {
       "id": "Storel",
-      "label": "Mr Bones\nSpectorel\njorel#2579",
-      "size": 22.866382823354215,
+      "label": "Spectorel\njorel#2579",
+      "size": 22.903434367431373,
       "image": null,
       "color": "#ff60cc",
       "discordLegitimation": "118224261226692608",
@@ -478,8 +478,8 @@
     },
     {
       "id": "ting",
-      "label": "Mr Bones\nMesh Ting#5019",
-      "size": 11.83973452345594,
+      "label": "Mesh Ting#5019",
+      "size": 12.068270439696459,
       "image": "https://cdn.discordapp.com/avatars/241669667469393920/fe49703a12cd4f392cb5dcf53064ee09",
       "color": "#000000",
       "discordLegitimation": "241669667469393920",
@@ -488,8 +488,8 @@
     },
     {
       "id": "ting2",
-      "label": "Mr Bones\nTing#8473",
-      "size": 11.839736197830513,
+      "label": "Ting#8473",
+      "size": 12.068272084994513,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "872926293136670801",
@@ -498,8 +498,8 @@
     },
     {
       "id": "mitch",
-      "label": "Mr Bones\nMbar4660#6081",
-      "size": 12.630324386222833,
+      "label": "Mbar4660#6081",
+      "size": 12.84513123453688,
       "image": "https://cdn.discordapp.com/avatars/101367380017442816/6532e6a45a429101c459dd85a1ad101a",
       "color": "#11806a",
       "discordLegitimation": "101367380017442816",
@@ -508,8 +508,8 @@
     },
     {
       "id": "mike",
-      "label": "Mr Bones\nMad#6465",
-      "size": 12.336437744845533,
+      "label": "Mad#6465",
+      "size": 12.556348111244205,
       "image": "https://cdn.discordapp.com/avatars/131145000124678145/eb1f60dd7a60dcc488c5621865ad9ddf",
       "color": "#ff60cc",
       "discordLegitimation": "131145000124678145",
@@ -517,29 +517,35 @@
       "gickMed": "Fri May 28 2021 19:51:20 GMT+0200 (Central European Summer Time)"
     },
     {
-      "id": "chris",
-      "label": "Mr Bones\nClam#8208",
-      "size": 12.645925261039947,
+      "id": "lambert",
+      "label": "Clam#8208",
+      "size": 12.860461190790318,
       "image": "https://cdn.discordapp.com/avatars/224953719945560066/51205eb843b103b8ad89965f6ccf3f77",
       "color": "#11806a",
+      "alternativaNamn": [
+        "chris"
+      ],
       "discordLegitimation": "224953719945560066",
       "typ": "användare",
       "gickMed": "Thu Apr 15 2021 18:55:15 GMT+0200 (Central European Summer Time)"
     },
     {
-      "id": "august",
-      "label": "Mr Bones\nMr. BONE\nCircuz#4554",
-      "size": 12.710344967548542,
+      "id": "agge",
+      "label": "Clam\nCircuz#4554",
+      "size": 12.92376221039422,
       "image": "https://media.discordapp.net/attachments/934816556590985216/957373395702534224/august.png",
       "color": "#1f8b4c",
+      "alternativaNamn": [
+        "august"
+      ],
       "discordLegitimation": "199914493570973697",
       "typ": "användare",
       "gickMed": "Tue Apr 06 2021 19:54:57 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "connor",
-      "label": "Mr Bones\nneilz#6569",
-      "size": 11.94044102413625,
+      "label": "neilz#6569",
+      "size": 12.167228111491415,
       "image": null,
       "color": "#607d8b",
       "discordLegitimation": "215911981624852491",
@@ -548,8 +554,8 @@
     },
     {
       "id": "emil2",
-      "label": "Mr Bones\nUrbanHelsing#9005",
-      "size": 12.328539487025404,
+      "label": "UrbanHelsing#9005",
+      "size": 12.548587011416128,
       "image": "https://cdn.discordapp.com/avatars/177559233833730048/5fc441d6bba68deda9d97a9887649ee2",
       "color": "#ff0000",
       "discordLegitimation": "177559233833730048",
@@ -558,8 +564,8 @@
     },
     {
       "id": "alex",
-      "label": "Mr Bones\nbuxu#2526",
-      "size": 11.890215100086682,
+      "label": "buxu#2526",
+      "size": 12.117874390786993,
       "image": null,
       "color": "#11806a",
       "discordLegitimation": "227040765883187200",
@@ -568,8 +574,8 @@
     },
     {
       "id": "wannehed",
-      "label": "Mr Bones\nAD(h)D (WHD#756)\nwannehed#3256",
-      "size": 11.386059982605415,
+      "label": "AD(h)D (WHD#756)\nwannehed#3256",
+      "size": 11.622474229800053,
       "image": "https://cdn.discordapp.com/avatars/151072254862557184/3e4209b949c91a1449eb53e51ae05db1",
       "color": "#1abc9c",
       "alternativaNamn": [
@@ -581,8 +587,8 @@
     },
     {
       "id": "david",
-      "label": "Mr Bones\nRygar#0753",
-      "size": 23.54687649390756,
+      "label": "Rygar#0753",
+      "size": 23.572110856578085,
       "image": "https://cdn.discordapp.com/avatars/200371134711988224/e0e9048996470b04b308b99e9630e2b5",
       "color": "#ff60cc",
       "discordLegitimation": "200371134711988224",
@@ -591,8 +597,8 @@
     },
     {
       "id": "Nightmarren",
-      "label": "Mr Bones\nNightmarren#5971",
-      "size": 12.328368653878435,
+      "label": "Nightmarren#5971",
+      "size": 12.548419144889387,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "846460036686413856",
@@ -601,8 +607,8 @@
     },
     {
       "id": "Nightmarren2",
-      "label": "Mr Bones\nNightmarren#8303",
-      "size": 12.328360699225954,
+      "label": "Nightmarren#8303",
+      "size": 12.548411328374224,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "195608359276118016",
@@ -611,8 +617,8 @@
     },
     {
       "id": "Voltz",
-      "label": "Mr Bones\nVoltz#2451",
-      "size": 10.72502055995525,
+      "label": "Voltz#2451",
+      "size": 10.972914153854234,
       "image": "https://cdn.discordapp.com/avatars/173147201617395713/0d4a7782229a6cb84151b7f6da7b05b4",
       "color": "#000000",
       "discordLegitimation": "173147201617395713",
@@ -621,8 +627,8 @@
     },
     {
       "id": "SATAN",
-      "label": "Mr Bones\nSATAN\nfia#4446",
-      "size": 13.587456537709338,
+      "label": "SATAN\nfia#4446",
+      "size": 13.785642211200347,
       "image": null,
       "color": "#00c7ff",
       "discordLegitimation": "478291848167948289",
@@ -631,8 +637,8 @@
     },
     {
       "id": "SATAN 2",
-      "label": "Mr Bones\nSATAN 2\nsatan 2#3155",
-      "size": 11.437827247267025,
+      "label": "Clam 2\nsatan 2#3155",
+      "size": 11.673342524810803,
       "image": "https://cdn.discordapp.com/avatars/893178375374524416/54bd31fce252fd09bbc70674071f3650",
       "color": "#00c7ff",
       "discordLegitimation": "893178375374524416",
@@ -641,8 +647,8 @@
     },
     {
       "id": "fia",
-      "label": "Mr Bones\nSATAN 3\nfia#8077",
-      "size": 11.500545297665665,
+      "label": "SATAN 3\nfia#8077",
+      "size": 11.734971438585395,
       "image": null,
       "color": "#00c7ff",
       "alternativaNamn": [
@@ -654,8 +660,8 @@
     },
     {
       "id": "Fawger",
-      "label": "Mr Bones\nNilz med swillz to pay the billz\nFawger#9265",
-      "size": 16.88181991197906,
+      "label": "Nilz med swillz to pay the billz\nFawger#9265",
+      "size": 17.0227969863343,
       "image": "https://cdn.discordapp.com/avatars/170472369792483328/2a463e439d56c58cb5822e367e31466e",
       "color": "#ff60cc",
       "discordLegitimation": "170472369792483328",
@@ -664,8 +670,8 @@
     },
     {
       "id": "bishop",
-      "label": "Mr Bones\nBishop#8279",
-      "size": 10.925680569985097,
+      "label": "Bishop#8279",
+      "size": 11.170089582260196,
       "image": "https://cdn.discordapp.com/avatars/128939696867770368/aee10f41e7e7e73e8b5d0d6a012ebd2a",
       "color": "#000000",
       "discordLegitimation": "128939696867770368",
@@ -674,8 +680,8 @@
     },
     {
       "id": "laxen",
-      "label": "Mr Bones\nLaxen\nlaxen#7932",
-      "size": 10.976243320472246,
+      "label": "Laxen\nlaxen#7932",
+      "size": 11.219774280208753,
       "image": "https://cdn.discordapp.com/avatars/207581293406322689/ed1c62f2f129b959327186a835957a6e",
       "color": "#3498db",
       "discordLegitimation": "207581293406322689",
@@ -684,8 +690,8 @@
     },
     {
       "id": "tod2",
-      "label": "Mr Bones\nFake Tod#4219",
-      "size": 15.220068550453416,
+      "label": "Fake Tod#4219",
+      "size": 15.389902935525301,
       "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
       "color": "#ff60cc",
       "discordLegitimation": "701183154509054032",
@@ -694,8 +700,8 @@
     },
     {
       "id": "frej",
-      "label": "Mr Bones\nfrej#9756",
-      "size": 13.689411587250476,
+      "label": "frej#9756",
+      "size": 13.885826750055074,
       "image": "https://cdn.discordapp.com/avatars/280314936725471233/ae65fdffaa4ae8bce2081363fdc0ccf1",
       "color": "#000000",
       "discordLegitimation": "280314936725471233",
@@ -704,8 +710,8 @@
     },
     {
       "id": "frej2",
-      "label": "Mr Bones\nFrej#5310",
-      "size": 13.689426262288869,
+      "label": "Frej#5310",
+      "size": 13.885841170252608,
       "image": "https://cdn.discordapp.com/avatars/280314936725471233/ae65fdffaa4ae8bce2081363fdc0ccf1",
       "color": "#000000",
       "discordLegitimation": "770615405201981461",
@@ -714,8 +720,8 @@
     },
     {
       "id": "Altires",
-      "label": "Mr Bones\nAltires#5291",
-      "size": 12.098759375614964,
+      "label": "Altires#5291",
+      "size": 12.322797169684414,
       "image": "https://cdn.discordapp.com/avatars/187663940501766166/575200967db19fd96b9e3b516b1b7546",
       "color": "#000000",
       "discordLegitimation": "187663940501766166",
@@ -724,15 +730,15 @@
     },
     {
       "id": "gravebot",
-      "label": "Mr Bones\ngravebot",
+      "label": "gravebot",
       "size": 25,
       "discordLegitimation": "",
       "typ": "bot"
     },
     {
       "id": "tatsu",
-      "label": "Mr Bones\nTatsu#8792",
-      "size": 24.50541744100674,
+      "label": "Tatsu#8792",
+      "size": 24.514006164272054,
       "image": "https://cdn.discordapp.com/avatars/172002275412279296/43fc1879641f6239d6e4038eaa7dabbc",
       "color": "#000000",
       "discordLegitimation": "172002275412279296",
@@ -740,9 +746,19 @@
       "gickMed": "Sun Oct 09 2016 13:05:58 GMT+0200 (Central European Summer Time)"
     },
     {
+      "id": "PG",
+      "label": "Per Gessle#7113",
+      "size": 10.062181762217334,
+      "image": "https://cdn.discordapp.com/avatars/975804505302126632/fcd5306f80c3d6062b98964399fe9e7e",
+      "color": "#000000",
+      "discordLegitimation": "975804505302126632",
+      "typ": "bot",
+      "gickMed": "Mon May 16 2022 19:24:38 GMT+0200 (Central European Summer Time)"
+    },
+    {
       "id": "gulliga roboten",
-      "label": "Mr Bones\nGulliga Roboten\nHime#2238",
-      "size": 17.163337488877737,
+      "label": "Gulliga Roboten\nHime#2238",
+      "size": 17.299425841383936,
       "image": "https://cdn.discordapp.com/avatars/604262636581945355/fb4b418f45d7b9f307ccfa2f74295087",
       "color": "#ff60cc",
       "discordLegitimation": "604262636581945355",
@@ -751,8 +767,8 @@
     },
     {
       "id": "dåliga roboten",
-      "label": "Mr Bones\nDåliga roboten\nRythm#3722",
-      "size": 21.345025376318432,
+      "label": "Dåliga roboten\nRythm#3722",
+      "size": 21.408496206443225,
       "image": "https://cdn.discordapp.com/avatars/235088799074484224/9b29bfc497a70b6cc85bb2087936f8fd",
       "color": "#ff60cc",
       "discordLegitimation": "235088799074484224",
@@ -761,8 +777,8 @@
     },
     {
       "id": "claes",
-      "label": "Mr Bones\nRainbow Dash Claes#7845",
-      "size": 14.371309531822803,
+      "label": "Rainbow Dash Claes#7845",
+      "size": 14.555883127158786,
       "image": "https://cdn.discordapp.com/avatars/745345949295181886/f225b748f8d5a260ea078f81f5cb1391",
       "color": "#ff60cc",
       "discordLegitimation": "745345949295181886",
@@ -771,8 +787,8 @@
     },
     {
       "id": "andersson",
-      "label": "Mr Bones\nAndersson#3008",
-      "size": 10.897110827653657,
+      "label": "Andersson#3008",
+      "size": 11.142015970668073,
       "image": "https://cdn.discordapp.com/avatars/105631049597353984/afe2c6b17bcfe963c964edc4d5f9b224",
       "color": "#000000",
       "discordLegitimation": "105631049597353984",
@@ -781,8 +797,8 @@
     },
     {
       "id": "sudden",
-      "label": "Mr Bones\nsudden\nrkty#7687",
-      "size": 17.55620838879033,
+      "label": "sudden\nrkty#7687",
+      "size": 17.68547430209606,
       "image": null,
       "color": "#ff60cc",
       "discordLegitimation": "506945780431454208",
@@ -791,8 +807,8 @@
     },
     {
       "id": "trattkatt",
-      "label": "Mr Bones\nTrattkatt#3974",
-      "size": 14.903046372145944,
+      "label": "Trattkatt#3974",
+      "size": 15.078386037800293,
       "image": "https://cdn.discordapp.com/avatars/151040052439285761/9c16743f27b571abd35ace078228bf32",
       "color": "#ff60cc",
       "discordLegitimation": "151040052439285761",
@@ -801,8 +817,8 @@
     },
     {
       "id": "toste2",
-      "label": "Mr Bones\nToast_2#0867",
-      "size": 16.961125825659813,
+      "label": "Toast_2#0867",
+      "size": 17.100725705179688,
       "image": "https://cdn.discordapp.com/avatars/84926802065096704/bfd5c2153af2249b0819bc00131cbc34",
       "color": "#ff60cc",
       "discordLegitimation": "614830746015629452",
@@ -811,8 +827,8 @@
     },
     {
       "id": "snakebunker",
-      "label": "Mr Bones\nsnakebunker#5492",
-      "size": 16.670805854388373,
+      "label": "snakebunker#5492",
+      "size": 16.81544731462375,
       "image": "https://cdn.discordapp.com/avatars/207841450333962241/dcab7c38fc52a511365a918d26a0947a",
       "color": "#ff60cc",
       "discordLegitimation": "207841450333962241",
@@ -821,8 +837,8 @@
     },
     {
       "id": "elevrådsordföranden",
-      "label": "Mr Bones\nElevrådsordföranden#9982",
-      "size": 11.127397048533004,
+      "label": "Elevrådsordföranden#9982",
+      "size": 11.368303132973713,
       "image": "https://cdn.discordapp.com/avatars/908820992703488061/ebb93d06ad03e88d63a2cab21867fb36",
       "color": "#e74c3c",
       "discordLegitimation": "908820992703488061",
@@ -831,8 +847,8 @@
     },
     {
       "id": "kmug",
-      "label": "Mr Bones\nKmug#8294",
-      "size": 12.817596533604485,
+      "label": "Kmug#8294",
+      "size": 13.029151288572507,
       "image": "https://cdn.discordapp.com/avatars/139008771862036480/69f18b3d63d6dd50478068dd6dce5a48",
       "color": "#000000",
       "discordLegitimation": "139008771862036480",
@@ -841,8 +857,8 @@
     },
     {
       "id": "synthugo",
-      "label": "Mr Bones\nSyntHugo\nQTweet#9088",
-      "size": 11.853286980919947,
+      "label": "SyntHugo\nQTweet#9088",
+      "size": 12.081587550594747,
       "image": "https://cdn.discordapp.com/avatars/433615162394804224/54bbc9994ea438adf4a81edeeea7b8f5",
       "color": "#000000",
       "discordLegitimation": "433615162394804224",
@@ -851,8 +867,8 @@
     },
     {
       "id": "språkröret",
-      "label": "Mr Bones\nSpråkröret#8900",
-      "size": 10.621968905178333,
+      "label": "Språkröret#8900",
+      "size": 10.87165205297245,
       "image": "https://cdn.discordapp.com/avatars/934211681419145247/43282214cdf9a3ef9284e111cb56906f",
       "color": "#000000",
       "discordLegitimation": "934211681419145247",
@@ -861,8 +877,8 @@
     },
     {
       "id": "Santas little scalper",
-      "label": "Mr Bones\nSantas little scalper#7605",
-      "size": 10.582715148224617,
+      "label": "Santas little scalper#7605",
+      "size": 10.833079961090558,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "936272969162977280",
@@ -871,8 +887,8 @@
     },
     {
       "id": "adminbot",
-      "label": "Mr Bones\nadminbot#6277",
-      "size": 10.317307902363646,
+      "label": "adminbot#6277",
+      "size": 10.57228167150162,
       "image": "https://cdn.discordapp.com/avatars/949647007704817665/0ab037b43a272f40371d5dd0ddadfde4",
       "color": "#000000",
       "discordLegitimation": "949647007704817665",
@@ -881,8 +897,8 @@
     },
     {
       "id": "VRHaj",
-      "label": "Mr Bones\nVRHaj#6029",
-      "size": 11.983845846872732,
+      "label": "VRHaj#6029",
+      "size": 12.209879183404933,
       "image": "https://media.discordapp.net/attachments/209707792314007552/967526158835023912/unknown.png",
       "color": "#000000",
       "discordLegitimation": "798977710705475604",
@@ -891,8 +907,8 @@
     },
     {
       "id": "Tods schackkompis",
-      "label": "Mr Bones\nStan#2142",
-      "size": 10.288661765672725,
+      "label": "Stan#2142",
+      "size": 10.544132992183963,
       "image": "https://cdn.discordapp.com/avatars/476003192706957342/5ce38da00fecb49009ae224622946d1b",
       "color": "#ff0000",
       "discordLegitimation": "476003192706957342",
@@ -901,8 +917,8 @@
     },
     {
       "id": "Tostes brädspelkompis",
-      "label": "Mr Bones\nCrake\nYade#8174",
-      "size": 12.395245500330484,
+      "label": "Crake\nYade#8174",
+      "size": 12.614134634725458,
       "image": "https://cdn.discordapp.com/avatars/240192826778976267/9f263320aab4bd0481ba603dac264e7f",
       "color": "#000000",
       "discordLegitimation": "240192826778976267",
@@ -911,8 +927,8 @@
     },
     {
       "id": "Tostes polare",
-      "label": "Mr Bones\nRichoDemus#1337",
-      "size": 12.121875972254324,
+      "label": "RichoDemus#1337",
+      "size": 12.345512332735467,
       "image": "https://cdn.discordapp.com/avatars/104179279658508288/51d13b42faed0cb45045075e5cba3d2a",
       "color": "#000000",
       "discordLegitimation": "104179279658508288",
@@ -921,9 +937,9 @@
     },
     {
       "id": "kalle kebab",
-      "label": "Mr Bones\nkarl_kadaver#1103",
-      "size": 10.078626896781273,
-      "image": "https://cdn.discordapp.com/avatars/717767450825064468/dc2eb3c950877bd81f4794fa6302513c",
+      "label": "karl_kadaver#1103",
+      "size": 10.337745504972622,
+      "image": "https://cdn.discordapp.com/avatars/717767450825064468/6a560e434f14783e5c22162568bf86a0",
       "color": "#000000",
       "discordLegitimation": "717767450825064468",
       "typ": "användare",
@@ -931,8 +947,8 @@
     },
     {
       "id": "Linus kompis",
-      "label": "Mr Bones\nScary spice#9024",
-      "size": 10,
+      "label": "Scary spice#9024",
+      "size": 10.260484011490323,
       "image": "https://cdn.discordapp.com/avatars/149249725382656000/9f82834fe25e6e6c68f2aa0152fb3627",
       "color": "#000000",
       "discordLegitimation": "149249725382656000",
@@ -941,8 +957,8 @@
     },
     {
       "id": "näbbdjuret",
-      "label": "Mr Bones\nPerry#0286",
-      "size": 11.897095506618616,
+      "label": "Perry#0286",
+      "size": 12.124635314925987,
       "image": "https://cdn.discordapp.com/avatars/255431752070201344/0a190e54e6aeb8812d461f841ec8a567",
       "color": "#000000",
       "discordLegitimation": "255431752070201344",
@@ -951,8 +967,8 @@
     },
     {
       "id": "rosa pingvinen",
-      "label": "Mr Bones\nPinkPenguin#1735",
-      "size": 11.897094330861105,
+      "label": "PinkPenguin#1735",
+      "size": 12.124634159586211,
       "image": "https://cdn.discordapp.com/avatars/281521046836871168/3188c92ad0768dbdbd89d8e4086c7ed6",
       "color": "#000000",
       "discordLegitimation": "281521046836871168",
@@ -961,8 +977,8 @@
     },
     {
       "id": "sidosteg",
-      "label": "Mr Bones\nsidestep#5959",
-      "size": 10.221508727647446,
+      "label": "sidestep#5959",
+      "size": 10.478146107007255,
       "image": "https://cdn.discordapp.com/avatars/309400970524229635/79e250d7d31f707821e76b5f5d11aa7e",
       "color": "#ff60cc",
       "discordLegitimation": "309400970524229635",
@@ -971,8 +987,8 @@
     },
     {
       "id": "Thriump",
-      "label": "Mr Bones\nThriump#4981",
-      "size": 12.149125389503263,
+      "label": "Thriump#4981",
+      "size": 12.372288547483354,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "222832009343533056",
@@ -981,9 +997,9 @@
     },
     {
       "id": "linnea, fias kompis",
-      "label": "Mr Bones\naasfjaell#3749",
-      "size": 10.220716497625673,
-      "image": null,
+      "label": "aasfjaell#3749",
+      "size": 10.477367634535755,
+      "image": "https://cdn.discordapp.com/avatars/724720729001689170/c6e9931e2361b6375a725399a347584f",
       "color": "#000000",
       "discordLegitimation": "724720729001689170",
       "typ": "användare",
@@ -991,8 +1007,8 @@
     },
     {
       "id": "Tor",
-      "label": "Mr Bones\nTor#3596",
-      "size": 11.323770387165816,
+      "label": "Tor#3596",
+      "size": 11.561266330606736,
       "image": "https://cdn.discordapp.com/avatars/193782437463982090/63d0c73f70a30b3b82ecb645b6c38d1d",
       "color": "#000000",
       "discordLegitimation": "193782437463982090",
@@ -1001,8 +1017,8 @@
     },
     {
       "id": "ryssen",
-      "label": "Mr Bones\nMатрос Деревянная Нога#1161",
-      "size": 11.89706530395742,
+      "label": "Mатрос Деревянная Нога#1161",
+      "size": 12.124605636752149,
       "image": "https://cdn.discordapp.com/avatars/326358844613853185/6bc5a1f5d7175028a346162c23b16775",
       "color": "#000000",
       "discordLegitimation": "326358844613853185",
@@ -1010,25 +1026,47 @@
       "gickMed": "Wed Jul 28 2021 22:17:22 GMT+0200 (Central European Summer Time)"
     },
     {
+      "id": "agges polare",
+      "label": "agges polare",
+      "size": 25,
+      "typ": "användare"
+    },
+    {
       "id": "206865838265860106",
-      "label": "Mr Bones\nEliasK#3998",
-      "size": 10.495586839424764,
+      "label": "EliasK#3998",
+      "size": 10.747464687716741,
       "image": "https://cdn.discordapp.com/avatars/206865838265860106/deab28c0b0741bcf845aaf45af90545a",
       "color": "#000000",
       "gickMed": "Tue Feb 08 2022 18:48:52 GMT+0100 (Central European Standard Time)"
     },
     {
       "id": "247414318922989568",
-      "label": "Mr Bones\nPiine#9961",
-      "size": 12.17715618338444,
+      "label": "Piine#9961",
+      "size": 12.399832569788835,
       "image": "https://cdn.discordapp.com/avatars/247414318922989568/8db405158295a1646c996570c397b85e",
       "color": "#000000",
       "gickMed": "Sat Jun 19 2021 23:28:05 GMT+0200 (Central European Summer Time)"
     },
     {
+      "id": "319602980355571723",
+      "label": "EazyEzor#2191",
+      "size": 10.07585249214062,
+      "image": "https://cdn.discordapp.com/avatars/319602980355571723/3b935833b286a6e9ea7109c50683575d",
+      "color": "#000000",
+      "gickMed": "Sat May 14 2022 20:58:38 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "265153081484902400",
+      "label": "esa_A#8355",
+      "size": 10,
+      "image": "https://cdn.discordapp.com/avatars/265153081484902400/f4c6a3c07696290a33980ff840bbf093",
+      "color": "#000000",
+      "gickMed": "Wed May 25 2022 14:36:50 GMT+0200 (Central European Summer Time)"
+    },
+    {
       "id": "363411935141691392",
-      "label": "Mr Bones\n-JoY#1581",
-      "size": 11.156300376665637,
+      "label": "-JoY#1581",
+      "size": 11.396704537449185,
       "image": "https://cdn.discordapp.com/avatars/363411935141691392/8c5aad724a28dfe88c6aa1e30e53fdfb",
       "color": "#000000",
       "gickMed": "Mon Nov 08 2021 21:38:25 GMT+0100 (Central European Standard Time)"
@@ -1039,7 +1077,7 @@
       "from": "god",
       "to": "hugo",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1062,7 +1100,7 @@
     },
     {
       "from": "pontus",
-      "to": "august",
+      "to": "agge",
       "dashes": true,
       "arrows": "",
       "color": false
@@ -1071,7 +1109,7 @@
       "from": "niklas",
       "to": "pontus",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1080,7 +1118,7 @@
       "from": "linus",
       "to": "adam",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1098,7 +1136,7 @@
       "from": "toste",
       "to": "Tostes polare",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1107,7 +1145,7 @@
       "from": "toste",
       "to": "Tostes polare",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1116,7 +1154,7 @@
       "from": "niklas",
       "to": "VidyaViking",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1131,10 +1169,10 @@
       }
     },
     {
-      "from": "august",
+      "from": "agge",
       "to": "Hannes",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1150,7 +1188,7 @@
       "from": "snakebunker",
       "to": "Elias Thorn",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1165,10 +1203,10 @@
       }
     },
     {
-      "from": "august",
+      "from": "agge",
       "to": "Låda",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1177,7 +1215,7 @@
       "from": "spacehippo",
       "to": "Melker",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1186,7 +1224,7 @@
       "from": "hugo",
       "to": "NQN",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1195,7 +1233,7 @@
       "from": "uschtvii",
       "to": "NQN",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1204,7 +1242,7 @@
       "from": "denkan",
       "to": "eddy",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1213,7 +1251,7 @@
       "from": "hugo",
       "to": "uschtvii",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1231,7 +1269,7 @@
       "from": "hugo",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1240,7 +1278,7 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1277,7 +1315,7 @@
       "from": "magnus",
       "to": "tornborg",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1286,7 +1324,7 @@
       "from": "tornborg",
       "to": "näbbdjuret",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1295,7 +1333,7 @@
       "from": "tornborg",
       "to": "rosa pingvinen",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1304,7 +1342,7 @@
       "from": "hugo",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1313,7 +1351,7 @@
       "from": "uschtvii",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1337,10 +1375,37 @@
       }
     },
     {
+      "from": "hugo",
+      "to": "PG",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "PG",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "magnus",
+      "to": "PG",
+      "dashes": true,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
       "from": "jorel",
       "to": "Voltz",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1349,7 +1414,7 @@
       "from": "niklas",
       "to": "Nightmarren",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1372,7 +1437,7 @@
       "from": "denkan",
       "to": "hobbabobbabooh",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1381,7 +1446,7 @@
       "from": "hugo",
       "to": "emil",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1399,7 +1464,7 @@
       "from": "hugo",
       "to": "ARTHAS",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1417,7 +1482,7 @@
       "from": "hugo",
       "to": "linus",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1426,7 +1491,7 @@
       "from": "uschtvii",
       "to": "linus",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1435,7 +1500,7 @@
       "from": "linus",
       "to": "wannehed",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1444,7 +1509,7 @@
       "from": "denkan",
       "to": "coral",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1453,7 +1518,7 @@
       "from": "coral",
       "to": 8,
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1462,7 +1527,7 @@
       "from": 8,
       "to": "toste",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1471,16 +1536,16 @@
       "from": "denkan",
       "to": "max",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
     },
     {
-      "from": "chris",
+      "from": "lambert",
       "to": "rThor",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1489,7 +1554,7 @@
       "from": "max",
       "to": "jorel",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1511,7 +1576,7 @@
       }
     },
     {
-      "from": "august",
+      "from": "agge",
       "to": "claes",
       "dashes": true,
       "arrows": "to",
@@ -1550,7 +1615,7 @@
       "from": "jorel",
       "to": "fredrik",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1559,7 +1624,7 @@
       "from": "fredrik",
       "to": "magnus",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1568,7 +1633,7 @@
       "from": "fredrik",
       "to": "niklas",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1591,7 +1656,7 @@
       "from": "jorel",
       "to": "Storel",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1600,7 +1665,7 @@
       "from": "denkan",
       "to": "david",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1609,7 +1674,7 @@
       "from": "hugo",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1618,7 +1683,7 @@
       "from": "uschtvii",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1627,7 +1692,7 @@
       "from": 8,
       "to": "kmug",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1636,7 +1701,7 @@
       "from": "jorel",
       "to": "dan",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1654,7 +1719,7 @@
       "from": "jorel",
       "to": "becca",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1663,7 +1728,7 @@
       "from": "tod",
       "to": "jezeray",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1681,7 +1746,7 @@
       "from": "jezeray",
       "to": "ting",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1699,7 +1764,7 @@
       "from": "niklas",
       "to": "mitch",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1708,23 +1773,32 @@
       "from": "mitch",
       "to": "mike",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
     },
     {
       "from": "mitch",
-      "to": "chris",
+      "to": "lambert",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "agge",
+      "to": "agges polare",
+      "dashes": false,
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
     },
     {
       "from": "niklas",
-      "to": "august",
+      "to": "agge",
       "dashes": false,
       "arrows": "from,middle",
       "color": {
@@ -1735,7 +1809,7 @@
       "from": "niklas",
       "to": "connor",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1750,10 +1824,10 @@
       }
     },
     {
-      "from": "august",
+      "from": "agge",
       "to": "alex",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1762,7 +1836,7 @@
       "from": "linus",
       "to": "sarah",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1771,7 +1845,7 @@
       "from": "ting",
       "to": "ting2",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1801,7 +1875,7 @@
       "from": "spacehippo",
       "to": "fia",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1866,7 +1940,7 @@
       "from": "max",
       "to": "frej",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1882,7 +1956,7 @@
       "from": "max",
       "to": "Fawger",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1891,7 +1965,7 @@
       "from": "spacehippo",
       "to": "bishop",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1900,7 +1974,7 @@
       "from": "niklas",
       "to": "laxen",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1909,7 +1983,7 @@
       "from": "niklas",
       "to": "Altires",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1934,7 +2008,7 @@
       "from": 8,
       "to": "trattkatt",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1950,7 +2024,7 @@
       "from": "ARTHAS",
       "to": "daniel",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1968,7 +2042,7 @@
       "from": "hugo",
       "to": "claes",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1977,24 +2051,6 @@
       "from": "uschtvii",
       "to": "claes",
       "dashes": false,
-      "arrows": "from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "gravebot",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "gravebot",
-      "dashes": false,
       "arrows": "middle",
       "color": {
         "inherit": "from"
@@ -2002,79 +2058,7 @@
     },
     {
       "from": "hugo",
-      "to": "snakebunker",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "snakebunker",
-      "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "tatsu",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "tatsu",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "gulliga roboten",
-      "dashes": false,
-      "arrows": "to,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "gulliga roboten",
-      "dashes": false,
-      "arrows": "from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "dåliga roboten",
-      "dashes": false,
-      "arrows": "to,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "dåliga roboten",
-      "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "elevrådsordföranden",
+      "to": "gravebot",
       "dashes": false,
       "arrows": "to,from,middle",
       "color": {
@@ -2083,9 +2067,99 @@
     },
     {
       "from": "uschtvii",
-      "to": "elevrådsordföranden",
+      "to": "gravebot",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "snakebunker",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "snakebunker",
       "dashes": false,
       "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "tatsu",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "tatsu",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "gulliga roboten",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "gulliga roboten",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "elevrådsordföranden",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "elevrådsordföranden",
+      "dashes": false,
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2103,7 +2177,7 @@
       "from": "uschtvii",
       "to": "synthugo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2121,7 +2195,7 @@
       "from": "uschtvii",
       "to": "språkröret",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2130,7 +2204,7 @@
       "from": "denkan",
       "to": "sudden",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2155,7 +2229,7 @@
       "from": "toste",
       "to": "Tostes brädspelkompis",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2164,7 +2238,7 @@
       "from": "linus",
       "to": "Linus kompis",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2182,7 +2256,7 @@
       "from": "magnus",
       "to": "Tor",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -2191,7 +2265,7 @@
       "from": "magnus",
       "to": "Thriump",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -2200,7 +2274,7 @@
       "from": "fia",
       "to": "sidosteg",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2209,7 +2283,7 @@
       "from": "fia",
       "to": "linnea, fias kompis",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2222,7 +2296,7 @@
     {
       "from": "claes",
       "to": "emil",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "linus",
@@ -2232,12 +2306,12 @@
     {
       "from": "hugo",
       "to": "claes",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "spacehippo",
       "to": "fia",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jorel",
@@ -2247,7 +2321,7 @@
     {
       "from": "niklas",
       "to": "connor",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "tod",
@@ -2262,7 +2336,7 @@
     {
       "from": "mitch",
       "to": "mike",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "fredrik",
@@ -2271,7 +2345,7 @@
     },
     {
       "from": "niklas",
-      "to": "chris",
+      "to": "lambert",
       "color": "turquoise"
     },
     {
@@ -2282,7 +2356,7 @@
     {
       "from": "hugo",
       "to": "emil",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jezeray",
@@ -2296,7 +2370,7 @@
     },
     {
       "from": "niklas",
-      "to": "august",
+      "to": "agge",
       "color": "hotpink"
     },
     {
@@ -2312,7 +2386,7 @@
     {
       "from": "denkan",
       "to": "eddy",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jezeray",
@@ -2322,7 +2396,7 @@
     {
       "from": "hugo",
       "to": "linus",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jorel",
@@ -2332,17 +2406,17 @@
     {
       "from": "jorel",
       "to": "tod",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
-      "from": "august",
+      "from": "agge",
       "to": "alex",
       "color": "hotpink"
     },
     {
       "from": "niklas",
       "to": "mitch",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "hugo",
@@ -2352,17 +2426,17 @@
     {
       "from": "fredrik",
       "to": "niklas",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": 8,
       "to": "toste",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "denkan",
       "to": "max",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jorel",
@@ -2372,7 +2446,7 @@
     {
       "from": "jezeray",
       "to": "ting",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "claes",
@@ -2382,15 +2456,15 @@
     {
       "from": "claes",
       "to": "ARTHAS",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "denkan",
       "to": 8,
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
-      "from": "emil",
+      "from": "max",
       "to": "jean-pierre lacomposte",
       "color": "hotpink"
     },
@@ -2406,28 +2480,42 @@
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to"
+      "arrows": "to,middle"
     },
     {
       "from": "206865838265860106",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "from,middle"
+      "arrows": "to,middle"
     },
     {
       "from": "247414318922989568",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "middle"
+      "arrows": "from,middle"
+    },
+    {
+      "from": "319602980355571723",
+      "to": "jean-pierre lacomposte",
+      "dashes": true,
+      "color": "hotpink",
+      "arrows": "to,middle"
+    },
+    {
+      "from": "265153081484902400",
+      "to": "jean-pierre lacomposte",
+      "dashes": true,
+      "color": "hotpink",
+      "arrows": "to"
     },
     {
       "from": "363411935141691392",
       "to": "jean-pierre lacomposte",
       "dashes": true,
       "color": "hotpink",
-      "arrows": "to,from"
+      "arrows": "to,from,middle"
     }
   ]
 }
