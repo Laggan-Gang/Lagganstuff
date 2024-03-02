@@ -2,18 +2,18 @@
   "nodes": [
     {
       "id": "magnus",
-      "label": "Clam\nHaj#0188",
-      "size": 17.856382169812974,
-      "image": "https://media.discordapp.net/attachments/209707792314007552/967526158835023912/unknown.png",
-      "color": "#ff60cc",
+      "label": "sushihaj",
+      "size": 19.516715053316716,
+      "image": "https://i.redd.it/ycxc1xqwr5l21.jpg",
+      "color": "#9d8f5a",
       "discordLegitimation": "130467432513929216",
       "typ": "användare",
       "gickMed": "Thu May 09 2019 18:02:13 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "hugo",
-      "label": "Egentliga Goblin\nsnygghugo#5201",
-      "size": 25,
+      "label": "Rajtan Titan\nsnygghugo",
+      "size": 25.0045470220371,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#e74c3c",
       "discordLegitimation": "207840759087497217",
@@ -22,8 +22,8 @@
     },
     {
       "id": "emil",
-      "label": "Rare Cash Back Witch\nemilson#8911",
-      "size": 24.99275193850273,
+      "label": "Rare Cash Back Witch\nkonradsberg",
+      "size": 24.99897890009193,
       "image": "https://cdn.discordapp.com/avatars/210077289294200832/9d7e84ba9f7dfbec0c314de66c188e5b",
       "color": "#1f8b4c",
       "discordLegitimation": "210077289294200832",
@@ -32,8 +32,8 @@
     },
     {
       "id": "uschtvii",
-      "label": "uschtvii#4333",
-      "size": 24.994081124160637,
+      "label": "（╹◡╹）\nuschtvii",
+      "size": 25,
       "image": "https://cdn.discordapp.com/avatars/207974495393153024/9eb048f59702315672d0c7b3126ebe26",
       "color": "#2ecc71",
       "discordLegitimation": "207974495393153024",
@@ -42,9 +42,9 @@
     },
     {
       "id": "ARTHAS",
-      "label": "väntande nuke som väntar\nnuke#3998",
-      "size": 17.169390741151325,
-      "image": "https://cdn.discordapp.com/avatars/162288590192246784/acc93af07ad1be71160ff4036c8ad393",
+      "label": "vanliga nuke igen\nnuke3998",
+      "size": 18.98895813898381,
+      "image": "https://cdn.discordapp.com/avatars/162288590192246784/356a697c5b6440fb26879128fb699b3f",
       "color": "#3498db",
       "alternativaNamn": [
         "victor"
@@ -55,19 +55,19 @@
     },
     {
       "id": "icefrag",
-      "label": "Colossal Frog#7469",
-      "size": 10.714062452883898,
-      "image": "https://cdn.discordapp.com/avatars/162288590192246784/acc93af07ad1be71160ff4036c8ad393",
-      "color": "#000000",
+      "label": "colossalfrog",
+      "size": 14.029880313791441,
+      "image": "https://cdn.discordapp.com/avatars/162288590192246784/356a697c5b6440fb26879128fb699b3f",
+      "color": "#ff60cc",
       "discordLegitimation": "629231357167665162",
       "typ": "användare",
       "gickMed": "Sun Feb 13 2022 12:16:00 GMT+0100 (Central European Standard Time)"
     },
     {
       "id": "pontus",
-      "label": "müntgreen#5770",
-      "size": 11.270291291245208,
-      "image": "https://cdn.discordapp.com/avatars/237608224319209472/a75e226c45cd3aba87ec4973ec6568d8",
+      "label": "schmintgreen",
+      "size": 14.457183461652015,
+      "image": "https://cdn.discordapp.com/avatars/237608224319209472/12b02790637c44bd88d57d1fe5859cbd",
       "color": "#000000",
       "discordLegitimation": "237608224319209472",
       "typ": "användare",
@@ -75,8 +75,8 @@
     },
     {
       "id": "spacehippo",
-      "label": "Spachips med dippo\nSpacehippo#7460",
-      "size": 15.509936145725359,
+      "label": "Spachips med dippo\nfuturehippo",
+      "size": 17.714140791421897,
       "image": "https://cdn.discordapp.com/avatars/208912871621394432/75c594011ee860e2d2d4970dd424a473",
       "color": "#f1c40f",
       "alternativaNamn": [
@@ -88,9 +88,9 @@
     },
     {
       "id": "pkaff",
-      "label": "Pkaff#7212",
-      "size": 13.170817053414389,
-      "image": null,
+      "label": "Hanabii\npkaff",
+      "size": 15.91719521357325,
+      "image": "https://cdn.discordapp.com/avatars/249941929515679744/2998cf5f087f5fb83b8b88c330bb11bf",
       "color": "#11806a",
       "discordLegitimation": "249941929515679744",
       "typ": "användare",
@@ -98,8 +98,8 @@
     },
     {
       "id": "VidyaViking",
-      "label": "Ulfbrandt\nVidyaViking (Titan/Hrodvitnir)#9564",
-      "size": 10.690172338150308,
+      "label": "Ulfbrandt\nvidyaviking",
+      "size": 14.011527577427596,
       "image": "https://cdn.discordapp.com/avatars/119046223964536834/454ff2e31ac2ee0e92af8550994ec588",
       "color": "#607d8b",
       "discordLegitimation": "119046223964536834",
@@ -108,8 +108,8 @@
     },
     {
       "id": "doedscalle",
-      "label": "DoedsCalle#5360",
-      "size": 14.896074009399557,
+      "label": "doedscalle",
+      "size": 17.24256289916949,
       "image": "https://cdn.discordapp.com/avatars/219912580813160448/b410ab758a2fbfa9a1636ed2d19f970f",
       "color": "#ff60cc",
       "discordLegitimation": "219912580813160448",
@@ -119,7 +119,7 @@
     {
       "id": "adam",
       "label": "ratontheflip#1562",
-      "size": 14.802058341727726,
+      "size": 17.17033868500839,
       "image": "https://cdn.discordapp.com/avatars/651177486503247872/4b295b6e598c648511f9017df8736644",
       "color": "#ff60cc",
       "discordLegitimation": "651177486503247872",
@@ -128,8 +128,8 @@
     },
     {
       "id": "Elias Thorn",
-      "label": "Elias Thorn#2992",
-      "size": 13.517766833880875,
+      "label": "elias.thorn",
+      "size": 16.183727121159393,
       "image": "https://cdn.discordapp.com/avatars/140204978227642368/27078b64549e865d1114231874e510b6",
       "color": "#ff60cc",
       "discordLegitimation": "140204978227642368",
@@ -146,19 +146,19 @@
     },
     {
       "id": "Hannes",
-      "label": "Hannes#6770",
-      "size": 12.527686051745365,
+      "label": "hannes6770",
+      "size": 15.423132549886997,
       "image": "https://cdn.discordapp.com/avatars/217949634893447169/a1ccc4b288c7070129c3c722b752f585",
-      "color": "#000000",
+      "color": "#c2e33e",
       "discordLegitimation": "217949634893447169",
       "typ": "användare",
       "gickMed": "Tue Jun 01 2021 21:12:27 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "Soggefors",
-      "label": "Sogge\nSoggefors#4032",
-      "size": 12.72526291799203,
-      "image": "https://cdn.discordapp.com/avatars/632228356720689152/3117798833a8094823740866ceddb1a2",
+      "label": "Sogge\nartischoke",
+      "size": 15.574913994984934,
+      "image": "https://cdn.discordapp.com/avatars/632228356720689152/6a45b6046f1f23ae6b7c95c9fc3ab4b0",
       "color": "#ff0000",
       "discordLegitimation": "632228356720689152",
       "typ": "användare",
@@ -166,8 +166,8 @@
     },
     {
       "id": "Låda",
-      "label": "Låda#7332",
-      "size": 11.017043626988444,
+      "label": "qscon",
+      "size": 14.262634893397163,
       "image": "https://cdn.discordapp.com/avatars/251018570027368469/b63aedbef4deb785a134724a8b8726aa",
       "color": "#000000",
       "discordLegitimation": "251018570027368469",
@@ -176,8 +176,8 @@
     },
     {
       "id": "Melker",
-      "label": "Melker#3070",
-      "size": 11.214898146482184,
+      "label": "fingervanten",
+      "size": 14.41462963578986,
       "image": "https://cdn.discordapp.com/avatars/457695196327444482/d83c6a7736f5c7394d5b69f411301533",
       "color": "#2ecc71",
       "discordLegitimation": "457695196327444482",
@@ -186,31 +186,29 @@
     },
     {
       "id": "NQN",
-      "label": "Rob\nNQN#3454",
-      "size": 12.054861612795762,
-      "image": "https://cdn.discordapp.com/avatars/559426966151757824/c7c54eb85e591ced4c2f0864b7ea4e3e",
-      "color": "#000000",
+      "label": "NQN",
+      "size": 25,
       "discordLegitimation": "559426966151757824",
       "typ": "bot",
-      "gickMed": "Sat Aug 07 2021 19:10:42 GMT+0200 (Central European Summer Time)"
+      "gickMed": "2021-08-07T17:10:42.000Z"
     },
     {
       "id": "denkan",
-      "label": "☭\nDeriel#8785",
-      "size": 15.509878075242145,
+      "label": "☭\nderiel",
+      "size": 24.7108996259368,
       "image": "https://cdn.discordapp.com/avatars/145675310682079232/bda7f9f7107d676162a7291d867cddd6",
-      "color": "#f47fff",
+      "color": "#95a5a6",
       "alternativaNamn": [
         "dennis"
       ],
       "discordLegitimation": "145675310682079232",
       "typ": "användare",
-      "gickMed": "Sun Apr 05 2020 20:03:00 GMT+0200 (Central European Summer Time)"
+      "gickMed": "Sat Sep 24 2016 20:43:00 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "hobbabobbabooh",
-      "label": "hobba bobba booh\nhobbabobbabooh#9391",
-      "size": 21.925286698426877,
+      "label": "hobba bobba booh\nhobbabobbabooh",
+      "size": 22.642507134084923,
       "image": "https://cdn.discordapp.com/avatars/148528041713205248/4cdc7ef3035ce75cf176cf2297114b31",
       "color": "#b1ffef",
       "discordLegitimation": "148528041713205248",
@@ -218,19 +216,9 @@
       "gickMed": "Tue Oct 10 2017 21:48:31 GMT+0200 (Central European Summer Time)"
     },
     {
-      "id": "Luddekudde",
-      "label": "Luddekudde#0024",
-      "size": 11.801934187510426,
-      "image": null,
-      "color": "#000000",
-      "discordLegitimation": "212277187351412736",
-      "typ": "kudde",
-      "gickMed": "Sun Sep 12 2021 14:15:30 GMT+0200 (Central European Summer Time)"
-    },
-    {
       "id": "sarah",
       "label": "bug#1170",
-      "size": 10.571491451889889,
+      "size": 13.920355180758335,
       "image": "https://cdn.discordapp.com/avatars/949688339798315069/11bf5ea9df39ea1e8fe6301ad19a8414",
       "color": "#000000",
       "discordLegitimation": "949688339798315069",
@@ -240,7 +228,7 @@
     {
       "id": "LagganDumle",
       "label": "LagganDumle#3745",
-      "size": 11.745383917989496,
+      "size": 14.822156582303691,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#000000",
       "discordLegitimation": "889485510949609474",
@@ -250,7 +238,7 @@
     {
       "id": "mört",
       "label": "mört#4202",
-      "size": 11.617695920320566,
+      "size": 14.724064790607507,
       "image": "https://cdn.discordapp.com/avatars/892467625832091698/7a3eca2a1cf227b42b9b2d9ec22482cc",
       "color": "#000000",
       "discordLegitimation": "892467625832091698",
@@ -259,9 +247,9 @@
     },
     {
       "id": "eddy",
-      "label": "Ebil\nNaone#6104",
-      "size": 24.808115740546253,
-      "image": "https://cdn.discordapp.com/avatars/122696607173967872/69f2c914c92b74a89c0e26e638873879",
+      "label": "Edwin/Naone/LUNGS\nnaone",
+      "size": 24.857138692658353,
+      "image": "https://cdn.discordapp.com/avatars/122696607173967872/2f9acb74e4932e7d9a798680073de790",
       "color": "#992d22",
       "alternativaNamn": [
         "edwin"
@@ -277,7 +265,8 @@
       "image": "https://avatars.githubusercontent.com/u/2163363?v=4",
       "color": "#FF6600",
       "discordLegitimation": "",
-      "typ": "banned"
+      "typ": "bannad",
+      "gickMed": "2016-09-26T22:00:00.000Z"
     },
     {
       "id": "jean-pierre lacomposte",
@@ -292,8 +281,8 @@
     },
     {
       "id": "max",
-      "label": "Mange Med Manglarn\nHulk#6170",
-      "size": 23.099665655394993,
+      "label": "Beloved Boxer\nhulkbust3r",
+      "size": 23.54468226504735,
       "image": "https://cdn.discordapp.com/avatars/161956657402740736/55bc1fec838d29778785e5d27f696b1a",
       "color": "#992d22",
       "discordLegitimation": "161956657402740736",
@@ -302,8 +291,8 @@
     },
     {
       "id": "LagganHumle",
-      "label": "LagganHumle#0690",
-      "size": 11.745398229661802,
+      "label": "Hugo Mobilen\nhugomobilen",
+      "size": 14.822167576740163,
       "image": "https://cdn.discordapp.com/avatars/207840759087497217/c3d15169c28e9b7682d9725277460f4c",
       "color": "#000000",
       "discordLegitimation": "889484950519312384",
@@ -312,8 +301,8 @@
     },
     {
       "id": "jorel",
-      "label": "Jorel\njorel#0995",
-      "size": 21.275585373095208,
+      "label": "Jorel\njoreell",
+      "size": 22.143397051441067,
       "image": null,
       "color": "#e67e22",
       "alternativaNamn": [
@@ -325,8 +314,8 @@
     },
     {
       "id": "fredrik",
-      "label": "Maakep#8596",
-      "size": 17.787254632282078,
+      "label": "Maakep (rdy)\nmaakep",
+      "size": 19.463610237942508,
       "image": "https://cdn.discordapp.com/avatars/157775827692421120/028eb37d23afcbe31da61f35caf9b067",
       "color": "#e67e22",
       "discordLegitimation": "157775827692421120",
@@ -335,8 +324,8 @@
     },
     {
       "id": "tornborg",
-      "label": "tornborg#4124",
-      "size": 14.683846975100295,
+      "label": "tornborg",
+      "size": 17.079526980204275,
       "image": "https://cdn.discordapp.com/avatars/128940731745173505/28a178fc012cfd182a5d0267b59b6a52",
       "color": "#11806a",
       "discordLegitimation": "128940731745173505",
@@ -345,8 +334,8 @@
     },
     {
       "id": "niklas",
-      "label": "Not Clam\nPoppm🅰ister6000#7105",
-      "size": 12.845130913459231,
+      "label": "Poppe ⭐\npoppmaister6000",
+      "size": 15.66699834634969,
       "image": "https://cdn.discordapp.com/avatars/82706128357560320/a0345051c0ecea472761643f58468ae5",
       "color": "#11806a",
       "discordLegitimation": "82706128357560320",
@@ -355,18 +344,16 @@
     },
     {
       "id": "dan",
-      "label": "Daniel the Clamsome\nTMZB#8175",
-      "size": 15.411410111062313,
-      "image": null,
-      "color": "#992d22",
+      "label": "*redacted*",
+      "size": 25,
       "discordLegitimation": "487679870839685120",
-      "typ": "användare",
-      "gickMed": "Sun Apr 19 2020 18:30:04 GMT+0200 (Central European Summer Time)"
+      "typ": "kickad",
+      "gickMed": "2020-04-19T16:30:04.000Z"
     },
     {
       "id": "rThor",
-      "label": "rThor#0617",
-      "size": 12.619032013144379,
+      "label": "rthor0007",
+      "size": 15.493305856551824,
       "image": "https://cdn.discordapp.com/avatars/207171787853791232/56ce54305a0e74d1a75eeb53a737004a",
       "color": "#000000",
       "discordLegitimation": "207171787853791232",
@@ -375,8 +362,8 @@
     },
     {
       "id": "daniel",
-      "label": "Sodatoad#6889",
-      "size": 12.394074669001625,
+      "label": "sodatoad",
+      "size": 15.320490326940407,
       "image": "https://cdn.discordapp.com/avatars/161951163367948288/2b16cde2d882615ea32d0a3c4076e849",
       "color": "#000000",
       "discordLegitimation": "161951163367948288",
@@ -385,8 +372,8 @@
     },
     {
       "id": 8,
-      "label": "Surkolon the Dishonorable\nOverturn#2643",
-      "size": 24.421605192747997,
+      "label": "Surkolon the Dishonorable\noverturn",
+      "size": 24.560215597077445,
       "image": "https://cdn.discordapp.com/avatars/217109962084712448/8996b446e2fac31d9323dee290c16ebb",
       "color": "#9c00ff",
       "alternativaNamn": [
@@ -398,9 +385,9 @@
     },
     {
       "id": "toste",
-      "label": "Tea-Dawg\nToast#3042",
-      "size": 24.518353257880705,
-      "image": "https://cdn.discordapp.com/avatars/84926802065096704/bfd5c2153af2249b0819bc00131cbc34",
+      "label": "Tea-Dawg\n7oast_",
+      "size": 24.634538879024525,
+      "image": "https://cdn.discordapp.com/avatars/84926802065096704/8913fdd08a9d08676f7fbf86cd00649c",
       "color": "#e67e22",
       "discordLegitimation": "84926802065096704",
       "typ": "användare",
@@ -408,8 +395,8 @@
     },
     {
       "id": "linus",
-      "label": "borzoi#8259",
-      "size": 17.072158146209954,
+      "label": "haleborz",
+      "size": 18.91426263413458,
       "image": "https://cdn.discordapp.com/avatars/151467562520150016/43d5643d73cde2baedb64cd534ed4458",
       "color": "#ebceda",
       "discordLegitimation": "151467562520150016",
@@ -418,8 +405,8 @@
     },
     {
       "id": "becca",
-      "label": "Becca\nBeccahesten#3231",
-      "size": 15.38965069263822,
+      "label": "Becca\nbeccahesten",
+      "size": 17.62173574299364,
       "image": null,
       "color": "#ff60cc",
       "discordLegitimation": "583622744650809354",
@@ -428,18 +415,18 @@
     },
     {
       "id": "tod",
-      "label": "Sharpshooter Nanny\nTod#2643",
-      "size": 18.63249402821795,
-      "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
-      "color": "#11806a",
+      "label": "Nanny\ntod2643",
+      "size": 20.11293553298332,
+      "image": "https://cdn.discordapp.com/avatars/128604198110625792/924606ec7832be57e2ec48c2f5446942",
+      "color": "#ff60cc",
       "discordLegitimation": "128604198110625792",
       "typ": "användare",
       "gickMed": "Sat Jan 19 2019 20:56:10 GMT+0100 (Central European Standard Time)"
     },
     {
       "id": "jezeray",
-      "label": "Junior Bones\nJunior#5535",
-      "size": 12.3013940685316,
+      "label": "Jez\njunior5535",
+      "size": 15.249291730975617,
       "image": "https://cdn.discordapp.com/avatars/314857007402319874/641b768b129ab8e779245154df9524d5",
       "color": "#11806a",
       "discordLegitimation": "314857007402319874",
@@ -448,8 +435,8 @@
     },
     {
       "id": "ezekiel",
-      "label": "Ezee#8849",
-      "size": 11.128112422155912,
+      "label": "ezee_72",
+      "size": 14.347959570096704,
       "image": "https://cdn.discordapp.com/avatars/149298760042807296/bc23956d7e342f44c8ab61c1a1e090c8",
       "color": "#000000",
       "discordLegitimation": "149298760042807296",
@@ -458,8 +445,8 @@
     },
     {
       "id": "pao",
-      "label": "madcap pao#4748",
-      "size": 15.480836926657172,
+      "label": "madkappao",
+      "size": 17.691786344743523,
       "image": "https://cdn.discordapp.com/avatars/200638077591355392/bdc03ccfa352a59a059d8e148db60a5f",
       "color": "#11806a",
       "discordLegitimation": "200638077591355392",
@@ -468,8 +455,8 @@
     },
     {
       "id": "Storel",
-      "label": "Spectorel\njorel#2579",
-      "size": 22.903434367431373,
+      "label": "Studiorel\njorel#2579",
+      "size": 23.393934512912423,
       "image": null,
       "color": "#ff60cc",
       "discordLegitimation": "118224261226692608",
@@ -478,9 +465,9 @@
     },
     {
       "id": "ting",
-      "label": "Mesh Ting#5019",
-      "size": 12.068270439696459,
-      "image": "https://cdn.discordapp.com/avatars/241669667469393920/fe49703a12cd4f392cb5dcf53064ee09",
+      "label": "meshting",
+      "size": 15.070202741747,
+      "image": "https://cdn.discordapp.com/avatars/241669667469393920/fe34b6f67e32bfcfe9dd0015a0f510d4",
       "color": "#000000",
       "discordLegitimation": "241669667469393920",
       "typ": "användare",
@@ -489,7 +476,7 @@
     {
       "id": "ting2",
       "label": "Ting#8473",
-      "size": 12.068272084994513,
+      "size": 15.070204005689085,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "872926293136670801",
@@ -498,8 +485,8 @@
     },
     {
       "id": "mitch",
-      "label": "Mbar4660#6081",
-      "size": 12.84513123453688,
+      "label": "mbar4660",
+      "size": 15.666998593006248,
       "image": "https://cdn.discordapp.com/avatars/101367380017442816/6532e6a45a429101c459dd85a1ad101a",
       "color": "#11806a",
       "discordLegitimation": "101367380017442816",
@@ -508,8 +495,8 @@
     },
     {
       "id": "mike",
-      "label": "Mad#6465",
-      "size": 12.556348111244205,
+      "label": "ma.d.",
+      "size": 15.445151164175503,
       "image": "https://cdn.discordapp.com/avatars/131145000124678145/eb1f60dd7a60dcc488c5621865ad9ddf",
       "color": "#ff60cc",
       "discordLegitimation": "131145000124678145",
@@ -518,8 +505,8 @@
     },
     {
       "id": "lambert",
-      "label": "Clam#8208",
-      "size": 12.860461190790318,
+      "label": "thee_clam",
+      "size": 15.678775290135,
       "image": "https://cdn.discordapp.com/avatars/224953719945560066/51205eb843b103b8ad89965f6ccf3f77",
       "color": "#11806a",
       "alternativaNamn": [
@@ -531,8 +518,8 @@
     },
     {
       "id": "agge",
-      "label": "Clam\nCircuz#4554",
-      "size": 12.92376221039422,
+      "label": "Circuz\ncircuzfunpants",
+      "size": 15.727404061378179,
       "image": "https://media.discordapp.net/attachments/934816556590985216/957373395702534224/august.png",
       "color": "#1f8b4c",
       "alternativaNamn": [
@@ -544,8 +531,8 @@
     },
     {
       "id": "connor",
-      "label": "neilz#6569",
-      "size": 12.167228111491415,
+      "label": "neilz",
+      "size": 15.146223475924524,
       "image": null,
       "color": "#607d8b",
       "discordLegitimation": "215911981624852491",
@@ -554,8 +541,8 @@
     },
     {
       "id": "emil2",
-      "label": "UrbanHelsing#9005",
-      "size": 12.548587011416128,
+      "label": "urbanhelsing",
+      "size": 15.439188973511014,
       "image": "https://cdn.discordapp.com/avatars/177559233833730048/5fc441d6bba68deda9d97a9887649ee2",
       "color": "#ff0000",
       "discordLegitimation": "177559233833730048",
@@ -564,8 +551,8 @@
     },
     {
       "id": "alex",
-      "label": "buxu#2526",
-      "size": 12.117874390786993,
+      "label": "buxuwuxu",
+      "size": 15.10830922416124,
       "image": null,
       "color": "#11806a",
       "discordLegitimation": "227040765883187200",
@@ -574,8 +561,8 @@
     },
     {
       "id": "wannehed",
-      "label": "AD(h)D (WHD#756)\nwannehed#3256",
-      "size": 11.622474229800053,
+      "label": "AD(h)D (WHD#756)\nwannehed",
+      "size": 14.727735557998951,
       "image": "https://cdn.discordapp.com/avatars/151072254862557184/3e4209b949c91a1449eb53e51ae05db1",
       "color": "#1abc9c",
       "alternativaNamn": [
@@ -587,8 +574,8 @@
     },
     {
       "id": "david",
-      "label": "Rygar#0753",
-      "size": 23.572110856578085,
+      "label": "brukspatron",
+      "size": 23.90762159457205,
       "image": "https://cdn.discordapp.com/avatars/200371134711988224/e0e9048996470b04b308b99e9630e2b5",
       "color": "#ff60cc",
       "discordLegitimation": "200371134711988224",
@@ -598,7 +585,7 @@
     {
       "id": "Nightmarren",
       "label": "Nightmarren#5971",
-      "size": 12.548419144889387,
+      "size": 15.439060015984273,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "846460036686413856",
@@ -607,8 +594,8 @@
     },
     {
       "id": "Nightmarren2",
-      "label": "Nightmarren#8303",
-      "size": 12.548411328374224,
+      "label": "nightmarren",
+      "size": 15.439054011222735,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "195608359276118016",
@@ -617,8 +604,8 @@
     },
     {
       "id": "Voltz",
-      "label": "Voltz#2451",
-      "size": 10.972914153854234,
+      "label": "v01tz",
+      "size": 14.228733985203998,
       "image": "https://cdn.discordapp.com/avatars/173147201617395713/0d4a7782229a6cb84151b7f6da7b05b4",
       "color": "#000000",
       "discordLegitimation": "173147201617395713",
@@ -627,9 +614,9 @@
     },
     {
       "id": "SATAN",
-      "label": "SATAN\nfia#4446",
-      "size": 13.785642211200347,
-      "image": null,
+      "label": "Moonlight Riddle-Princess\nfia4446",
+      "size": 16.389512913029098,
+      "image": "https://cdn.discordapp.com/avatars/478291848167948289/5c412f6dea60151a2794a0b3678e8183",
       "color": "#00c7ff",
       "discordLegitimation": "478291848167948289",
       "typ": "användare",
@@ -637,9 +624,9 @@
     },
     {
       "id": "SATAN 2",
-      "label": "Clam 2\nsatan 2#3155",
-      "size": 11.673342524810803,
-      "image": "https://cdn.discordapp.com/avatars/893178375374524416/54bd31fce252fd09bbc70674071f3650",
+      "label": "666fia",
+      "size": 14.766813327947789,
+      "image": "https://cdn.discordapp.com/avatars/893178375374524416/c935cde47105d73cd0786b9cf31ec85e",
       "color": "#00c7ff",
       "discordLegitimation": "893178375374524416",
       "typ": "användare",
@@ -648,7 +635,7 @@
     {
       "id": "fia",
       "label": "SATAN 3\nfia#8077",
-      "size": 11.734971438585395,
+      "size": 14.814157562980073,
       "image": null,
       "color": "#00c7ff",
       "alternativaNamn": [
@@ -660,8 +647,8 @@
     },
     {
       "id": "Fawger",
-      "label": "Nilz med swillz to pay the billz\nFawger#9265",
-      "size": 17.0227969863343,
+      "label": "The god gamer\nnilsfagerberg",
+      "size": 18.876342667490896,
       "image": "https://cdn.discordapp.com/avatars/170472369792483328/2a463e439d56c58cb5822e367e31466e",
       "color": "#ff60cc",
       "discordLegitimation": "170472369792483328",
@@ -669,19 +656,9 @@
       "gickMed": "Wed Sep 04 2019 17:20:56 GMT+0200 (Central European Summer Time)"
     },
     {
-      "id": "bishop",
-      "label": "Bishop#8279",
-      "size": 11.170089582260196,
-      "image": "https://cdn.discordapp.com/avatars/128939696867770368/aee10f41e7e7e73e8b5d0d6a012ebd2a",
-      "color": "#000000",
-      "discordLegitimation": "128939696867770368",
-      "typ": "användare",
-      "gickMed": "Fri Dec 10 2021 23:20:55 GMT+0100 (Central European Standard Time)"
-    },
-    {
       "id": "laxen",
-      "label": "Laxen\nlaxen#7932",
-      "size": 11.219774280208753,
+      "label": "Laxen\nthelaxen",
+      "size": 14.418375553202,
       "image": "https://cdn.discordapp.com/avatars/207581293406322689/ed1c62f2f129b959327186a835957a6e",
       "color": "#3498db",
       "discordLegitimation": "207581293406322689",
@@ -691,8 +668,8 @@
     {
       "id": "tod2",
       "label": "Fake Tod#4219",
-      "size": 15.389902935525301,
-      "image": "https://cdn.discordapp.com/avatars/128604198110625792/80e4fdca17d0ae26796e7fed0671a7ed",
+      "size": 17.621929519677337,
+      "image": "https://cdn.discordapp.com/avatars/128604198110625792/924606ec7832be57e2ec48c2f5446942",
       "color": "#ff60cc",
       "discordLegitimation": "701183154509054032",
       "typ": "användare",
@@ -701,7 +678,7 @@
     {
       "id": "frej",
       "label": "frej#9756",
-      "size": 13.885826750055074,
+      "size": 16.466476144467624,
       "image": "https://cdn.discordapp.com/avatars/280314936725471233/ae65fdffaa4ae8bce2081363fdc0ccf1",
       "color": "#000000",
       "discordLegitimation": "280314936725471233",
@@ -711,7 +688,7 @@
     {
       "id": "frej2",
       "label": "Frej#5310",
-      "size": 13.885841170252608,
+      "size": 16.46648722227477,
       "image": "https://cdn.discordapp.com/avatars/280314936725471233/ae65fdffaa4ae8bce2081363fdc0ccf1",
       "color": "#000000",
       "discordLegitimation": "770615405201981461",
@@ -720,8 +697,8 @@
     },
     {
       "id": "Altires",
-      "label": "Altires#5291",
-      "size": 12.322797169684414,
+      "label": "altires",
+      "size": 15.265733907047466,
       "image": "https://cdn.discordapp.com/avatars/187663940501766166/575200967db19fd96b9e3b516b1b7546",
       "color": "#000000",
       "discordLegitimation": "187663940501766166",
@@ -738,7 +715,7 @@
     {
       "id": "tatsu",
       "label": "Tatsu#8792",
-      "size": 24.514006164272054,
+      "size": 24.63119937798662,
       "image": "https://cdn.discordapp.com/avatars/172002275412279296/43fc1879641f6239d6e4038eaa7dabbc",
       "color": "#000000",
       "discordLegitimation": "172002275412279296",
@@ -748,7 +725,7 @@
     {
       "id": "PG",
       "label": "Per Gessle#7113",
-      "size": 10.062181762217334,
+      "size": 13.529096010748152,
       "image": "https://cdn.discordapp.com/avatars/975804505302126632/fcd5306f80c3d6062b98964399fe9e7e",
       "color": "#000000",
       "discordLegitimation": "975804505302126632",
@@ -757,18 +734,16 @@
     },
     {
       "id": "gulliga roboten",
-      "label": "Gulliga Roboten\nHime#2238",
-      "size": 17.299425841383936,
-      "image": "https://cdn.discordapp.com/avatars/604262636581945355/fb4b418f45d7b9f307ccfa2f74295087",
-      "color": "#ff60cc",
+      "label": "gulliga roboten",
+      "size": 25,
       "discordLegitimation": "604262636581945355",
       "typ": "bot",
-      "gickMed": "Sat Jul 27 2019 13:45:56 GMT+0200 (Central European Summer Time)"
+      "gickMed": "2019-07-27T11:45:56.000Z"
     },
     {
       "id": "dåliga roboten",
       "label": "Dåliga roboten\nRythm#3722",
-      "size": 21.408496206443225,
+      "size": 22.245501102071913,
       "image": "https://cdn.discordapp.com/avatars/235088799074484224/9b29bfc497a70b6cc85bb2087936f8fd",
       "color": "#ff60cc",
       "discordLegitimation": "235088799074484224",
@@ -778,7 +753,7 @@
     {
       "id": "claes",
       "label": "Rainbow Dash Claes#7845",
-      "size": 14.555883127158786,
+      "size": 16.981223276284773,
       "image": "https://cdn.discordapp.com/avatars/745345949295181886/f225b748f8d5a260ea078f81f5cb1391",
       "color": "#ff60cc",
       "discordLegitimation": "745345949295181886",
@@ -787,8 +762,8 @@
     },
     {
       "id": "andersson",
-      "label": "Andersson#3008",
-      "size": 11.142015970668073,
+      "label": "ngandersson",
+      "size": 14.358640479887683,
       "image": "https://cdn.discordapp.com/avatars/105631049597353984/afe2c6b17bcfe963c964edc4d5f9b224",
       "color": "#000000",
       "discordLegitimation": "105631049597353984",
@@ -797,8 +772,8 @@
     },
     {
       "id": "sudden",
-      "label": "sudden\nrkty#7687",
-      "size": 17.68547430209606,
+      "label": "sudden\nrkty_",
+      "size": 19.38542109620922,
       "image": null,
       "color": "#ff60cc",
       "discordLegitimation": "506945780431454208",
@@ -808,7 +783,7 @@
     {
       "id": "trattkatt",
       "label": "Trattkatt#3974",
-      "size": 15.078386037800293,
+      "size": 17.382617672053946,
       "image": "https://cdn.discordapp.com/avatars/151040052439285761/9c16743f27b571abd35ace078228bf32",
       "color": "#ff60cc",
       "discordLegitimation": "151040052439285761",
@@ -818,8 +793,8 @@
     {
       "id": "toste2",
       "label": "Toast_2#0867",
-      "size": 17.100725705179688,
-      "image": "https://cdn.discordapp.com/avatars/84926802065096704/bfd5c2153af2249b0819bc00131cbc34",
+      "size": 18.936208651731263,
+      "image": "https://cdn.discordapp.com/avatars/84926802065096704/8913fdd08a9d08676f7fbf86cd00649c",
       "color": "#ff60cc",
       "discordLegitimation": "614830746015629452",
       "typ": "användare",
@@ -827,8 +802,8 @@
     },
     {
       "id": "snakebunker",
-      "label": "snakebunker#5492",
-      "size": 16.81544731462375,
+      "label": "snakebunker",
+      "size": 18.717053609967735,
       "image": "https://cdn.discordapp.com/avatars/207841450333962241/dcab7c38fc52a511365a918d26a0947a",
       "color": "#ff60cc",
       "discordLegitimation": "207841450333962241",
@@ -836,9 +811,9 @@
       "gickMed": "Fri Oct 04 2019 01:37:19 GMT+0200 (Central European Summer Time)"
     },
     {
-      "id": "elevrådsordföranden",
+      "id": "elevis",
       "label": "Elevrådsordföranden#9982",
-      "size": 11.368303132973713,
+      "size": 14.532477595306766,
       "image": "https://cdn.discordapp.com/avatars/908820992703488061/ebb93d06ad03e88d63a2cab21867fb36",
       "color": "#e74c3c",
       "discordLegitimation": "908820992703488061",
@@ -847,8 +822,8 @@
     },
     {
       "id": "kmug",
-      "label": "Kmug#8294",
-      "size": 13.029151288572507,
+      "label": "kmug69",
+      "size": 15.80836549622283,
       "image": "https://cdn.discordapp.com/avatars/139008771862036480/69f18b3d63d6dd50478068dd6dce5a48",
       "color": "#000000",
       "discordLegitimation": "139008771862036480",
@@ -858,7 +833,7 @@
     {
       "id": "synthugo",
       "label": "SyntHugo\nQTweet#9088",
-      "size": 12.081587550594747,
+      "size": 15.080433141565917,
       "image": "https://cdn.discordapp.com/avatars/433615162394804224/54bbc9994ea438adf4a81edeeea7b8f5",
       "color": "#000000",
       "discordLegitimation": "433615162394804224",
@@ -867,8 +842,8 @@
     },
     {
       "id": "språkröret",
-      "label": "Språkröret#8900",
-      "size": 10.87165205297245,
+      "label": "Narrator\nSpråkröret#8900",
+      "size": 14.150942954819389,
       "image": "https://cdn.discordapp.com/avatars/934211681419145247/43282214cdf9a3ef9284e111cb56906f",
       "color": "#000000",
       "discordLegitimation": "934211681419145247",
@@ -878,7 +853,7 @@
     {
       "id": "Santas little scalper",
       "label": "Santas little scalper#7605",
-      "size": 10.833079961090558,
+      "size": 14.121311308374633,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "936272969162977280",
@@ -888,7 +863,7 @@
     {
       "id": "adminbot",
       "label": "adminbot#6277",
-      "size": 10.57228167150162,
+      "size": 13.920962239048567,
       "image": "https://cdn.discordapp.com/avatars/949647007704817665/0ab037b43a272f40371d5dd0ddadfde4",
       "color": "#000000",
       "discordLegitimation": "949647007704817665",
@@ -898,8 +873,8 @@
     {
       "id": "VRHaj",
       "label": "VRHaj#6029",
-      "size": 12.209879183404933,
-      "image": "https://media.discordapp.net/attachments/209707792314007552/967526158835023912/unknown.png",
+      "size": 15.178988654626812,
+      "image": "https://i.redd.it/ycxc1xqwr5l21.jpg",
       "color": "#000000",
       "discordLegitimation": "798977710705475604",
       "typ": "VR",
@@ -907,9 +882,9 @@
     },
     {
       "id": "Tods schackkompis",
-      "label": "Stan#2142",
-      "size": 10.544132992183963,
-      "image": "https://cdn.discordapp.com/avatars/476003192706957342/5ce38da00fecb49009ae224622946d1b",
+      "label": "stan2422",
+      "size": 13.899338010941321,
+      "image": "https://cdn.discordapp.com/avatars/476003192706957342/514c5fa1d1f74787b77eb1dc68c09a07",
       "color": "#ff0000",
       "discordLegitimation": "476003192706957342",
       "typ": "användare",
@@ -917,8 +892,8 @@
     },
     {
       "id": "Tostes brädspelkompis",
-      "label": "Crake\nYade#8174",
-      "size": 12.614134634725458,
+      "label": "Crake\nyade",
+      "size": 15.489543618655576,
       "image": "https://cdn.discordapp.com/avatars/240192826778976267/9f263320aab4bd0481ba603dac264e7f",
       "color": "#000000",
       "discordLegitimation": "240192826778976267",
@@ -927,8 +902,8 @@
     },
     {
       "id": "Tostes polare",
-      "label": "RichoDemus#1337",
-      "size": 12.345512332735467,
+      "label": "richodemus",
+      "size": 15.283184028304172,
       "image": "https://cdn.discordapp.com/avatars/104179279658508288/51d13b42faed0cb45045075e5cba3d2a",
       "color": "#000000",
       "discordLegitimation": "104179279658508288",
@@ -937,18 +912,18 @@
     },
     {
       "id": "kalle kebab",
-      "label": "karl_kadaver#1103",
-      "size": 10.337745504972622,
-      "image": "https://cdn.discordapp.com/avatars/717767450825064468/6a560e434f14783e5c22162568bf86a0",
-      "color": "#000000",
+      "label": "karl_kadaver",
+      "size": 13.740788117655935,
+      "image": "https://cdn.discordapp.com/avatars/717767450825064468/fad3b6c8525665b800b72325b9ca0647",
+      "color": "#31680c",
       "discordLegitimation": "717767450825064468",
       "typ": "användare",
       "gickMed": "Thu Apr 07 2022 19:26:42 GMT+0200 (Central European Summer Time)"
     },
     {
       "id": "Linus kompis",
-      "label": "Scary spice#9024",
-      "size": 10.260484011490323,
+      "label": ".mamadgeo",
+      "size": 13.68143470572092,
       "image": "https://cdn.discordapp.com/avatars/149249725382656000/9f82834fe25e6e6c68f2aa0152fb3627",
       "color": "#000000",
       "discordLegitimation": "149249725382656000",
@@ -957,9 +932,9 @@
     },
     {
       "id": "näbbdjuret",
-      "label": "Perry#0286",
-      "size": 12.124635314925987,
-      "image": "https://cdn.discordapp.com/avatars/255431752070201344/0a190e54e6aeb8812d461f841ec8a567",
+      "label": "perkelton",
+      "size": 15.113503065198948,
+      "image": "https://cdn.discordapp.com/avatars/255431752070201344/47589eb14d839434e9a4e36fb9d1c0c8",
       "color": "#000000",
       "discordLegitimation": "255431752070201344",
       "typ": "användare",
@@ -967,18 +942,16 @@
     },
     {
       "id": "rosa pingvinen",
-      "label": "PinkPenguin#1735",
-      "size": 12.124634159586211,
-      "image": "https://cdn.discordapp.com/avatars/281521046836871168/3188c92ad0768dbdbd89d8e4086c7ed6",
-      "color": "#000000",
+      "label": "rosa pingvinen",
+      "size": 25,
       "discordLegitimation": "281521046836871168",
       "typ": "användare",
-      "gickMed": "Wed Jul 28 2021 22:11:33 GMT+0200 (Central European Summer Time)"
+      "gickMed": "2021-07-28T20:11:33.000Z"
     },
     {
       "id": "sidosteg",
-      "label": "sidestep#5959",
-      "size": 10.478146107007255,
+      "label": "_sidestep",
+      "size": 13.848645918390728,
       "image": "https://cdn.discordapp.com/avatars/309400970524229635/79e250d7d31f707821e76b5f5d11aa7e",
       "color": "#ff60cc",
       "discordLegitimation": "309400970524229635",
@@ -987,8 +960,8 @@
     },
     {
       "id": "Thriump",
-      "label": "Thriump#4981",
-      "size": 12.372288547483354,
+      "label": "thriump",
+      "size": 15.303753909008794,
       "image": null,
       "color": "#000000",
       "discordLegitimation": "222832009343533056",
@@ -998,8 +971,8 @@
     {
       "id": "linnea, fias kompis",
       "label": "aasfjaell#3749",
-      "size": 10.477367634535755,
-      "image": "https://cdn.discordapp.com/avatars/724720729001689170/c6e9931e2361b6375a725399a347584f",
+      "size": 13.848047884425831,
+      "image": "https://cdn.discordapp.com/avatars/724720729001689170/464ddbd57e9ed6a78189cb32ec1bb8ea",
       "color": "#000000",
       "discordLegitimation": "724720729001689170",
       "typ": "användare",
@@ -1007,8 +980,8 @@
     },
     {
       "id": "Tor",
-      "label": "Tor#3596",
-      "size": 11.561266330606736,
+      "label": "tor_elite",
+      "size": 14.680714752540016,
       "image": "https://cdn.discordapp.com/avatars/193782437463982090/63d0c73f70a30b3b82ecb645b6c38d1d",
       "color": "#000000",
       "discordLegitimation": "193782437463982090",
@@ -1017,8 +990,8 @@
     },
     {
       "id": "ryssen",
-      "label": "Mатрос Деревянная Нога#1161",
-      "size": 12.124605636752149,
+      "label": "priestroy",
+      "size": 15.113480265990727,
       "image": "https://cdn.discordapp.com/avatars/326358844613853185/6bc5a1f5d7175028a346162c23b16775",
       "color": "#000000",
       "discordLegitimation": "326358844613853185",
@@ -1027,45 +1000,623 @@
     },
     {
       "id": "agges polare",
-      "label": "esa_A#8355",
-      "size": 10,
+      "label": "esa_a",
+      "size": 13.481327069437478,
       "image": "https://cdn.discordapp.com/avatars/265153081484902400/f4c6a3c07696290a33980ff840bbf093",
-      "color": "#000000",
+      "color": "#580074",
       "discordLegitimation": "265153081484902400",
       "typ": "användare",
       "gickMed": "Wed May 25 2022 14:36:50 GMT+0200 (Central European Summer Time)"
     },
     {
+      "id": "josh",
+      "label": "dominarlambchops",
+      "size": 11.753918415413883,
+      "image": "https://cdn.discordapp.com/avatars/423572394863624209/28785000d5c3962fbf780391554300a0",
+      "color": "#000000",
+      "discordLegitimation": "423572394863624209",
+      "typ": "användare",
+      "gickMed": "Sat Apr 08 2023 20:05:46 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "dmitry",
+      "label": "dmitry.krasilnikov#7969",
+      "size": 12.024961472403094,
+      "image": null,
+      "color": "#31680c",
+      "discordLegitimation": "839578685032103966",
+      "typ": "användare",
+      "gickMed": "Fri Feb 17 2023 20:43:09 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "Mbar4661",
+      "label": "Mbar4661#5973",
+      "size": 13.430047399250103,
+      "image": "https://cdn.discordapp.com/avatars/101367380017442816/6532e6a45a429101c459dd85a1ad101a",
+      "color": "#000000",
+      "discordLegitimation": "507123653863800842",
+      "typ": "cellphone??",
+      "gickMed": "Sat Jun 04 2022 01:20:21 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "Mysterious Benefactor",
+      "label": "Mysterious Benefactor#4435",
+      "size": 13.416375093828199,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "983335766941892630",
+      "typ": "mysterium",
+      "gickMed": "Mon Jun 06 2022 13:47:22 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "LaggTweets",
+      "label": "LaggTweets#2795",
+      "size": 13.006316883837133,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "1010711397715431505",
+      "typ": "bot",
+      "gickMed": "Sun Aug 21 2022 02:48:04 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "ShortStack",
+      "label": "ShortStack#8188",
+      "size": 12.992355782413096,
+      "image": "https://cdn.discordapp.com/avatars/1011640018479091722/632e226be8c6efc2cd65ede1e42803db",
+      "color": "#000000",
+      "discordLegitimation": "1011640018479091722",
+      "typ": "bot",
+      "gickMed": "Tue Aug 23 2022 16:31:41 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "Whens?",
+      "label": "Whens?#2806",
+      "size": 10.231868392164573,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "1192467608088367246",
+      "typ": "bot",
+      "gickMed": "Sun Jan 14 2024 04:36:56 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "That's My BIS",
+      "label": "That's My BIS#6280",
+      "size": 10,
+      "image": "https://cdn.discordapp.com/avatars/645311036785950721/b0c6944d6fac7833eef14a78fbbcdd04",
+      "color": "#000000",
+      "discordLegitimation": "645311036785950721",
+      "typ": "bot",
+      "gickMed": "Sun Feb 25 2024 21:47:15 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "Yapos Queue",
+      "label": "Yapos Queue#9625",
+      "size": 12.39546557578511,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "1051487204213526628",
+      "typ": "bot",
+      "gickMed": "Sun Dec 11 2022 14:35:24 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "Gulliga Roboten 2, Hime",
+      "label": "Gulliga Roboten 2\nHime#5342",
+      "size": 12.305304063823634,
+      "image": "https://cdn.discordapp.com/avatars/1053311277876920330/3561d8673002610f07e1ba4cc155bbc8",
+      "color": "#000000",
+      "discordLegitimation": "1053311277876920330",
+      "typ": "bot",
+      "gickMed": "Wed Dec 28 2022 05:13:33 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "V",
+      "label": "V\nsaph_hoe",
+      "size": 12.421612208021788,
+      "image": "https://cdn.discordapp.com/avatars/108932888921145344/923e1ecdbe911b2539cf99ccf2efb030",
+      "color": "#11806a",
+      "discordLegitimation": "108932888921145344",
+      "typ": "användare",
+      "gickMed": "Tue Dec 06 2022 18:59:12 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "celalingo",
+      "label": "celalingo",
+      "size": 10.308638317363696,
+      "image": "https://cdn.discordapp.com/avatars/779416709844041730/5824cca5915d826f9c7182bce26870af",
+      "color": "#000000",
+      "discordLegitimation": "779416709844041730",
+      "typ": "användare",
+      "gickMed": "Sun Dec 31 2023 01:11:19 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "hugh",
+      "label": "dr.mcwho",
+      "size": 12.371822344384281,
+      "image": "https://cdn.discordapp.com/avatars/174251886675755009/c5d1d15e8aea1b982a8bfe1793b26e2f",
+      "color": "#000000",
+      "discordLegitimation": "174251886675755009",
+      "typ": "användare",
+      "gickMed": "Thu Dec 15 2022 23:07:30 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "ShortStack2",
+      "label": "ShortStack#4012",
+      "size": 11.123306498969184,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "1109079876713066518",
+      "typ": "bot",
+      "gickMed": "Thu Aug 03 2023 00:15:13 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "ShortStack Testing",
+      "label": "ShortStack Testing#9033",
+      "size": 11.053279613002282,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "1141096770902966414",
+      "typ": "bot",
+      "gickMed": "Tue Aug 15 2023 21:52:02 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "dota-coach",
+      "label": "dota-coach#9402",
+      "size": 11.049228752127885,
+      "image": "https://cdn.discordapp.com/avatars/1089945324757454950/0caf37b667c21e33bd9a8e177d882d5f",
+      "color": "#000000",
+      "discordLegitimation": "1089945324757454950",
+      "typ": "bot",
+      "gickMed": "Wed Aug 16 2023 15:46:39 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "Slashman",
+      "label": "Slashman#1153",
+      "size": 13.01257955182157,
+      "image": "https://cdn.discordapp.com/avatars/1010291884041703466/448a3dbc5192359c9e5de804b62db085",
+      "color": "#000000",
+      "discordLegitimation": "1010291884041703466",
+      "typ": "bot",
+      "gickMed": "Fri Aug 19 2022 23:06:42 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "pkaff",
+      "label": "pkaff#0435",
+      "size": 12.95875083670709,
+      "image": null,
+      "color": "#d3779c",
+      "discordLegitimation": "1013887253380091965",
+      "typ": "användare",
+      "gickMed": "Mon Aug 29 2022 21:06:27 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "fias syster",
+      "label": "kodnamn.mk",
+      "size": 10.893734984416856,
+      "image": "https://cdn.discordapp.com/avatars/916841414804013106/2ae9b57ece320b6aaef7347556dd97b5",
+      "color": "#d3779c",
+      "discordLegitimation": "916841414804013106",
+      "typ": "användare",
+      "gickMed": "Thu Sep 14 2023 07:16:13 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "nymm",
+      "label": "nymmeria",
+      "size": 10.760575939341162,
+      "image": "https://cdn.discordapp.com/avatars/232236024238047232/b9e583fe8ac55c6a0c7fe219fc38145a",
+      "color": "#f47fff",
+      "discordLegitimation": "232236024238047232",
+      "typ": "användare",
+      "gickMed": "Sun Oct 08 2023 20:00:48 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "shado",
+      "label": "shado42",
+      "size": 10.190015340765308,
+      "image": "https://cdn.discordapp.com/avatars/112989414140993536/2e0a45e5f236157f6f6830c6b28be55f",
+      "color": "#11806a",
+      "discordLegitimation": "112989414140993536",
+      "typ": "användare",
+      "gickMed": "Sun Jan 21 2024 21:39:46 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "wantonmee",
+      "label": "wantonmee",
+      "size": 10.602611383302126,
+      "image": "https://cdn.discordapp.com/avatars/106772167198248960/bfdf75d4259f0bcfff0d2ff597b2ab04",
+      "color": "#11806a",
+      "discordLegitimation": "106772167198248960",
+      "typ": "användare",
+      "gickMed": "Mon Nov 06 2023 21:25:49 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "koka",
+      "label": "Red\nkoka.7",
+      "size": 10.406476139694576,
+      "image": "https://cdn.discordapp.com/avatars/429703627200790528/4ccf6912eead42e2d2cefdb42ffab1fc",
+      "color": "#11806a",
+      "discordLegitimation": "429703627200790528",
+      "typ": "användare",
+      "gickMed": "Wed Dec 13 2023 00:36:48 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "bugman",
+      "label": "bugman4860",
+      "size": 10.39648929104849,
+      "image": "https://cdn.discordapp.com/avatars/566622786894692352/82aaf68a1affafe15a95bef66d9a106d",
+      "color": "#11806a",
+      "discordLegitimation": "566622786894692352",
+      "typ": "användare",
+      "gickMed": "Thu Dec 14 2023 20:46:07 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "butters",
+      "label": "butters(carl)\nbutterrss",
+      "size": 12.936752026942273,
+      "image": "https://cdn.discordapp.com/avatars/249992847971975169/3905595d5fe73f85e3f76cbed90149aa",
+      "color": "#2ecc71",
+      "discordLegitimation": "249992847971975169",
+      "typ": "användare",
+      "gickMed": "Fri Sep 02 2022 22:22:19 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "the queen",
+      "label": "georgiethespesh_84940",
+      "size": 10.479174714813196,
+      "image": "https://cdn.discordapp.com/avatars/1175136997313097902/20162fb1b891f33b5e4267affa14209a",
+      "color": "#000000",
+      "discordLegitimation": "1175136997313097902",
+      "typ": "användare",
+      "gickMed": "Wed Nov 29 2023 15:11:14 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "eazyezor",
+      "label": "eazyezor",
+      "size": 13.539598065886072,
+      "image": "https://cdn.discordapp.com/avatars/319602980355571723/3b935833b286a6e9ea7109c50683575d",
+      "color": "#000000",
+      "discordLegitimation": "319602980355571723",
+      "typ": "användare",
+      "gickMed": "Sat May 14 2022 20:58:38 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "gandalf",
+      "label": "rustyrm",
+      "size": 12.0568871000361,
+      "image": "https://cdn.discordapp.com/avatars/427044837213077524/609a93c4d6945405d4a1062538c360c2",
+      "color": "#000000",
+      "discordLegitimation": "427044837213077524",
+      "typ": "användare",
+      "gickMed": "Sat Feb 11 2023 23:33:53 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "top200eu",
+      "label": "DirtyMike#8408",
+      "size": 10.977017410536506,
+      "image": "https://cdn.discordapp.com/avatars/211051096351703041/50e3c4a21adc610dc378bec484d53b1c",
+      "color": "#000000",
+      "discordLegitimation": "211051096351703041",
+      "typ": "användare",
+      "gickMed": "Tue Aug 29 2023 23:02:57 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "oskarler",
+      "label": "oskarler",
+      "size": 10.41204699666265,
+      "image": "https://cdn.discordapp.com/avatars/262353635814408193/777f054d04d7ba88d9151effe33107dc",
+      "color": "#000000",
+      "discordLegitimation": "262353635814408193",
+      "typ": "användare",
+      "gickMed": "Mon Dec 11 2023 23:58:57 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "gustavsberg",
+      "label": "gustavsberg",
+      "size": 10.499635941419434,
+      "image": "https://cdn.discordapp.com/avatars/107504940758335488/76b96a065066f006f8c553356fabf47d",
+      "color": "#ff0000",
+      "discordLegitimation": "107504940758335488",
+      "typ": "användare",
+      "gickMed": "Sat Nov 25 2023 20:43:15 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "jonatan",
+      "label": "plath\nionathan124",
+      "size": 10.427880441816265,
+      "image": "https://cdn.discordapp.com/avatars/82204298443759616/e08830ce95c4a571e3aa515af0191b6c",
+      "color": "#d3779c",
+      "discordLegitimation": "82204298443759616",
+      "typ": "användare",
+      "gickMed": "Sat Dec 09 2023 01:58:38 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "crone_",
+      "label": "crone_",
+      "size": 10.414625055588264,
+      "image": "https://cdn.discordapp.com/avatars/262661650849595393/5b449a00e0fc87db4d6c30c6860dd95f",
+      "color": "#d3779c",
+      "discordLegitimation": "262661650849595393",
+      "typ": "användare",
+      "gickMed": "Mon Dec 11 2023 12:35:02 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "peek95",
+      "label": "peek95",
+      "size": 10.326867450897288,
+      "image": "https://cdn.discordapp.com/avatars/622073857788084235/a2c627032f5d0a3e7f009af0065adcef",
+      "color": "#d3779c",
+      "discordLegitimation": "622073857788084235",
+      "typ": "användare",
+      "gickMed": "Wed Dec 27 2023 16:35:29 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "melze",
+      "label": "melze\ncazro",
+      "size": 10.424364816813178,
+      "image": "https://cdn.discordapp.com/avatars/707591026382077964/8aa2ea4c8a5adba30b070687ad3b1418",
+      "color": "#d3779c",
+      "discordLegitimation": "707591026382077964",
+      "typ": "användare",
+      "gickMed": "Sat Dec 09 2023 17:31:16 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "cayfur",
+      "label": "cayfur",
+      "size": 12.502498547316257,
+      "image": "https://cdn.discordapp.com/avatars/483603241297248276/214bfe5082e1df29c21fec2b793d4b1e",
+      "color": "#000000",
+      "discordLegitimation": "483603241297248276",
+      "typ": "användare",
+      "gickMed": "Mon Nov 21 2022 21:21:35 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "comet",
+      "label": "comet01",
+      "size": 10.689895931249408,
+      "image": "https://cdn.discordapp.com/avatars/323176761598803980/6c2373e4bceffde341a7c34d26dd777c",
+      "color": "#000000",
+      "discordLegitimation": "323176761598803980",
+      "typ": "användare",
+      "gickMed": "Sat Oct 21 2023 20:30:52 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "milktea",
+      "label": "bxrdxrlxne",
+      "size": 12.866300017529499,
+      "image": "https://cdn.discordapp.com/avatars/242372002944385036/3a7fef7968614d6c0f2895513e98e9a4",
+      "color": "#492300",
+      "discordLegitimation": "242372002944385036",
+      "typ": "användare",
+      "gickMed": "Thu Sep 15 2022 21:51:54 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "iamtupical",
+      "label": "iamtupical",
+      "size": 10.076663486234947,
+      "image": null,
+      "color": "#11806a",
+      "discordLegitimation": "193774901146943488",
+      "typ": "användare",
+      "gickMed": "Sun Feb 11 2024 18:49:52 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "xxshadowframexx",
+      "label": "xxshadowframexx",
+      "size": 10.12471770853474,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "457648550147260426",
+      "typ": "användare",
+      "gickMed": "Fri Feb 02 2024 22:22:00 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "Samara",
+      "label": "Samara\nspacegee",
+      "size": 12.073171086260858,
+      "image": "https://cdn.discordapp.com/avatars/147440322639560704/0769c9cfce453066abdad7086ef8b686",
+      "color": "#000000",
+      "discordLegitimation": "147440322639560704",
+      "typ": "användare",
+      "gickMed": "Wed Feb 08 2023 23:34:03 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "per",
+      "label": "ns/Per\n.ns.",
+      "size": 13.006762745218941,
+      "image": "https://cdn.discordapp.com/avatars/92588817248161792/166eb4f7cf516fd258955db0eba8b7fb",
+      "color": "#000000",
+      "discordLegitimation": "92588817248161792",
+      "typ": "användare",
+      "gickMed": "Sun Aug 21 2022 00:49:48 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "crisco",
+      "label": "crisco1989",
+      "size": 12.599751902672473,
+      "image": "https://cdn.discordapp.com/avatars/427560794159579147/08e39c8cb24da8eececd1d51642b8ba3",
+      "color": "#9dd9a9",
+      "discordLegitimation": "427560794159579147",
+      "typ": "användare",
+      "gickMed": "Thu Nov 03 2022 23:22:06 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "acerbus",
+      "label": "acerbus1510",
+      "size": 12.599747183465311,
+      "image": null,
+      "color": "#9dd9a9",
+      "discordLegitimation": "354288398535622656",
+      "typ": "användare",
+      "gickMed": "Thu Nov 03 2022 23:23:21 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "zys0",
+      "label": "zys0",
+      "size": 11.867133362926703,
+      "image": "https://cdn.discordapp.com/avatars/209781089613381632/a78ed29ab2fc23c5ed0c68b973f8cf89",
+      "color": "#492300",
+      "discordLegitimation": "209781089613381632",
+      "typ": "användare",
+      "gickMed": "Sat Mar 18 2023 22:31:59 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "piine",
+      "label": "piine17",
+      "size": 15.324913630735104,
+      "image": "https://cdn.discordapp.com/avatars/247414318922989568/dcdba866ebdd7187e94e337fb5605618",
+      "color": "#000000",
+      "discordLegitimation": "247414318922989568",
+      "typ": "användare",
+      "gickMed": "Sat Jun 19 2021 23:28:05 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "roast_beef",
+      "label": "roast_beef475",
+      "size": 10.120409095452967,
+      "image": "https://cdn.discordapp.com/avatars/426744046048772096/871d76f02aedaf6ce631b2954b3f9b35",
+      "color": "#000000",
+      "discordLegitimation": "426744046048772096",
+      "typ": "användare",
+      "gickMed": "Sat Feb 03 2024 17:24:59 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "qdot",
+      "label": "qdot_tildeqdot",
+      "size": 10.12040898299366,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "294743166253531136",
+      "typ": "användare",
+      "gickMed": "Sat Feb 03 2024 17:25:01 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "m1lka",
+      "label": "m1lka8447",
+      "size": 10.120406583652363,
+      "image": null,
+      "color": "#000000",
+      "discordLegitimation": "404093837171228673",
+      "typ": "användare",
+      "gickMed": "Sat Feb 03 2024 17:25:39 GMT+0100 (Central European Standard Time)"
+    },
+    {
       "id": "206865838265860106",
-      "label": "EliasK#3998",
-      "size": 10.747464687716741,
-      "image": "https://cdn.discordapp.com/avatars/206865838265860106/deab28c0b0741bcf845aaf45af90545a",
+      "label": "von_dy",
+      "size": 14.055540400261789,
+      "image": "https://cdn.discordapp.com/avatars/206865838265860106/b406f33a710b0d38e485d7a7b3672cc2",
       "color": "#000000",
       "gickMed": "Tue Feb 08 2022 18:48:52 GMT+0100 (Central European Standard Time)"
     },
     {
-      "id": "247414318922989568",
-      "label": "Piine#9961",
-      "size": 12.399832569788835,
-      "image": "https://cdn.discordapp.com/avatars/247414318922989568/8db405158295a1646c996570c397b85e",
+      "id": "237639600808525825",
+      "label": "asgard_asdf",
+      "size": 13.382145962279555,
+      "image": "https://cdn.discordapp.com/avatars/237639600808525825/23c9c20438e247f3ee18821ddc4234fa",
       "color": "#000000",
-      "gickMed": "Sat Jun 19 2021 23:28:05 GMT+0200 (Central European Summer Time)"
+      "gickMed": "Sun Jun 12 2022 21:07:42 GMT+0200 (Central European Summer Time)"
     },
     {
-      "id": "319602980355571723",
-      "label": "EazyEzor#2191",
-      "size": 10.07585249214062,
-      "image": "https://cdn.discordapp.com/avatars/319602980355571723/3b935833b286a6e9ea7109c50683575d",
+      "id": "132855889429266432",
+      "label": "yungchae",
+      "size": 13.435753786017582,
+      "image": "https://cdn.discordapp.com/avatars/132855889429266432/bc061cf30e3ead59448f693a91d7dd6c",
       "color": "#000000",
-      "gickMed": "Sat May 14 2022 20:58:38 GMT+0200 (Central European Summer Time)"
+      "gickMed": "Fri Jun 03 2022 00:06:34 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "450881977499910154",
+      "label": "thomaslim",
+      "size": 10.288305507097345,
+      "image": "https://cdn.discordapp.com/avatars/450881977499910154/061e79c0ac83b56b994e455bb6624f5a",
+      "color": "#000000",
+      "gickMed": "Wed Jan 03 2024 19:05:14 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "187192204815630336",
+      "label": "magma_o7",
+      "size": 10.163139686675308,
+      "image": "https://cdn.discordapp.com/avatars/187192204815630336/d0a36058dc16f38b7f62bb7ecc4e4b2e",
+      "color": "#000000",
+      "gickMed": "Fri Jan 26 2024 20:29:22 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "125288524634259456",
+      "label": "ivo_pivo",
+      "size": 12.969320773539042,
+      "image": "https://cdn.discordapp.com/avatars/125288524634259456/fc9cd438b4491ba2887c860d7dd9ae46",
+      "color": "#000000",
+      "gickMed": "Sat Aug 27 2022 22:22:27 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "234012391422033931",
+      "label": ".fluxarn",
+      "size": 10.537090389234292,
+      "image": "https://cdn.discordapp.com/avatars/234012391422033931/2be391564f760ee852be97a4ecf54092",
+      "color": "#000000",
+      "gickMed": "Sat Nov 18 2023 23:07:18 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "375791930212352000",
+      "label": "der.heiland",
+      "size": 10.017125599006116,
+      "image": "https://cdn.discordapp.com/avatars/375791930212352000/0b905ec4d14dc48730141bad166bfba5",
+      "color": "#000000",
+      "gickMed": "Thu Feb 22 2024 18:04:09 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "115884465988829192",
+      "label": "sd.mylittlepony",
+      "size": 10.288319435716499,
+      "image": "https://cdn.discordapp.com/avatars/115884465988829192/9dcdba10b33ef9c267cb4f3ddd615263",
+      "color": "#000000",
+      "gickMed": "Wed Jan 03 2024 19:01:32 GMT+0100 (Central European Standard Time)"
     },
     {
       "id": "363411935141691392",
-      "label": "-JoY#1581",
-      "size": 11.396704537449185,
+      "label": "joy1581",
+      "size": 14.554295970585157,
       "image": "https://cdn.discordapp.com/avatars/363411935141691392/8c5aad724a28dfe88c6aa1e30e53fdfb",
       "color": "#000000",
       "gickMed": "Mon Nov 08 2021 21:38:25 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "177866253363314688",
+      "label": "jfranklin",
+      "size": 10.960819874733623,
+      "image": null,
+      "color": "#000000",
+      "gickMed": "Fri Sep 01 2023 22:39:51 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "186425893378326529",
+      "label": "snozzlebert",
+      "size": 10.928748191487069,
+      "image": "https://cdn.discordapp.com/avatars/186425893378326529/4638ade6604e6bd23231eedd24c760b3",
+      "color": "#000000",
+      "gickMed": "Thu Sep 07 2023 20:27:52 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "519917933338558499",
+      "label": "altinovic21",
+      "size": 10.564548176422795,
+      "image": "https://cdn.discordapp.com/avatars/519917933338558499/fce0167560bd7ba1092d36679611043e",
+      "color": "#000000",
+      "gickMed": "Mon Nov 13 2023 21:43:16 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "432224233473572865",
+      "label": "Tensai#9804",
+      "size": 10.955642544481272,
+      "image": null,
+      "color": "#000000",
+      "gickMed": "Sat Sep 02 2023 21:33:18 GMT+0200 (Central European Summer Time)"
+    },
+    {
+      "id": "244571319948148736",
+      "label": "5bot.",
+      "size": 10.814804414998063,
+      "image": "https://cdn.discordapp.com/avatars/244571319948148736/fc39fcf73bbfdceb2a37ae6bb1bd53bc",
+      "color": "#000000",
+      "gickMed": "Thu Sep 28 2023 20:15:00 GMT+0200 (Central European Summer Time)"
     }
   ],
   "edges": [
@@ -1073,7 +1624,7 @@
       "from": "god",
       "to": "hugo",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1082,7 +1633,7 @@
       "from": "ARTHAS",
       "to": "denkan",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1114,7 +1665,7 @@
       "from": "linus",
       "to": "adam",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1123,7 +1674,7 @@
       "from": "toste",
       "to": "doedscalle",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1141,7 +1692,7 @@
       "from": "toste",
       "to": "Tostes polare",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1150,7 +1701,7 @@
       "from": "niklas",
       "to": "VidyaViking",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1159,7 +1710,7 @@
       "from": "jorel",
       "to": "pkaff",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1168,7 +1719,7 @@
       "from": "agge",
       "to": "Hannes",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1184,7 +1735,7 @@
       "from": "snakebunker",
       "to": "Elias Thorn",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1193,7 +1744,7 @@
       "from": "niklas",
       "to": "Korvblad",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1202,7 +1753,7 @@
       "from": "agge",
       "to": "Låda",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1211,7 +1762,7 @@
       "from": "spacehippo",
       "to": "Melker",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1220,7 +1771,7 @@
       "from": "hugo",
       "to": "NQN",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1229,7 +1780,7 @@
       "from": "uschtvii",
       "to": "NQN",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1238,7 +1789,7 @@
       "from": "denkan",
       "to": "eddy",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1247,7 +1798,7 @@
       "from": "hugo",
       "to": "uschtvii",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1256,7 +1807,7 @@
       "from": "uschtvii",
       "to": "hugo",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1274,7 +1825,7 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1311,7 +1862,7 @@
       "from": "magnus",
       "to": "tornborg",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1320,7 +1871,7 @@
       "from": "tornborg",
       "to": "näbbdjuret",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1329,7 +1880,7 @@
       "from": "tornborg",
       "to": "rosa pingvinen",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1338,7 +1889,7 @@
       "from": "hugo",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1347,7 +1898,7 @@
       "from": "uschtvii",
       "to": "Santas little scalper",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1356,7 +1907,16 @@
       "from": "tod",
       "to": "Tods schackkompis",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "Samara",
+      "dashes": false,
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1371,10 +1931,55 @@
       }
     },
     {
+      "from": "magnus",
+      "to": "per",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "mitch",
+      "to": "crisco",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "pao",
+      "to": "piine",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "mitch",
+      "to": "acerbus",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "zys0",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
       "from": "hugo",
       "to": "PG",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1383,7 +1988,7 @@
       "from": "uschtvii",
       "to": "PG",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1401,7 +2006,7 @@
       "from": "jorel",
       "to": "Voltz",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1410,7 +2015,7 @@
       "from": "niklas",
       "to": "Nightmarren",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1433,7 +2038,7 @@
       "from": "denkan",
       "to": "hobbabobbabooh",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1442,7 +2047,7 @@
       "from": "hugo",
       "to": "emil",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1451,7 +2056,7 @@
       "from": "uschtvii",
       "to": "emil",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1460,7 +2065,7 @@
       "from": "hugo",
       "to": "ARTHAS",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1469,25 +2074,25 @@
       "from": "uschtvii",
       "to": "ARTHAS",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
     },
     {
       "from": "hugo",
-      "to": "linus",
-      "dashes": false,
-      "arrows": "to",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
       "to": "linus",
       "dashes": false,
       "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "linus",
+      "dashes": false,
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1496,7 +2101,7 @@
       "from": "linus",
       "to": "wannehed",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1505,7 +2110,7 @@
       "from": "denkan",
       "to": "coral",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1514,7 +2119,7 @@
       "from": "coral",
       "to": 8,
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1523,7 +2128,7 @@
       "from": 8,
       "to": "toste",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1541,7 +2146,7 @@
       "from": "lambert",
       "to": "rThor",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1550,7 +2155,7 @@
       "from": "max",
       "to": "jorel",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1600,7 +2205,7 @@
     },
     {
       "from": "denkan",
-      "to": "elevrådsordföranden",
+      "to": "elevis",
       "dashes": true,
       "arrows": "to",
       "color": {
@@ -1611,7 +2216,7 @@
       "from": "jorel",
       "to": "fredrik",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1620,7 +2225,7 @@
       "from": "fredrik",
       "to": "magnus",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1629,7 +2234,7 @@
       "from": "fredrik",
       "to": "niklas",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1652,7 +2257,7 @@
       "from": "jorel",
       "to": "Storel",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1661,7 +2266,7 @@
       "from": "denkan",
       "to": "david",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1670,7 +2275,7 @@
       "from": "hugo",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1679,7 +2284,7 @@
       "from": "uschtvii",
       "to": "adminbot",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1688,7 +2293,7 @@
       "from": 8,
       "to": "kmug",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1697,7 +2302,7 @@
       "from": "jorel",
       "to": "dan",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1706,7 +2311,7 @@
       "from": "jorel",
       "to": "tod",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1715,7 +2320,7 @@
       "from": "jorel",
       "to": "becca",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1724,7 +2329,16 @@
       "from": "tod",
       "to": "jezeray",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "jezeray",
+      "to": "eazyezor",
+      "dashes": false,
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1733,7 +2347,7 @@
       "from": "jezeray",
       "to": "pao",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1742,7 +2356,7 @@
       "from": "jezeray",
       "to": "ting",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1751,7 +2365,7 @@
       "from": "jezeray",
       "to": "ezekiel",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1760,7 +2374,7 @@
       "from": "niklas",
       "to": "mitch",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -1778,7 +2392,7 @@
       "from": "mitch",
       "to": "lambert",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1787,7 +2401,7 @@
       "from": "agge",
       "to": "agges polare",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1796,7 +2410,7 @@
       "from": "niklas",
       "to": "agge",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1805,7 +2419,7 @@
       "from": "niklas",
       "to": "connor",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -1814,7 +2428,7 @@
       "from": "niklas",
       "to": "emil2",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1823,7 +2437,7 @@
       "from": "agge",
       "to": "alex",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1832,7 +2446,7 @@
       "from": "linus",
       "to": "sarah",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "from",
       "color": {
         "inherit": "from"
       }
@@ -1841,7 +2455,7 @@
       "from": "ting",
       "to": "ting2",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -1871,7 +2485,7 @@
       "from": "spacehippo",
       "to": "fia",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1936,7 +2550,7 @@
       "from": "max",
       "to": "frej",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1952,16 +2566,7 @@
       "from": "max",
       "to": "Fawger",
       "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "spacehippo",
-      "to": "bishop",
-      "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -1979,7 +2584,7 @@
       "from": "niklas",
       "to": "Altires",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to,middle",
       "color": {
         "inherit": "from"
       }
@@ -1995,7 +2600,7 @@
       "from": "denkan",
       "to": "andersson",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2004,7 +2609,7 @@
       "from": 8,
       "to": "trattkatt",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2020,7 +2625,7 @@
       "from": "ARTHAS",
       "to": "daniel",
       "dashes": false,
-      "arrows": "to",
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
@@ -2029,6 +2634,60 @@
       "from": "uschtvii",
       "to": "spacehippo",
       "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "claes",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "claes",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "gravebot",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "gravebot",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "snakebunker",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "snakebunker",
+      "dashes": false,
       "arrows": "to",
       "color": {
         "inherit": "from"
@@ -2036,7 +2695,7 @@
     },
     {
       "from": "hugo",
-      "to": "claes",
+      "to": "tatsu",
       "dashes": false,
       "arrows": "to,from,middle",
       "color": {
@@ -2045,63 +2704,9 @@
     },
     {
       "from": "uschtvii",
-      "to": "claes",
-      "dashes": false,
-      "arrows": "from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "gravebot",
-      "dashes": false,
-      "arrows": "from,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "gravebot",
-      "dashes": false,
-      "arrows": "middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
-      "to": "snakebunker",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "snakebunker",
-      "dashes": false,
-      "arrows": "to,from",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "hugo",
       "to": "tatsu",
       "dashes": false,
-      "arrows": "to,middle",
-      "color": {
-        "inherit": "from"
-      }
-    },
-    {
-      "from": "uschtvii",
-      "to": "tatsu",
-      "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2119,13 +2724,22 @@
       "from": "uschtvii",
       "to": "gulliga roboten",
       "dashes": false,
-      "arrows": "from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
     },
     {
       "from": "hugo",
+      "to": "dåliga roboten",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
       "to": "dåliga roboten",
       "dashes": false,
       "arrows": "to,from,middle",
@@ -2134,8 +2748,8 @@
       }
     },
     {
-      "from": "uschtvii",
-      "to": "dåliga roboten",
+      "from": "hugo",
+      "to": "gustavsberg",
       "dashes": false,
       "arrows": "middle",
       "color": {
@@ -2143,19 +2757,28 @@
       }
     },
     {
-      "from": "hugo",
-      "to": "elevrådsordföranden",
+      "from": "uschtvii",
+      "to": "gustavsberg",
       "dashes": false,
-      "arrows": "from",
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "elevis",
+      "dashes": false,
+      "arrows": "to,from",
       "color": {
         "inherit": "from"
       }
     },
     {
       "from": "uschtvii",
-      "to": "elevrådsordföranden",
+      "to": "elevis",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2164,7 +2787,7 @@
       "from": "hugo",
       "to": "synthugo",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2182,7 +2805,7 @@
       "from": "hugo",
       "to": "språkröret",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2191,7 +2814,7 @@
       "from": "uschtvii",
       "to": "språkröret",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2200,7 +2823,7 @@
       "from": "denkan",
       "to": "sudden",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2209,7 +2832,7 @@
       "from": "sudden",
       "to": "kalle kebab",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2225,7 +2848,7 @@
       "from": "toste",
       "to": "Tostes brädspelkompis",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2234,7 +2857,7 @@
       "from": "linus",
       "to": "Linus kompis",
       "dashes": false,
-      "arrows": "to,middle",
+      "arrows": "from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2243,7 +2866,7 @@
       "from": "tornborg",
       "to": "ryssen",
       "dashes": false,
-      "arrows": "to,from,middle",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2252,7 +2875,7 @@
       "from": "magnus",
       "to": "Tor",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to",
       "color": {
         "inherit": "from"
       }
@@ -2261,7 +2884,7 @@
       "from": "magnus",
       "to": "Thriump",
       "dashes": false,
-      "arrows": "to,from",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2270,7 +2893,7 @@
       "from": "fia",
       "to": "sidosteg",
       "dashes": false,
-      "arrows": "middle",
+      "arrows": "to,from,middle",
       "color": {
         "inherit": "from"
       }
@@ -2279,7 +2902,507 @@
       "from": "fia",
       "to": "linnea, fias kompis",
       "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "sudden",
+      "to": "dmitry",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "dan",
+      "dashes": false,
       "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "dan",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "jean-pierre lacomposte",
+      "to": "Mysterious Benefactor",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "Yapos Queue",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "Yapos Queue",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "ShortStack",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "ShortStack",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "LaggTweets",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "LaggTweets",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "Whens?",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "Whens?",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "That's My BIS",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "That's My BIS",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "jonatan",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "crone_",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "peek95",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "melze",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "cayfur",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "milktea",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "iamtupical",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "wantonmee",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "comet",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "cayfur",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "Gulliga Roboten 2, Hime",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "Gulliga Roboten 2, Hime",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "ShortStack2",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "ShortStack2",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "ShortStack Testing",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "ShortStack Testing",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "dota-coach",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "dota-coach",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "hugo",
+      "to": "Slashman",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "uschtvii",
+      "to": "Slashman",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "chris",
+      "to": "magnus",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "mitch",
+      "to": "Mbar4661",
+      "dashes": false,
+      "arrows": "to",
+      "color": "hotpink"
+    },
+    {
+      "from": "daniel",
+      "to": "pkaff",
+      "dashes": false,
+      "arrows": "to",
+      "color": "hotpink"
+    },
+    {
+      "from": "fredrik",
+      "to": "V",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "V",
+      "to": "celalingo",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "tod",
+      "to": "butters",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "V",
+      "to": "hugh",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "gandalf",
+      "dashes": false,
+      "arrows": "from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "oskarler",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "joel",
+      "to": "nymm",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "shado",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "roast_beef",
+      "dashes": false,
+      "arrows": "to,from",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "qdot",
+      "dashes": false,
+      "arrows": "middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "m1lka",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "Hannes",
+      "to": "top200eu",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "koka",
+      "dashes": false,
+      "arrows": "to,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "bugman",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "chris",
+      "to": "josh",
+      "dashes": false,
+      "arrows": "from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "nymm",
+      "to": "xxshadowframexx",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "jezeray",
+      "to": "the queen",
+      "dashes": false,
+      "arrows": "to",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "jezeray",
+      "to": "easyezor",
+      "dashes": false,
+      "arrows": "to,from,middle",
+      "color": {
+        "inherit": "from"
+      }
+    },
+    {
+      "from": "fia",
+      "to": "fias syster",
+      "dashes": false,
+      "arrows": "middle",
       "color": {
         "inherit": "from"
       }
@@ -2287,7 +3410,7 @@
     {
       "from": "ARTHAS",
       "to": "denkan",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "claes",
@@ -2302,7 +3425,7 @@
     {
       "from": "hugo",
       "to": "claes",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "spacehippo",
@@ -2317,7 +3440,7 @@
     {
       "from": "niklas",
       "to": "connor",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "tod",
@@ -2332,7 +3455,7 @@
     {
       "from": "mitch",
       "to": "mike",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "fredrik",
@@ -2342,7 +3465,7 @@
     {
       "from": "niklas",
       "to": "lambert",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "claes",
@@ -2352,7 +3475,7 @@
     {
       "from": "hugo",
       "to": "emil",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jezeray",
@@ -2362,17 +3485,17 @@
     {
       "from": "hugo",
       "to": "ARTHAS",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "niklas",
       "to": "agge",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
       "to": "fia",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "niklas",
@@ -2382,7 +3505,7 @@
     {
       "from": "denkan",
       "to": "eddy",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jezeray",
@@ -2397,27 +3520,27 @@
     {
       "from": "jorel",
       "to": "dan",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "jorel",
       "to": "tod",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "agge",
       "to": "alex",
-      "color": "turquoise"
+      "color": "hotpink"
     },
     {
       "from": "niklas",
       "to": "mitch",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "hugo",
       "to": "spacehippo",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "fredrik",
@@ -2427,12 +3550,12 @@
     {
       "from": 8,
       "to": "toste",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "denkan",
       "to": "max",
-      "color": "hotpink"
+      "color": "turquoise"
     },
     {
       "from": "jorel",
@@ -2460,51 +3583,10 @@
       "color": "hotpink"
     },
     {
-      "from": "bishop",
+      "from": "Altires",
       "to": "jean-pierre lacomposte",
-      "color": "hotpink"
-    },
-    {
-      "from": "Luddekudde",
-      "to": "jean-pierre lacomposte",
-      "dashes": true,
       "color": "hotpink",
-      "arrows": "to"
-    },
-    {
-      "from": "jean-pierre lacomposte",
-      "to": "jean-pierre lacomposte",
-      "dashes": true,
-      "color": "hotpink",
-      "arrows": "middle"
-    },
-    {
-      "from": "206865838265860106",
-      "to": "jean-pierre lacomposte",
-      "dashes": true,
-      "color": "hotpink",
-      "arrows": "to,from"
-    },
-    {
-      "from": "247414318922989568",
-      "to": "jean-pierre lacomposte",
-      "dashes": true,
-      "color": "hotpink",
-      "arrows": "to"
-    },
-    {
-      "from": "319602980355571723",
-      "to": "jean-pierre lacomposte",
-      "dashes": true,
-      "color": "hotpink",
-      "arrows": "to,from"
-    },
-    {
-      "from": "363411935141691392",
-      "to": "jean-pierre lacomposte",
-      "dashes": true,
-      "color": "hotpink",
-      "arrows": "to"
+      "pilar": "middle"
     }
   ]
 }
